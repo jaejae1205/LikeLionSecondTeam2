@@ -1,0 +1,1219 @@
+fileFormatVersion: 2
+guid: 9284eb5743a91a04d81fde7082890b62
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2092878489816065931
+    second: Lightning_blue-Sheet_0
+  - first:
+      213: 3186796141010811551
+    second: Lightning_blue-Sheet_1
+  - first:
+      213: 5605283611104858782
+    second: Lightning_blue-Sheet_2
+  - first:
+      213: 6029151205380822258
+    second: Lightning_blue-Sheet_3
+  - first:
+      213: -7648697134619843603
+    second: Lightning_blue-Sheet_4
+  - first:
+      213: 8858475082720960611
+    second: Lightning_blue-Sheet_5
+  - first:
+      213: 6271609128604897074
+    second: Lightning_blue-Sheet_6
+  - first:
+      213: -5269327603602540229
+    second: Lightning_blue-Sheet_7
+  - first:
+      213: 8434978389162279975
+    second: Lightning_blue-Sheet_8
+  - first:
+      213: -7874668017474082605
+    second: Lightning_blue-Sheet_9
+  - first:
+      213: -1063191588373926996
+    second: Lightning_blue-Sheet_10
+  - first:
+      213: 8002301446597286588
+    second: Lightning_blue-Sheet_11
+  - first:
+      213: -2144574716135284412
+    second: Lightning_blue-Sheet_12
+  - first:
+      213: -7792292705290659088
+    second: Lightning_blue-Sheet_13
+  - first:
+      213: 7201993835949799452
+    second: Lightning_blue-Sheet_14
+  - first:
+      213: -1553018428525680367
+    second: Lightning_blue-Sheet_15
+  - first:
+      213: 5479513555249553620
+    second: Lightning_blue-Sheet_16
+  - first:
+      213: -695530733149010805
+    second: Lightning_blue-Sheet_17
+  - first:
+      213: 846326525151275841
+    second: Lightning_blue-Sheet_18
+  - first:
+      213: -8377233882080325951
+    second: Lightning_blue-Sheet_19
+  - first:
+      213: -7076274186098059161
+    second: Lightning_blue-Sheet_20
+  - first:
+      213: -8298579174972897190
+    second: Lightning_blue-Sheet_21
+  - first:
+      213: -7641434980044451876
+    second: Lightning_blue-Sheet_22
+  - first:
+      213: 3455035701825851035
+    second: Lightning_blue-Sheet_23
+  - first:
+      213: -4042473464371308225
+    second: Lightning_blue-Sheet_24
+  - first:
+      213: -7640984014898721592
+    second: Lightning_blue-Sheet_25
+  - first:
+      213: -4167502689971936016
+    second: Lightning_blue-Sheet_26
+  - first:
+      213: 2009687114239615622
+    second: Lightning_blue-Sheet_27
+  - first:
+      213: -4122446178141999640
+    second: Lightning_blue-Sheet_28
+  - first:
+      213: 2168409055436035318
+    second: Lightning_blue-Sheet_29
+  - first:
+      213: 5628080208359628201
+    second: Lightning_blue-Sheet_30
+  - first:
+      213: 7246320333607769899
+    second: Lightning_blue-Sheet_31
+  - first:
+      213: 253339616339143622
+    second: Lightning_blue-Sheet_32
+  - first:
+      213: -4929666827163902759
+    second: Lightning_blue-Sheet_33
+  - first:
+      213: 8258618687567723993
+    second: Lightning_blue-Sheet_34
+  - first:
+      213: -2357095387385904898
+    second: Lightning_blue-Sheet_35
+  - first:
+      213: 7645669341448075294
+    second: Lightning_blue-Sheet_36
+  - first:
+      213: -5396158241720633086
+    second: Lightning_blue-Sheet_37
+  - first:
+      213: -8110944833127654920
+    second: Lightning_blue-Sheet_38
+  - first:
+      213: -2017120820416551741
+    second: Lightning_blue-Sheet_39
+  - first:
+      213: 2400194479017573542
+    second: Lightning_blue-Sheet_40
+  - first:
+      213: 2534409210250454295
+    second: Lightning_blue-Sheet_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lightning_blue-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 15
+        width: 34
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87ea8fd5e56b0d10800000000000000
+      internalID: 2092878489816065931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_blue-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 15
+        width: 26
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9af884b436c93c20800000000000000
+      internalID: 3186796141010811551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_blue-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 15
+        width: 34
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9259390fb7f9cd40800000000000000
+      internalID: 5605283611104858782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_blue-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 15
+        width: 31
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f497d5d319dba350800000000000000
+      internalID: 6029151205380822258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_blue-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 211
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3af680b7e5ad590800000000000000
+      internalID: -7648697134619843603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_blue-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 15
+        width: 38
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3606b3d4720afea70800000000000000
+      internalID: 8858475082720960611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_blue-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 15
+        width: 43
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f8798264b390750800000000000000
+      internalID: 6271609128604897074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_blue-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 15
+        width: 37
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b393c1e66769fd6b0800000000000000
+      internalID: -5269327603602540229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_blue-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 15
+        width: 33
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7244d1e87201f0570800000000000000
+      internalID: 8434978389162279975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_blue-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 210
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8e35ee82f87b290800000000000000
+      internalID: -7874668017474082605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_blue-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 203
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cabe9c622e8ce31f0800000000000000
+      internalID: -1063191588373926996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_blue-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 198
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba960684c2ed0f60800000000000000
+      internalID: 8002301446597286588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_blue-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 195
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441e87a78a0fc32e0800000000000000
+      internalID: -2144574716135284412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_blue-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 181
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa5843e1173cd390800000000000000
+      internalID: -7792292705290659088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_blue-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 171
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18375a6c3f92f360800000000000000
+      internalID: 7201993835949799452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_blue-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 179
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 119671ea7f1927ae0800000000000000
+      internalID: -1553018428525680367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_blue-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 161
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d0669afb842b0c40800000000000000
+      internalID: 5479513555249553620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_blue-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 168
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b844948bb7af856f0800000000000000
+      internalID: -695530733149010805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_blue-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 149
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14be1a79d71cebb00800000000000000
+      internalID: 846326525151275841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_blue-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 156
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce4c323b261ebb80800000000000000
+      internalID: -8377233882080325951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_blue-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 148
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768db549e160ccd90800000000000000
+      internalID: -7076274186098059161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_blue-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 129
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a584947453685dc80800000000000000
+      internalID: -8298579174972897190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_blue-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 137
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdfc4382f5b24f590800000000000000
+      internalID: -7641434980044451876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_blue-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 128
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e4f9d4aa0c2ff20800000000000000
+      internalID: 3455035701825851035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_blue-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 113
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3994365dcf36e7c0800000000000000
+      internalID: -4042473464371308225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_blue-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 98
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc0689a585c5f590800000000000000
+      internalID: -7640984014898721592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_blue-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 114
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4ecb3426e0a26c0800000000000000
+      internalID: -4167502689971936016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_blue-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 100
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682aee958c7d3eb10800000000000000
+      internalID: 2009687114239615622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_blue-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 91
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eded2aea012ac6c0800000000000000
+      internalID: -4122446178141999640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_blue-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 83
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f451051c8cb71e10800000000000000
+      internalID: 2168409055436035318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_blue-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 78
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad9ea27125fa1e40800000000000000
+      internalID: 5628080208359628201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_blue-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 62
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27916563f9109460800000000000000
+      internalID: 7246320333607769899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_blue-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 66
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cbad6fe90b048300800000000000000
+      internalID: 253339616339143622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_blue-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 46
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc5ed1a32e469bb0800000000000000
+      internalID: -4929666827163902759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_blue-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 52
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd70e7b0f18c9270800000000000000
+      internalID: 8258618687567723993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_blue-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 33
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0c62dcb3ae94fd0800000000000000
+      internalID: -2357095387385904898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_blue-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 34
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e187b1fe1cfda1a60800000000000000
+      internalID: 7645669341448075294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_blue-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 35
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209f1725baefc15b0800000000000000
+      internalID: -5396158241720633086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_blue-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 18
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f9d2acd5a2207f80800000000000000
+      internalID: -8110944833127654920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_blue-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 19
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c4e60e0d4fb104e0800000000000000
+      internalID: -2017120820416551741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_blue-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 18
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac32b179243f4120800000000000000
+      internalID: 2400194479017573542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_blue-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 15
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715e474bfb70c2320800000000000000
+      internalID: 2534409210250454295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1294 @@
+fileFormatVersion: 2
+guid: 57b15c49f857175449ff57a43f6ae52e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4263908608304989677
+    second: Angel_Mage_golden_attack3-Sheet_0
+  - first:
+      213: 4345288432511158501
+    second: Angel_Mage_golden_attack3-Sheet_1
+  - first:
+      213: 2928059343075642242
+    second: Angel_Mage_golden_attack3-Sheet_2
+  - first:
+      213: -3209556906977640584
+    second: Angel_Mage_golden_attack3-Sheet_3
+  - first:
+      213: 6480922396325981971
+    second: Angel_Mage_golden_attack3-Sheet_4
+  - first:
+      213: -8339994587701577409
+    second: Angel_Mage_golden_attack3-Sheet_5
+  - first:
+      213: 4402157359039701452
+    second: Angel_Mage_golden_attack3-Sheet_6
+  - first:
+      213: -4045671900660735109
+    second: Angel_Mage_golden_attack3-Sheet_7
+  - first:
+      213: -5265901585878954910
+    second: Angel_Mage_golden_attack3-Sheet_8
+  - first:
+      213: 520402761787926143
+    second: Angel_Mage_golden_attack3-Sheet_9
+  - first:
+      213: -5418242609374686302
+    second: Angel_Mage_golden_attack3-Sheet_10
+  - first:
+      213: -4263497185530795016
+    second: Angel_Mage_golden_attack3-Sheet_11
+  - first:
+      213: 7964286190443185152
+    second: Angel_Mage_golden_attack3-Sheet_12
+  - first:
+      213: 93771871003959690
+    second: Angel_Mage_golden_attack3-Sheet_13
+  - first:
+      213: 3682286406617090844
+    second: Angel_Mage_golden_attack3-Sheet_14
+  - first:
+      213: -4235740177224405436
+    second: Angel_Mage_golden_attack3-Sheet_15
+  - first:
+      213: 8860274544271593107
+    second: Angel_Mage_golden_attack3-Sheet_16
+  - first:
+      213: -9206994710705210238
+    second: Angel_Mage_golden_attack3-Sheet_17
+  - first:
+      213: 4144268163385457633
+    second: Angel_Mage_golden_attack3-Sheet_18
+  - first:
+      213: -704990774403490488
+    second: Angel_Mage_golden_attack3-Sheet_19
+  - first:
+      213: 988217550064717647
+    second: Angel_Mage_golden_attack3-Sheet_20
+  - first:
+      213: -531091657670458785
+    second: Angel_Mage_golden_attack3-Sheet_21
+  - first:
+      213: 222166686724624967
+    second: Angel_Mage_golden_attack3-Sheet_22
+  - first:
+      213: 3491818249372317455
+    second: Angel_Mage_golden_attack3-Sheet_23
+  - first:
+      213: 833050673219965085
+    second: Angel_Mage_golden_attack3-Sheet_24
+  - first:
+      213: 513609229004791738
+    second: Angel_Mage_golden_attack3-Sheet_25
+  - first:
+      213: 6643376098790091181
+    second: Angel_Mage_golden_attack3-Sheet_26
+  - first:
+      213: 1458647754718831097
+    second: Angel_Mage_golden_attack3-Sheet_27
+  - first:
+      213: -278105218816555270
+    second: Angel_Mage_golden_attack3-Sheet_28
+  - first:
+      213: 6493964280110648409
+    second: Angel_Mage_golden_attack3-Sheet_29
+  - first:
+      213: -4703033133505613304
+    second: Angel_Mage_golden_attack3-Sheet_30
+  - first:
+      213: -1192008466286913962
+    second: Angel_Mage_golden_attack3-Sheet_31
+  - first:
+      213: 1143544575291489411
+    second: Angel_Mage_golden_attack3-Sheet_32
+  - first:
+      213: -4325307091845632211
+    second: Angel_Mage_golden_attack3-Sheet_33
+  - first:
+      213: -1570132919067048965
+    second: Angel_Mage_golden_attack3-Sheet_34
+  - first:
+      213: 274440999555175716
+    second: Angel_Mage_golden_attack3-Sheet_35
+  - first:
+      213: -2637304693192489867
+    second: Angel_Mage_golden_attack3-Sheet_36
+  - first:
+      213: 5317480058301130806
+    second: Angel_Mage_golden_attack3-Sheet_37
+  - first:
+      213: -8540785198093564886
+    second: Angel_Mage_golden_attack3-Sheet_38
+  - first:
+      213: 7674483958669499978
+    second: Angel_Mage_golden_attack3-Sheet_39
+  - first:
+      213: 3464018351990296434
+    second: Angel_Mage_golden_attack3-Sheet_40
+  - first:
+      213: 8076366475791668476
+    second: Angel_Mage_golden_attack3-Sheet_41
+  - first:
+      213: -1324297992040529914
+    second: Angel_Mage_golden_attack3-Sheet_42
+  - first:
+      213: 2387320148082078649
+    second: Angel_Mage_golden_attack3-Sheet_43
+  - first:
+      213: -6057921271560773326
+    second: Angel_Mage_golden_attack3-Sheet_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack3-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 121
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5cfb0c9427c2b30800000000000000
+      internalID: 4263908608304989677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack3-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 122
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8017a9ec09d4c30800000000000000
+      internalID: 4345288432511158501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack3-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 126
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b8941857e82a820800000000000000
+      internalID: 2928059343075642242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack3-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 128
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f32318ffc5573d0800000000000000
+      internalID: -3209556906977640584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack3-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 130
+        width: 59
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f22e1059cd0f950800000000000000
+      internalID: 6480922396325981971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack3-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 132
+        width: 58
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f39fd531c13624c80800000000000000
+      internalID: -8339994587701577409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack3-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 131
+        width: 61
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1eeee5bca971d30800000000000000
+      internalID: 4402157359039701452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack3-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 130
+        width: 58
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b73665b57d2ead7c0800000000000000
+      internalID: -4045671900660735109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack3-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 129
+        width: 70
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26cc4875862cbe6b0800000000000000
+      internalID: -5265901585878954910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack3-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 127
+        width: 59
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76608cfd87d83700800000000000000
+      internalID: 520402761787926143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack3-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 126
+        width: 67
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a31659cd098ec4b0800000000000000
+      internalID: -5418242609374686302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack3-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 125
+        width: 59
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fb2f8316e305d4c0800000000000000
+      internalID: -4263497185530795016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack3-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 124
+        width: 68
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0044ae6f714d68e60800000000000000
+      internalID: 7964286190443185152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack3-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 123
+        width: 60
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a816d1515052d4100800000000000000
+      internalID: 93771871003959690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack3-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 12
+        width: 72
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b49ab2afb1a1330800000000000000
+      internalID: 3682286406617090844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack3-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 13
+        width: 59
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e60bf20c0a735c0800000000000000
+      internalID: -4235740177224405436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack3-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 14
+        width: 70
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e8eb711c406fa70800000000000000
+      internalID: 8860274544271593107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack3-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 16
+        width: 60
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28cf383671f2a3080800000000000000
+      internalID: -9206994710705210238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack3-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 18
+        width: 75
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ebfc84ffe5638930800000000000000
+      internalID: 4144268163385457633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack3-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 20
+        width: 58
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d90c930ae5736f0800000000000000
+      internalID: -704990774403490488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack3-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 19
+        width: 72
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f0a6040aad6bd00800000000000000
+      internalID: 988217550064717647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack3-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 18
+        width: 58
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52016183fe21a8f0800000000000000
+      internalID: -531091657670458785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack3-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 17
+        width: 77
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742952bac6b451300800000000000000
+      internalID: 222166686724624967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack3-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 15
+        width: 59
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f073016823e657030800000000000000
+      internalID: 3491818249372317455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack3-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 11
+        width: 62
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d901d217c279f8b00800000000000000
+      internalID: 833050673219965085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack3-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 70
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf51306fd4b02700800000000000000
+      internalID: 513609229004791738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack3-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 82
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da924bd1d53023c50800000000000000
+      internalID: 6643376098790091181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack3-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 85
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1ef6897682e3410800000000000000
+      internalID: 1458647754718831097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack3-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 80
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6c146e6c8f32cf0800000000000000
+      internalID: -278105218816555270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack3-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 78
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c02143b123f1a50800000000000000
+      internalID: 6493964280110648409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack3-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 85
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 802718668487bbeb0800000000000000
+      internalID: -4703033133505613304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack3-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 9
+        width: 74
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 656d5bd8d92257fe0800000000000000
+      internalID: -1192008466286913962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack3-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 9
+        width: 64
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38cf2138bbfaedf00800000000000000
+      internalID: 1143544575291489411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack3-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 71
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f201ecd1c69f3c0800000000000000
+      internalID: -4325307091845632211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack3-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 69
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf38cd4dd64c53ae0800000000000000
+      internalID: -1570132919067048965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack3-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 76
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4251a4292a20fc300800000000000000
+      internalID: 274440999555175716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack3-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 9
+        width: 63
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5748ac5ca59666bd0800000000000000
+      internalID: -2637304693192489867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack3-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 72
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 638234790fb7bc940800000000000000
+      internalID: 5317480058301130806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack3-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 15
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2408b40d19097980800000000000000
+      internalID: -8540785198093564886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack3-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 17
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4eddeecf7e318a60800000000000000
+      internalID: 7674483958669499978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack3-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 32
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27fc0d5865aa21030800000000000000
+      internalID: 3464018351990296434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack3-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 26
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf49f61f484051070800000000000000
+      internalID: 8076366475791668476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack3-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 11
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60049af1ef52f9de0800000000000000
+      internalID: -1324297992040529914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack3-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 16
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b3b09fa607712120800000000000000
+      internalID: 2387320148082078649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack3-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 8
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231665323b0fdeba0800000000000000
+      internalID: -6057921271560773326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
