@@ -1,22 +1,25 @@
-using UnityEngine;
+ï»¿using UnityEngine;
 using UnityEngine.SceneManagement;
 using System.Collections;
 
 public class StagePortal : MonoBehaviour
 {
-    [Header("ÀÌ Æ÷Å»ÀÇ °íÀ¯ ÀÌ¸§ (PlayerSpawnManager¿Í ¿¬°áµÊ)")]
+    [Header("ì´ í¬íƒˆì˜ ê³ ìœ  ì´ë¦„ (PlayerSpawnManagerì™€ ì—°ê²°ë¨)")]
     public string portalName = "ToStageA";
 
-    [Header("ÀÌµ¿ÇÒ ¾À ÀÌ¸§ (Build Settings¿¡ µî·ÏµÈ ÀÌ¸§)")]
+    [Header("ì´ë™í•  ì”¬ ì´ë¦„ (Build Settingsì— ë“±ë¡ëœ ì´ë¦„)")]
     public string destinationSceneName = "StageScene";
 
-    [Header("ÇöÀç ¾À¿¡ ÇÃ·¹ÀÌ¾î°¡ ¼ÒÈ¯µÉ À§Ä¡")]
+    [Header("ë‹¤ìŒ ì”¬ì—ì„œ ë§¤ì¹­í•  í¬íƒˆ ì´ë¦„")]
+    public string targetPortalName = "FromStageA";
+
+    [Header("í˜„ì¬ ì”¬ì— í”Œë ˆì´ì–´ê°€ ì†Œí™˜ë  ìœ„ì¹˜")]
     public Transform spawnPoint;
 
     private bool hasTriggered = false;
     private Collider2D portalCollider;
 
-    private float spawnIgnoreTime = 3; // ¾À ÀüÈ¯ Á÷ÈÄ ¹«½ÃÇÒ ½Ã°£
+    private float spawnIgnoreTime = 2f; // ì”¬ ì „í™˜ ì§í›„ ë¬´ì‹œí•  ì‹œê°„
     private float spawnTime;
 
     private void OnEnable()
@@ -28,7 +31,7 @@ public class StagePortal : MonoBehaviour
     {
         portalCollider = GetComponent<Collider2D>();
         if (portalCollider != null)
-            portalCollider.enabled = false; // ÃÊ±â ºñÈ°¼ºÈ­
+            portalCollider.enabled = false; // ì´ˆê¸° ë¹„í™œì„±í™”
     }
 
     public void EnablePortalAfterSpawn()
@@ -38,17 +41,24 @@ public class StagePortal : MonoBehaviour
 
     private IEnumerator EnableWithDelay()
     {
-        yield return new WaitForSeconds(0.1f); // ÇÃ·¹ÀÌ¾î ½ºÆù ÈÄ Àá½Ã ´ë±â
+        yield return new WaitForSeconds(0.1f); // í”Œë ˆì´ì–´ ìŠ¤í° í›„ ì ì‹œ ëŒ€ê¸°
         if (portalCollider != null)
         {
             portalCollider.enabled = true;
-            Debug.Log($"[Æ÷Å»] {portalName} Äİ¶óÀÌ´õ È°¼ºÈ­µÊ");
+            Debug.Log($"[í¬íƒˆ] {portalName} ì½œë¼ì´ë” í™œì„±í™”ë¨");
         }
     }
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        Debug.Log($"[Æ÷Å» µğ¹ö±×] Ãæµ¹ ¹ß»ı ¡æ other.name: {other.name}, ÅÂ±×: {other.tag}");
+        Debug.Log($"[í¬íƒˆ ë””ë²„ê·¸] ì¶©ëŒ ë°œìƒ â†’ other.name: {other.name}, íƒœê·¸: {other.tag}");
+
+        // âœ… VillageStart í¬íƒˆì€ ì´ë™í•˜ì§€ ì•ŠìŒ
+        if (portalName == "VillageStart")
+        {
+            Debug.Log("[í¬íƒˆ] VillageStartëŠ” ì´ë™ ê¸°ëŠ¥ ì—†ì´ ì‹œì‘ ìœ„ì¹˜ë§Œ ì œê³µ");
+            return;
+        }
 
         if (Time.time - spawnTime < spawnIgnoreTime) return;
         if (hasTriggered || !other.CompareTag("Player")) return;
@@ -57,8 +67,8 @@ public class StagePortal : MonoBehaviour
 
         if (SceneLoadData.Instance != null)
         {
-            SceneLoadData.Instance.LastPortalName = portalName;
-            Debug.Log($"[Æ÷Å»] LastPortalName ¼³Á¤ ¿Ï·á: {portalName}");
+            SceneLoadData.Instance.LastPortalName = targetPortalName;
+            Debug.Log($"[í¬íƒˆ] ë‹¤ìŒ ì”¬ LastPortalName ì„¤ì • ì™„ë£Œ: {targetPortalName}");
         }
 
         StartCoroutine(LoadSceneAfterDelay());

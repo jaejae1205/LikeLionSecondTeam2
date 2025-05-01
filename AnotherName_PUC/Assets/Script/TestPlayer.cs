@@ -23,6 +23,11 @@ public class TestPlayer : MonoBehaviour
         spriteRenderer = GetComponent<SpriteRenderer>();
     }
 
+    void Start()
+    {
+        Debug.Log($"[Player] Start() 위치: {transform.position} at {Time.time}");
+    }
+
     private void Update()
     {
         Debug.Log("[Player 현재 위치]: " + transform.position);

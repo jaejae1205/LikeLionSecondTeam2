@@ -593,6 +593,9 @@ MonoBehaviour:
   targetText: {fileID: 1804171200}
   normalColor: {r: 1, g: 1, b: 1, a: 1}
   hoverColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  selectedColor: {r: 0, g: 1, b: 0, a: 1}
+  characterInfoUI: {fileID: 0}
+  tabType: 0
 --- !u!1 &488405227
 GameObject:
   m_ObjectHideFlags: 0
@@ -1682,6 +1685,9 @@ MonoBehaviour:
   targetText: {fileID: 1532485942}
   normalColor: {r: 1, g: 1, b: 1, a: 1}
   hoverColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  selectedColor: {r: 0, g: 1, b: 0, a: 1}
+  characterInfoUI: {fileID: 0}
+  tabType: 0
 --- !u!1 &1677351182
 GameObject:
   m_ObjectHideFlags: 0
@@ -1737,6 +1743,9 @@ MonoBehaviour:
   targetText: {fileID: 328388044}
   normalColor: {r: 1, g: 1, b: 1, a: 1}
   hoverColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  selectedColor: {r: 0, g: 1, b: 0, a: 1}
+  characterInfoUI: {fileID: 0}
+  tabType: 0
 --- !u!114 &1677351185
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2265,6 +2274,9 @@ MonoBehaviour:
   targetText: {fileID: 601998232}
   normalColor: {r: 1, g: 1, b: 1, a: 1}
   hoverColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  selectedColor: {r: 0, g: 1, b: 0, a: 1}
+  characterInfoUI: {fileID: 0}
+  tabType: 0
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0

@@ -4,6 +4,7 @@ using UnityEngine.SceneManagement;
 
 public class OpeningScene : MonoBehaviour
 {
+
     private bool isLoading = false;
 
     void Update()
@@ -25,7 +26,7 @@ public class OpeningScene : MonoBehaviour
         // }
 
         yield return new WaitForSeconds(0.3f); // ⏳ 여기서 0.3초 대기
-
+                        
         SceneManager.LoadScene("CharacterSelectScene");
     }
 }

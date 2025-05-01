@@ -1,14 +1,40 @@
 ﻿using System.Collections;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using Unity.Cinemachine;
 
 public class PlayerSpawnManager : MonoBehaviour
 {
     public PortalDatabase portalDatabase;
 
     private GameObject player;
-    private Vector3? pendingSpawnPos = null;
     private Rigidbody2D playerRb;
+    private CinemachineCamera virtualCamera;
+
+    private void Awake()
+    {
+        var existingCameras = Object.FindObjectsByType<CinemachineCamera>(FindObjectsSortMode.None);
+
+        if (existingCameras.Length > 1)
+        {
+            for (int i = 1; i < existingCameras.Length; i++)
+            {
+                Destroy(existingCameras[i].gameObject);
+                Debug.Log("[스폰] 중복 CinemachineCamera 제거 완료");
+            }
+            virtualCamera = existingCameras[0];
+        }
+        else if (existingCameras.Length == 1)
+        {
+            virtualCamera = existingCameras[0];
+            DontDestroyOnLoad(virtualCamera.gameObject);
+            Debug.Log("[스폰] CinemachineCamera 최초 생성 및 DontDestroyOnLoad 처리 완료");
+        }
+        else
+        {
+            Debug.LogWarning("[스폰] CinemachineCamera를 찾지 못했습니다.");
+        }
+    }
 
     private void Start()
     {
@@ -19,7 +45,6 @@ public class PlayerSpawnManager : MonoBehaviour
     {
         yield return null;
 
-        // ✅ Player가 완전히 활성화될 때까지 대기 (DontDestroyOnLoad 구조 대응)
         float timer = 0f;
         while ((player == null || !player.activeInHierarchy || player.GetComponent<Rigidbody2D>() == null) && timer < 2f)
         {
@@ -34,16 +59,16 @@ public class PlayerSpawnManager : MonoBehaviour
             yield break;
         }
 
-        string lastPortalId = SceneLoadData.Instance?.LastPortalName;
         string currentScene = SceneManager.GetActiveScene().name;
+        string lastPortalId = SceneLoadData.Instance?.LastPortalName;
 
-#if UNITY_EDITOR
-        if (string.IsNullOrEmpty(lastPortalId))
+        // ▶ 명시적으로 "게임 시작 → VillageScene" 진입인 경우
+        if (SceneLoadData.Instance != null && SceneLoadData.Instance.IsVillageStartRequired())
         {
-            lastPortalId = "ToStageA"; // 디버그용
-            Debug.Log("[디버그] LastPortalId가 비어 있어 'ToStageA'로 강제 설정됨");
+            lastPortalId = "VillageStart";
+            SceneLoadData.Instance.EnteredFromGameStart = false; // 한 번만 사용
+            Debug.Log("[게임시작] 게임 시작으로 VillageScene 진입 → VillageStart 위치 사용");
         }
-#endif
 
         var spawnData = portalDatabase.GetSpawnData(lastPortalId, currentScene);
 
@@ -56,14 +81,17 @@ public class PlayerSpawnManager : MonoBehaviour
             if (playerRb != null)
             {
                 playerRb.linearVelocity = Vector2.zero;
-                yield return new WaitForFixedUpdate();  // ✅ 물리 프레임 이후에 반영
+                yield return new WaitForFixedUpdate();
                 playerRb.MovePosition(spawnPos);
             }
 
             player.transform.position = spawnPos;
 
-            if (Camera.main != null)
-                Camera.main.transform.position = new Vector3(spawnPos.x, spawnPos.y, Camera.main.transform.position.z);
+            if (virtualCamera != null)
+            {
+                virtualCamera.Follow = player.transform;
+                Debug.Log("[스폰] CinemachineCamera의 Follow 대상이 플레이어로 설정됨");
+            }
 
             Debug.Log($"[스폰 최종] transform = {player.transform.position}, rb = {playerRb?.position}, active = {player.activeSelf}");
         }
@@ -72,13 +100,14 @@ public class PlayerSpawnManager : MonoBehaviour
             Debug.LogWarning($"[스폰] SpawnData 매칭 실패 → PortalId: {lastPortalId}, Scene: {currentScene}");
         }
 
-        // ✅ 포탈 콜라이더 활성화
-        foreach (var portal in FindObjectsByType<StagePortal>(FindObjectsSortMode.None))
+        yield return null;
+
+        foreach (var portal in Object.FindObjectsByType<StagePortal>(FindObjectsSortMode.None))
         {
             portal.EnablePortalAfterSpawn();
+            Debug.Log($"[포탈] EnablePortalAfterSpawn 호출됨 → {portal.portalName}");
         }
 
-        // ✅ 스폰 위치가 적용된 이후에만 초기화
         yield return new WaitForSeconds(0.2f);
         if (SceneLoadData.Instance != null)
         {

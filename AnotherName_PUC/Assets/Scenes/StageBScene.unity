@@ -5216,7 +5216,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
-  m_Color: {r: 0.2603773, g: 0.25497323, b: 0.25497323, a: 1}
+  m_Color: {r: 0.3886792, g: 0.23980772, b: 0.23980772, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -26525,7 +26525,7 @@ GameObject:
   - component: {fileID: 2021789821}
   - component: {fileID: 2021789820}
   m_Layer: 0
-  m_Name: AToVillage
+  m_Name: BToVillage
   m_TagString: Portal
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -26579,9 +26579,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f614b50de2ee92e44814cb99b36ef520, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  portalName: AToVillage
+  portalName: BToVillage
   destinationSceneName: VillageScene
-  targetPortalName: ToStageA
+  targetPortalName: ToStageB
   spawnPoint: {fileID: 593185918}
 --- !u!212 &2021789822
 SpriteRenderer:
@@ -26628,7 +26628,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 1
   m_Sprite: {fileID: -2413806693520163455, guid: a86470a33a6bf42c4b3595704624658b, type: 3}
-  m_Color: {r: 0.11258806, g: 0.44591445, b: 0.94716984, a: 0.72156864}
+  m_Color: {r: 0.9490196, g: 0.19589098, b: 0.1137255, a: 0.72156864}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -26647,7 +26647,7 @@ Transform:
   m_GameObject: {fileID: 2021789819}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -10.21, y: -1.53, z: 0}
+  m_LocalPosition: {x: 0.03, y: 5.7, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:

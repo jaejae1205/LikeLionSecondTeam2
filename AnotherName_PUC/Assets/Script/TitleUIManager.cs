@@ -24,6 +24,12 @@ public class TitleUIManager : MonoBehaviour
 
     public void OnClickGameStart()
     {
+        if (SceneLoadData.Instance != null)
+        {
+            SceneLoadData.Instance.EnteredFromGameStart = true;
+            Debug.Log("[타이틀] 게임 시작 → EnteredFromGameStart = true");
+        }
+
         StartCoroutine(GameStartDelayed());
     }
 
