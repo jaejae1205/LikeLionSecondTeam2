@@ -7,6 +7,31 @@ public class TitleUIManager : MonoBehaviour
     [Header("공용 버튼 클릭 사운드")]
     public AudioClip buttonClickSfx;
 
+    private void Start()
+    {
+        CleanupInGameObjects(); // 타이틀씬 진입 시 InGameUI 제거
+        
+        // 타이틀 씬에서 OptionManager가 다시 OptionUI를 찾게 한다
+        if (OptionManager.Instance != null)
+        {
+            OptionManager.Instance.SendMessage("RebindOptionUI"); // or 직접 호출 가능 시: .RebindOptionUI()
+            Debug.Log("[TitleUIManager] OptionUI 재연결 요청 완료");
+        }
+    }
+
+    /// <summary>
+    /// 타이틀씬에서 DontDestroyOnLoad된 InGameUI 제거
+    /// </summary>
+    private void CleanupInGameObjects()
+    {
+        GameObject inGameUI = GameObject.FindWithTag("InGameUI");
+        if (inGameUI != null)
+        {
+            Destroy(inGameUI);
+            Debug.Log("[TitleUIManager] InGameUIManager 제거 완료");
+        }
+    }
+
     /// <summary>
     /// 버튼 클릭 사운드 재생
     /// </summary>

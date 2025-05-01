@@ -21,7 +21,9 @@ public class PlayerSpawnManager : MonoBehaviour
         LoadingUIManager.Instance?.ShowLoading(); // 로딩 페이지 표시
 
         float waitTime = 0f;
-        while (virtualCamera == null && waitTime < 2f)
+        float timeout = 3f;
+
+        while (virtualCamera == null && waitTime < timeout)
         {
             var existingCameras = Object.FindObjectsByType<CinemachineCamera>(FindObjectsSortMode.None);
             if (existingCameras.Length > 1)
@@ -37,7 +39,7 @@ public class PlayerSpawnManager : MonoBehaviour
             {
                 virtualCamera = existingCameras[0];
                 DontDestroyOnLoad(virtualCamera.gameObject);
-                Debug.Log("[스폰] CinemachineCamera 최초 생성 및 DontDestroyOnLoad 처리 완료");
+                Debug.Log("[스폰] CinemachineCamera 최초 인식 및 DontDestroyOnLoad 처리 완료");
             }
 
             waitTime += Time.unscaledDeltaTime;
@@ -46,7 +48,7 @@ public class PlayerSpawnManager : MonoBehaviour
 
         if (virtualCamera == null)
         {
-            Debug.LogWarning("[스폰] CinemachineCamera를 찾지 못했습니다.");
+            Debug.LogWarning("[스폰] CinemachineCamera를 찾지 못했습니다. 스폰은 계속 진행됩니다.");
         }
 
         yield return StartCoroutine(ApplySpawn());
@@ -105,6 +107,10 @@ public class PlayerSpawnManager : MonoBehaviour
                 virtualCamera.Follow = player.transform;
                 Debug.Log("[스폰] CinemachineCamera의 Follow 대상이 플레이어로 설정됨");
             }
+            else
+            {
+                StartCoroutine(WaitUntilCameraFoundAndAssignFollow());
+            }
 
             Debug.Log($"[스폰 최종] transform = {player.transform.position}, rb = {playerRb?.position}, active = {player.activeSelf}");
         }
@@ -126,6 +132,43 @@ public class PlayerSpawnManager : MonoBehaviour
         {
             SceneLoadData.Instance.LastPortalName = null;
             Debug.Log("[스폰] LastPortalName 초기화 완료");
+        }
+    }
+
+    private IEnumerator WaitUntilCameraFoundAndAssignFollow()
+    {
+        float waitTime = 0f;
+        float maxWait = 3f;
+
+        while (virtualCamera == null && waitTime < maxWait)
+        {
+            var found = Object.FindFirstObjectByType<CinemachineCamera>();
+            if (found != null)
+            {
+                virtualCamera = found;
+
+                // ✅ 현재 씬으로 귀속시켜 카메라 꼬임 방지
+                SceneManager.MoveGameObjectToScene(virtualCamera.gameObject, SceneManager.GetActiveScene());
+
+                // ✅ Follow 대상 재설정
+                virtualCamera.Follow = player?.transform;
+
+                // ✅ 카메라 강제 리셋 (일부 컴포넌트 문제 예방)
+                virtualCamera.gameObject.SetActive(false);
+                yield return null;
+                virtualCamera.gameObject.SetActive(true);
+
+                Debug.Log("[스폰] 나중에 등장한 CinemachineCamera에 Follow 재설정 + 씬 재귀속 완료");
+                yield break;
+            }
+
+            waitTime += Time.unscaledDeltaTime;
+            yield return null;
+        }
+
+        if (virtualCamera == null)
+        {
+            Debug.LogWarning("[스폰] 일정 시간 내에 CinemachineCamera를 찾지 못해 Follow 설정 실패");
         }
     }
 }

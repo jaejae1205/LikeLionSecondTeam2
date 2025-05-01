@@ -832,9 +832,7 @@ MonoBehaviour:
   targetText: {fileID: 902785389}
   normalColor: {r: 1, g: 1, b: 1, a: 1}
   hoverColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
-  selectedColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 0}
-  characterInfoUI: {fileID: 0}
-  tabType: 0
+  selectedColor: {r: 0.5698112, g: 0.5698112, b: 0.5698112, a: 1}
 --- !u!1 &902785387
 GameObject:
   m_ObjectHideFlags: 0
@@ -2697,6 +2695,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: SelectionManager
       objectReference: {fileID: 0}
+    - target: {fileID: 7849460981315941414, guid: a7e9c3daf15be2b489edbde95e43bd2b, type: 3}
+      propertyPath: confirmHover
+      value: 
+      objectReference: {fileID: 895323358}
+    - target: {fileID: 7849460981315941414, guid: a7e9c3daf15be2b489edbde95e43bd2b, type: 3}
+      propertyPath: confirmButtonText
+      value: 
+      objectReference: {fileID: 902785389}
+    - target: {fileID: 8085185614650468097, guid: a7e9c3daf15be2b489edbde95e43bd2b, type: 3}
+      propertyPath: confirmButtonText
+      value: 
+      objectReference: {fileID: 902785389}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

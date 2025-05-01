@@ -45,6 +45,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c8106a1d9f884f14db21467d8d5383be, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  confirmButtonText: {fileID: 0}
+  confirmDefaultColor: {r: 1, g: 1, b: 1, a: 1}
 --- !u!114 &7849460981315941414
 MonoBehaviour:
   m_ObjectHideFlags: 0

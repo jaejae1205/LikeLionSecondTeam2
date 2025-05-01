@@ -1130,9 +1130,8 @@ GameObject:
   m_Component:
   - component: {fileID: 307912755}
   - component: {fileID: 307912754}
-  - component: {fileID: 307912756}
   m_Layer: 0
-  m_Name: VillageManager
+  m_Name: BGM_Village
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1150,7 +1149,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 009f53115c592144b96a1c0eb770e426, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  villageBgm: {fileID: 8300000, guid: 9508b7caea4ab484bb8f799f03ff07a9, type: 3}
+  villageBgm: {fileID: 8300000, guid: f769d5dd59092b948b618ca308910051, type: 3}
 --- !u!4 &307912755
 Transform:
   m_ObjectHideFlags: 0
@@ -1166,18 +1165,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &307912756
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 307912753}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6bb3eafe4ecd2e3468d9515332cd2e4a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1001 &422321804
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10133,6 +10120,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2501312948723930336, guid: e7ae78d084949af4c8bc41bbc062584c, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 234ffc47870a2064b8ccb0492e15ff1c, type: 3}
+    - target: {fileID: 2501312948723930336, guid: e7ae78d084949af4c8bc41bbc062584c, type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: 234ffc47870a2064b8ccb0492e15ff1c, type: 3}
     - target: {fileID: 4754077168944533455, guid: e7ae78d084949af4c8bc41bbc062584c, type: 3}
       propertyPath: m_LocalPosition.x
       value: 850.95496
@@ -10274,6 +10269,10 @@ PrefabInstance:
     - target: {fileID: 913723343728292175, guid: 6907bcf6acce68c48b1bc9ac9e2e6e8d, type: 3}
       propertyPath: m_Name
       value: InGameUICanvas
+      objectReference: {fileID: 0}
+    - target: {fileID: 913723343728292175, guid: 6907bcf6acce68c48b1bc9ac9e2e6e8d, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2231421277481080851, guid: 6907bcf6acce68c48b1bc9ac9e2e6e8d, type: 3}
       propertyPath: m_AnchorMax.y
@@ -11727,11 +11726,11 @@ SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
   - {fileID: 995938198}
+  - {fileID: 217101585}
   - {fileID: 461611240}
   - {fileID: 20621532}
   - {fileID: 1706886734}
   - {fileID: 2085545520}
-  - {fileID: 217101585}
   - {fileID: 1236555179}
   - {fileID: 1629614894}
   - {fileID: 1381687625}

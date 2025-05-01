@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class OptionManager : MonoBehaviour
 {
@@ -7,12 +8,17 @@ public class OptionManager : MonoBehaviour
     [Header("옵션 UI 오브젝트")]
     public GameObject optionUIPopup;
 
+    private void Start()
+    {
+        RebindOptionUI(); // 이미 OptionManager.cs에 정의된 함수일 가능성 높음
+    }
+
     private void Awake()
     {
         if (Instance == null)
         {
             Instance = this;
-            // DontDestroyOnLoad(gameObject); // 필요하면 사용
+            // DontDestroyOnLoad(gameObject); // 필요 시 활성화
         }
         else
         {
@@ -20,28 +26,63 @@ public class OptionManager : MonoBehaviour
         }
     }
 
-    private void Start()
+    private void OnEnable()
+    {
+        SceneManager.sceneLoaded += OnSceneLoaded;
+        RebindOptionUI();
+    }
+
+    private void OnDisable()
+    {
+        SceneManager.sceneLoaded -= OnSceneLoaded;
+    }
+
+    private void OnSceneLoaded(Scene scene, LoadSceneMode mode)
+    {
+        RebindOptionUI();
+    }
+
+    /// <summary>
+    /// OptionUI를 다시 찾고, Canvas 카메라와 위치를 재설정한다
+    /// </summary>
+    private void RebindOptionUI()
     {
         if (optionUIPopup == null)
         {
-            Debug.Log("[OptionManager] 비활성 포함 탐색 시작");
+            Debug.Log("[OptionManager] OptionUI 재탐색 실행");
 
-            // ✅ 비활성 오브젝트까지 포함해서 검색
             GameObject[] allObjects = Resources.FindObjectsOfTypeAll<GameObject>();
             foreach (GameObject obj in allObjects)
             {
                 if (obj.CompareTag("OptionUI") && obj.hideFlags == HideFlags.None)
                 {
                     optionUIPopup = obj;
-                    Debug.Log("[OptionManager] OptionUI 자동 연결 성공: " + obj.name);
+                    Debug.Log("[OptionManager] OptionUI 재연결 성공: " + obj.name);
                     break;
                 }
             }
 
             if (optionUIPopup == null)
             {
-                Debug.LogError("[OptionManager] 비활성 상태의 OptionUI도 찾지 못했습니다. 태그 확인 또는 하이어라키 존재 여부 확인!");
+                Debug.LogError("[OptionManager] OptionUI를 찾지 못했습니다. 태그 확인 필요.");
+                return;
             }
+        }
+
+        // 1. Canvas가 카메라를 잃었을 경우 재연결
+        Canvas canvas = optionUIPopup.GetComponentInChildren<Canvas>(true);
+        if (canvas != null && canvas.renderMode == RenderMode.ScreenSpaceCamera)
+        {
+            canvas.worldCamera = Camera.main;
+            Debug.Log("[OptionManager] Canvas의 worldCamera 재연결");
+        }
+
+        // 2. 위치와 스케일 보정
+        RectTransform rect = optionUIPopup.GetComponent<RectTransform>();
+        if (rect != null)
+        {
+            rect.anchoredPosition = Vector2.zero;
+            rect.localScale = Vector3.one;
         }
     }
 

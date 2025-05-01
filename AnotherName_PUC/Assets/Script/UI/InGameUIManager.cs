@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
-using UnityEngine.SceneManagement; // 타이틀 이동용
+using UnityEngine.SceneManagement;
 
 public class InGameUIManager : MonoBehaviour
 {
@@ -19,11 +19,12 @@ public class InGameUIManager : MonoBehaviour
     public Image skillQIconImage;
 
     [Header("메뉴 팝업 UI")]
-    public GameObject menuUI;          // 새로 추가: Menu UI 연결
-    public GameObject optionUI;        // 기존 Option UI 연결
+    public GameObject menuUI;
+    public GameObject optionUI;
 
     [Header("캐릭터 정보 팝업")]
     public GameObject characterInfoUI;
+
     void Awake()
     {
         if (Instance != null)
@@ -34,6 +35,60 @@ public class InGameUIManager : MonoBehaviour
 
         Instance = this;
         DontDestroyOnLoad(gameObject);
+    }
+
+    void OnEnable()
+    {
+        SceneManager.sceneLoaded += OnSceneLoaded;
+    }
+
+    void OnDisable()
+    {
+        SceneManager.sceneLoaded -= OnSceneLoaded;
+    }
+
+    void OnSceneLoaded(Scene scene, LoadSceneMode mode)
+    {
+        RebindUIReferences();  // null일 때만 재연결
+
+        if (SelectedCharacterData.Instance != null)
+        {
+            var info = SelectedCharacterData.Instance.selectedCharacter;
+            ApplyCharacterInfo(info);
+        }
+    }
+
+    public void RebindUIReferences()
+    {
+        if (menuUI == null)
+            menuUI = GameObject.Find("MenuUI");
+
+        if (optionUI == null)
+            optionUI = GameObject.Find("OptionUI");
+
+        if (characterInfoUI == null)
+            characterInfoUI = GameObject.Find("CharacterInfoUI");
+
+        if (portraitImage == null)
+            portraitImage = GameObject.Find("Portrait")?.GetComponent<Image>();
+
+        if (nameText == null)
+            nameText = GameObject.Find("NameText")?.GetComponent<TextMeshProUGUI>();
+
+        if (levelText == null)
+            levelText = GameObject.Find("LevelText")?.GetComponent<TextMeshProUGUI>();
+
+        if (passiveSkillIconImage == null)
+            passiveSkillIconImage = GameObject.Find("PassiveSkillIcon")?.GetComponent<Image>();
+
+        if (skillRIconImage == null)
+            skillRIconImage = GameObject.Find("SkillR")?.GetComponent<Image>();
+
+        if (skillEIconImage == null)
+            skillEIconImage = GameObject.Find("SkillE")?.GetComponent<Image>();
+
+        if (skillQIconImage == null)
+            skillQIconImage = GameObject.Find("SkillQ")?.GetComponent<Image>();
     }
 
     public void ApplyCharacterInfo(CharacterInfo info)
@@ -60,7 +115,6 @@ public class InGameUIManager : MonoBehaviour
             skillQIconImage.sprite = info.skillQIcon;
     }
 
-    // 메뉴 버튼 클릭 시
     public void ShowMenuPopup()
     {
         if (menuUI != null)
@@ -68,8 +122,6 @@ public class InGameUIManager : MonoBehaviour
         else
             Debug.LogWarning("[InGameUIManager] menuUI가 연결되지 않았습니다.");
     }
-
-    // 메뉴 팝업 내부 기능들
 
     public void ResumeGame()
     {
@@ -85,7 +137,7 @@ public class InGameUIManager : MonoBehaviour
             menuUI.SetActive(false);
         }
     }
-    // 초상화 클릭 시
+
     public void ShowCharacterInfoPopup()
     {
         if (characterInfoUI != null)
@@ -102,7 +154,7 @@ public class InGameUIManager : MonoBehaviour
 
     public void ReturnToTitle()
     {
-        SceneManager.LoadScene("TitleScene"); // 돌아가기 클릭 시 타이틀 씬으로 이동
+        SceneManager.LoadScene("TitleScene");
     }
 
     public void QuitGame()

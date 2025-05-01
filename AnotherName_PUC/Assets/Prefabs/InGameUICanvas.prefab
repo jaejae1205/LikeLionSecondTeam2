@@ -1118,7 +1118,7 @@ GameObject:
   - component: {fileID: 3706822391835135993}
   m_Layer: 5
   m_Name: InGameUICanvas
-  m_TagString: Untagged
+  m_TagString: InGameUI
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19206,6 +19206,34 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 4584049427221587995}
     m_Modifications:
+    - target: {fileID: 1712485070642609522, guid: 33432cd643dd55d4fabbf01f4f13dd93, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1712485070642609522, guid: 33432cd643dd55d4fabbf01f4f13dd93, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1712485070642609522, guid: 33432cd643dd55d4fabbf01f4f13dd93, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 5493497963287497380}
+    - target: {fileID: 1712485070642609522, guid: 33432cd643dd55d4fabbf01f4f13dd93, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1712485070642609522, guid: 33432cd643dd55d4fabbf01f4f13dd93, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: CloseUI
+      objectReference: {fileID: 0}
+    - target: {fileID: 1712485070642609522, guid: 33432cd643dd55d4fabbf01f4f13dd93, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: OptionUI, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 1712485070642609522, guid: 33432cd643dd55d4fabbf01f4f13dd93, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     - target: {fileID: 2658056854806289895, guid: 33432cd643dd55d4fabbf01f4f13dd93, type: 3}
       propertyPath: m_AnchorMax.y
       value: 1
@@ -19325,3 +19353,14 @@ RectTransform:
   m_CorrespondingSourceObject: {fileID: 9206391958379239775, guid: 33432cd643dd55d4fabbf01f4f13dd93, type: 3}
   m_PrefabInstance: {fileID: 7405624791143638623}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &5493497963287497380 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 3097002959475846395, guid: 33432cd643dd55d4fabbf01f4f13dd93, type: 3}
+  m_PrefabInstance: {fileID: 7405624791143638623}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1802838906241975537}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e4dfac770dcaf8c45a2455b69e036670, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
