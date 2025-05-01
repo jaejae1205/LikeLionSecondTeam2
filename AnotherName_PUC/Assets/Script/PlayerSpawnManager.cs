@@ -11,34 +11,48 @@ public class PlayerSpawnManager : MonoBehaviour
     private Rigidbody2D playerRb;
     private CinemachineCamera virtualCamera;
 
-    private void Awake()
+    private void Start()
     {
-        var existingCameras = Object.FindObjectsByType<CinemachineCamera>(FindObjectsSortMode.None);
+        StartCoroutine(WaitForCameraAndSpawn());
+    }
 
-        if (existingCameras.Length > 1)
+    private IEnumerator WaitForCameraAndSpawn()
+    {
+        LoadingUIManager.Instance?.ShowLoading(); // 로딩 페이지 표시
+
+        float waitTime = 0f;
+        while (virtualCamera == null && waitTime < 2f)
         {
-            for (int i = 1; i < existingCameras.Length; i++)
+            var existingCameras = Object.FindObjectsByType<CinemachineCamera>(FindObjectsSortMode.None);
+            if (existingCameras.Length > 1)
             {
-                Destroy(existingCameras[i].gameObject);
-                Debug.Log("[스폰] 중복 CinemachineCamera 제거 완료");
+                for (int i = 1; i < existingCameras.Length; i++)
+                {
+                    Destroy(existingCameras[i].gameObject);
+                    Debug.Log("[스폰] 중복 CinemachineCamera 제거 완료");
+                }
+                virtualCamera = existingCameras[0];
             }
-            virtualCamera = existingCameras[0];
+            else if (existingCameras.Length == 1)
+            {
+                virtualCamera = existingCameras[0];
+                DontDestroyOnLoad(virtualCamera.gameObject);
+                Debug.Log("[스폰] CinemachineCamera 최초 생성 및 DontDestroyOnLoad 처리 완료");
+            }
+
+            waitTime += Time.unscaledDeltaTime;
+            yield return null;
         }
-        else if (existingCameras.Length == 1)
-        {
-            virtualCamera = existingCameras[0];
-            DontDestroyOnLoad(virtualCamera.gameObject);
-            Debug.Log("[스폰] CinemachineCamera 최초 생성 및 DontDestroyOnLoad 처리 완료");
-        }
-        else
+
+        if (virtualCamera == null)
         {
             Debug.LogWarning("[스폰] CinemachineCamera를 찾지 못했습니다.");
         }
-    }
 
-    private void Start()
-    {
-        StartCoroutine(ApplySpawn());
+        yield return StartCoroutine(ApplySpawn());
+
+        yield return new WaitForSeconds(0.2f);
+        LoadingUIManager.Instance?.HideLoading(); // 로딩 페이지 종료
     }
 
     private IEnumerator ApplySpawn()
@@ -49,7 +63,7 @@ public class PlayerSpawnManager : MonoBehaviour
         while ((player == null || !player.activeInHierarchy || player.GetComponent<Rigidbody2D>() == null) && timer < 2f)
         {
             player = GameObject.FindWithTag("Player");
-            timer += Time.deltaTime;
+            timer += Time.unscaledDeltaTime;
             yield return null;
         }
 
@@ -62,11 +76,10 @@ public class PlayerSpawnManager : MonoBehaviour
         string currentScene = SceneManager.GetActiveScene().name;
         string lastPortalId = SceneLoadData.Instance?.LastPortalName;
 
-        // ▶ 명시적으로 "게임 시작 → VillageScene" 진입인 경우
         if (SceneLoadData.Instance != null && SceneLoadData.Instance.IsVillageStartRequired())
         {
             lastPortalId = "VillageStart";
-            SceneLoadData.Instance.EnteredFromGameStart = false; // 한 번만 사용
+            SceneLoadData.Instance.EnteredFromGameStart = false;
             Debug.Log("[게임시작] 게임 시작으로 VillageScene 진입 → VillageStart 위치 사용");
         }
 
