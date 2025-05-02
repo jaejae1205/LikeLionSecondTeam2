@@ -10,12 +10,11 @@ public class NPCController : MonoBehaviour
     [SerializeField] private float stopDistance = 1.5f;
 
     [Header("사운드")]
-    public AudioClip signSound;       // 사인 표시 효과음
-    public AudioClip dialogueSound;   // 대사 넘길 때 효과음
-    public AudioClip walkSound;       // 걷기 효과음 (루프)
+    public AudioClip signSound;
+    public AudioClip dialogueSound;
+    public AudioClip walkSound;
 
-    private AudioSource audioSource;  // 오디오 재생기
-
+    private AudioSource audioSource;
     private GameObject signObject;
     private Transform player;
     private Animator animator;
@@ -28,8 +27,7 @@ public class NPCController : MonoBehaviour
     public TextMeshProUGUI text;
 
     private int clickCount = 0;
-
-    private float walkSoundTimer = 0f; // 걷기 소리 간격 타이머
+    private float walkSoundTimer = 0f;
 
     void Start()
     {
@@ -65,9 +63,6 @@ public class NPCController : MonoBehaviour
         {
             audioSource = gameObject.AddComponent<AudioSource>();
         }
-
-        // 초기 상태에서 대화창 비활성화
-        talkPanel.SetActive(false);
     }
 
     void Update()
@@ -89,20 +84,12 @@ public class NPCController : MonoBehaviour
                 transform.position = Vector2.MoveTowards(transform.position, player.position, moveSpeed * Time.deltaTime);
                 if (animator != null) animator.SetBool("IsWalk", true);
 
-                // 걷기 사운드 재생 (속도 조정)
-                if (walkSound != null && audioSource != null && !audioSource.isPlaying)
-                {
-                    audioSource.clip = walkSound;
-                    audioSource.loop = false; // 루프 모드 비활성화
-                    audioSource.pitch = 1f; // 음의 높낮이는 그대로
-                }
-
-                // 1초마다 걷기 소리 재생
+                // 걷기 사운드 (0.5초 간격)
                 walkSoundTimer += Time.deltaTime;
-                if (walkSoundTimer >= 0.5f) // 1초가 지났다면
+                if (walkSoundTimer >= 0.5f && walkSound != null && audioSource != null)
                 {
-                    walkSoundTimer = 0f; // 타이머 초기화
-                    audioSource.PlayOneShot(walkSound);  // 소리 재생
+                    walkSoundTimer = 0f;
+                    audioSource.PlayOneShot(walkSound);
                 }
 
                 if (signObject != null && signVisible && signObject.activeSelf)
@@ -114,39 +101,30 @@ public class NPCController : MonoBehaviour
             {
                 if (animator != null) animator.SetBool("IsWalk", false);
 
-                // 걷기 사운드 정지
-                if (audioSource != null && audioSource.clip == walkSound && audioSource.isPlaying)
-                {
-                    audioSource.Stop();
-                    audioSource.loop = false;
-                    audioSource.clip = null;
-                }
-
                 if (signObject != null && signVisible && !signObject.activeSelf)
                 {
                     signObject.SetActive(true);
-
                     if (signSound != null && audioSource != null)
                     {
-                        audioSource.PlayOneShot(signSound);
+                        audioSource.PlayOneShot(signSound); // 즉시 재생
                     }
                 }
             }
 
+            // NPC 방향 조정
             if (transform.position.x < player.position.x)
                 transform.localScale = new Vector3(1, 1, 1);
             else
                 transform.localScale = new Vector3(-1, 1, 1);
         }
 
-        // 스페이스바를 누르면 대화 진행
-        if (Input.GetKeyDown(KeyCode.Space) && !dialogueEnded && talkPanel.activeSelf)
+        // 대화 진행은 오직 스페이스바로
+        if (Input.GetKeyDown(KeyCode.Space) && talkPanel.activeSelf && !dialogueEnded)
         {
             AdvanceDialogue();
         }
     }
 
-    // NPC 클릭 시 대화창 활성화
     void OnMouseDown()
     {
         if (dialogueEnded) return;
@@ -165,17 +143,8 @@ public class NPCController : MonoBehaviour
             animator.SetBool("IsWalk", false);
         }
 
-        // 걷기 사운드 정지 (대화 중이므로)
-        if (audioSource != null && audioSource.clip == walkSound && audioSource.isPlaying)
-        {
-            audioSource.Stop();
-            audioSource.loop = false;
-            audioSource.clip = null;
-        }
-
-        // 대화창 활성화 및 첫 대사 출력
+        AdvanceDialogue(); // 첫 대사 출력
         talkPanel.SetActive(true);
-        AdvanceDialogue();
     }
 
     private void AdvanceDialogue()
@@ -184,7 +153,7 @@ public class NPCController : MonoBehaviour
 
         if (dialogueSound != null && audioSource != null)
         {
-            audioSource.PlayOneShot(dialogueSound);
+            audioSource.PlayOneShot(dialogueSound); // 즉시 재생
         }
 
         switch (clickCount)
