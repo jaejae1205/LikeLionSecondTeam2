@@ -532,6 +532,12 @@ MonoBehaviour:
     skillRIcon: {fileID: 0}
     skillEIcon: {fileID: 0}
     skillQIcon: {fileID: 0}
+    skillQDescription: 
+    skillEDescription: 
+    skillRDescription: 
+    passiveSkillName: 
+    passiveSkillDescription: 
+    passiveSkillLevel: 0
 --- !u!4 &817779805
 Transform:
   m_ObjectHideFlags: 0
@@ -1314,6 +1320,18 @@ MonoBehaviour:
     \uB41C \uCC9C\uC0AC"
   - "\uB2E4\uAC00 \uC124 \uC218 \uC5C6\uB294 \uC790\n\uC660\uC9C0 \uB2E4\uAC00 \uC124
     \uC218 \uC5C6\uB2E4.... \uB0B4\uC6A9\uC774 \uD544\uC694\uD568"
+  skillQDescriptions:
+  - "\uBD88\uC5D0 \uC0BC\uCF1C\uC9C4 \uC790 Q \uC2A4\uD0AC"
+  - "\uD558\uB298\uC5D0\uC11C \uC628 \uC790 Q \uC2A4\uD0AC"
+  - "\uB2E4\uAC00\uC124 \uC218 \uC5C6\uB294\uC790 Q \uC2A4\uD0AC"
+  skillEDescriptions:
+  - "\uBE14\uC5D0 \uC0BC\uCF1C\uC9C4 \uC790 E \uC2A4\uD0AC"
+  - "\uD558\uB298\uC5D0\uC11C \uC628 \uC790 E \uC2A4\uD0AC"
+  - "\uB2E4\uAC00\uC124 \uC218 \uC5C6\uB294\uC790 E \uC2A4\uD0AC"
+  skillRDescriptions:
+  - "\uBE14\uC5D0 \uC0BC\uCF1C\uC9C4 \uC790 R \uC2A4\uD0AC"
+  - "\uD558\uB298\uC5D0\uC11C \uB0B4\uB824\uC628 \uC790 R \uC2A4\uD0AC"
+  - "\uB2E4\uAC00\uC124 \uC218 \uC5C6\uB294 \uC790 R \uC2A4\uD0AC"
   characterPrefabs:
   - {fileID: 1096756191}
   - {fileID: 1224544017}
@@ -1337,6 +1355,18 @@ MonoBehaviour:
   - {fileID: -4960189880391560060, guid: 487531cf12e1d9e4cae72b27ee67988f, type: 3}
   - {fileID: 6529246876035109974, guid: 6c1ed9f081b7e3647bcf7ea0eab0c72d, type: 3}
   - {fileID: -2525254044910630093, guid: 4f9d54fbf5738b944a5fa10e1ac54edc, type: 3}
+  passiveSkillNames:
+  - "\uC9C0\uC625 \uD654\uC5FC (\uD328\uC2DC\uBE0C)"
+  - "\uD558\uB298\uC758 \uCD95\uBCF5 (\uD328\uC2DC\uBE0C)"
+  - "\uC9C0\uC0C1\uC758 \uC704\uC5C4 (\uD328\uC2DC\uBE0C)"
+  passiveSkillDescriptions:
+  - "\uBD88\uC5D0 \uC0BC\uCF1C\uC9C4 \uC790 \uD328\uC2DC\uBE0C \uC2A4\uD0AC\n\uC9C0\uC625
+    \uD654\uC5FC"
+  - "\uD558\uB298\uC5D0\uC11C \uC628 \uC790 \uD328\uC2DC\uBE0C \uC2A4\uD0AC\n\uD558\uB298\uC758
+    \uCD95\uBCF5"
+  - "\uB2E4\uAC00 \uC124 \uC218 \uC5C6\uB294 \uC790 \uD328\uC2DC\uBE0C \uC2A4\uD0AC\n\uC9C0\uC0C1\uC758
+    \uC704\uC5C4"
+  passiveSkillLevels: 010000000100000001000000
   skillRIcons:
   - {fileID: -8153659161412096104, guid: 04dea7cb4920b3a48ba337c9d2de7fd4, type: 3}
   - {fileID: 5784841554121364614, guid: 04dea7cb4920b3a48ba337c9d2de7fd4, type: 3}

@@ -18,17 +18,30 @@ public class CharacterInfoUI : MonoBehaviour
     public TextMeshProUGUI nameText;
     public TextMeshProUGUI levelText;
 
+    [Header("캐릭터 정보창 내 스킬 아이콘")]
+    public Image skillQIconInInfoPanel;
+    public Image skillEIconInInfoPanel;
+    public Image skillRIconInInfoPanel;
+
+    [Header("스킬 설명 영역")]
+    public TextMeshProUGUI skillDescriptionText;
+
+    [Header("패시브 스킬 정보")]
+    public TextMeshProUGUI passiveSkillNameText;
+    public TextMeshProUGUI passiveSkillDescriptionText;
+    public TextMeshProUGUI passiveSkillLevelText;
+    public Image passiveSkillIconImage;
+
     private void OnEnable()
     {
         ShowBasicInfo();
-        ApplyCharacterInfo(); // 캐릭터 정보 적용
+        ApplyCharacterInfo();
         StartCoroutine(DelayedSelectDefaultTab());
     }
 
     private IEnumerator DelayedSelectDefaultTab()
     {
-        yield return null; // 한 프레임 기다림
-
+        yield return null;
         if (defaultTabButton != null && SelectionManager.Instance != null)
         {
             SelectionManager.Instance.ForceSelectDefault(defaultTabButton);
@@ -44,14 +57,17 @@ public class CharacterInfoUI : MonoBehaviour
             return;
         }
 
-        if (portraitImage != null)
-            portraitImage.sprite = info.portraitSprite;
+        if (portraitImage != null) portraitImage.sprite = info.portraitSprite;
+        if (nameText != null) nameText.text = info.characterName;
+        if (levelText != null) levelText.text = "Lv.1";
 
-        if (nameText != null)
-            nameText.text = info.characterName;
+        if (passiveSkillNameText != null) passiveSkillNameText.text = info.passiveSkillName;
+        if (passiveSkillDescriptionText != null) passiveSkillDescriptionText.text = info.passiveSkillDescription;
+        if (passiveSkillLevelText != null) passiveSkillLevelText.text = $"Lv. {info.passiveSkillLevel}";
 
-        if (levelText != null)
-            levelText.text = "Lv.1"; // 필요 시 실제 캐릭터 레벨 정보로 대체
+        if (passiveSkillIconImage != null) passiveSkillIconImage.sprite = info.passiveSkillIcon;
+
+        Debug.Log($"[CharacterInfoUI] 패시브 스킬: {info.passiveSkillName} / Lv.{info.passiveSkillLevel}");
     }
 
     public void ShowBasicInfo()
@@ -63,9 +79,20 @@ public class CharacterInfoUI : MonoBehaviour
 
     public void ShowSkills()
     {
+        Debug.Log("[CharacterInfoUI] ShowSkills() 호출됨");
+
         panelBasicInfo.SetActive(false);
         panelSkills.SetActive(true);
         panelAwakenedSkills.SetActive(false);
+
+        var info = SelectedCharacterData.Instance?.selectedCharacter;
+        if (info == null) return;
+
+        if (skillQIconInInfoPanel != null) skillQIconInInfoPanel.sprite = info.skillQIcon;
+        if (skillEIconInInfoPanel != null) skillEIconInInfoPanel.sprite = info.skillEIcon;
+        if (skillRIconInInfoPanel != null) skillRIconInInfoPanel.sprite = info.skillRIcon;
+
+        if (skillDescriptionText != null) skillDescriptionText.text = info.skillQDescription;
     }
 
     public void ShowAwakenedSkills()
@@ -73,5 +100,26 @@ public class CharacterInfoUI : MonoBehaviour
         panelBasicInfo.SetActive(false);
         panelSkills.SetActive(false);
         panelAwakenedSkills.SetActive(true);
+    }
+
+    public void OnClickSkillQ()
+    {
+        var info = SelectedCharacterData.Instance?.selectedCharacter;
+        if (info != null && skillDescriptionText != null)
+            skillDescriptionText.text = info.skillQDescription;
+    }
+
+    public void OnClickSkillE()
+    {
+        var info = SelectedCharacterData.Instance?.selectedCharacter;
+        if (info != null && skillDescriptionText != null)
+            skillDescriptionText.text = info.skillEDescription;
+    }
+
+    public void OnClickSkillR()
+    {
+        var info = SelectedCharacterData.Instance?.selectedCharacter;
+        if (info != null && skillDescriptionText != null)
+            skillDescriptionText.text = info.skillRDescription;
     }
 }
