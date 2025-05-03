@@ -4,8 +4,9 @@
 TagManager:
   serializedVersion: 3
   tags:
-  - NPC
-  - Sign
+  - OptionUI
+  - Portal
+  - InGameUI
   layers:
   - Default
   - TransparentFX

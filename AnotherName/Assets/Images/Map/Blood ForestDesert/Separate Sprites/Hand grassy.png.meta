@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Hand grassy_0: -1328922328721036886
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

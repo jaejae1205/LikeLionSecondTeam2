@@ -373,7 +373,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Skull Grassy_0: 1485239985746358587
+      Skull Grassy_1: 3943910150121752198
+      Skull Grassy_2: -6628203713270489971
+      Skull Grassy_3: 3602363018667300923
+      Skull Grassy_4: 6796135831600299060
+      Skull Grassy_5: -5316039999753843840
+      Skull Grassy_6: 5539877312095463080
+      Skull Grassy_7: -7304680584277246191
+      Skull Grassy_8: 5789873657664233136
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

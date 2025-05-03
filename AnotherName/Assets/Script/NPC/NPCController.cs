@@ -119,33 +119,25 @@ public class NPCController : MonoBehaviour
         }
 
         // 대화 진행은 오직 스페이스바로
-        if (Input.GetKeyDown(KeyCode.Space) && talkPanel.activeSelf && !dialogueEnded)
+        if (Input.GetKeyDown(KeyCode.Space) && !dialogueEnded)
         {
+            if (talkPanel.activeSelf == false)
+            {
+                // 대화창 생성
+                talkPanel.SetActive(true);
+
+                // Sign 비활성화
+                if (signObject != null)
+                {
+                    signObject.SetActive(false);
+                    signVisible = false;
+                }
+            }
+
             AdvanceDialogue();
         }
     }
 
-    void OnMouseDown()
-    {
-        if (dialogueEnded) return;
-
-        // 이미 대화 중이면 클릭 무시
-        if (talkPanel.activeSelf) return;
-
-        if (signObject != null)
-        {
-            signObject.SetActive(false);
-            signVisible = false;
-        }
-
-        if (animator != null)
-        {
-            animator.SetBool("IsWalk", false);
-        }
-
-        AdvanceDialogue(); // 첫 대사 출력
-        talkPanel.SetActive(true);
-    }
 
     private void AdvanceDialogue()
     {
@@ -172,6 +164,7 @@ public class NPCController : MonoBehaviour
                 text.rectTransform.anchoredPosition = new Vector2(text.rectTransform.anchoredPosition.x, 0f);
                 break;
             case 4:
+                // 대화 끝내고 NPC 비활성화
                 talkPanel.SetActive(false);
                 dialogueEnded = true;
                 gameObject.SetActive(false);

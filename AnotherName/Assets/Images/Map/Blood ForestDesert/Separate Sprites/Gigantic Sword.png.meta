@@ -223,7 +223,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Gigantic Sword_0: 3038439966289606628
+      Gigantic Sword_1: -3662364218513925843
+      Gigantic Sword_2: 1109663554873841862
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -373,7 +373,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Skull_0: -2739807658926110822
+      Skull_1: -8375587311600527847
+      Skull_2: -3927005747788755955
+      Skull_3: -6772826663682122736
+      Skull_4: 850665084096451344
+      Skull_5: 4976157411595593133
+      Skull_6: -5468298644130788954
+      Skull_7: -5648198061226190591
+      Skull_8: -5770490774195072231
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
