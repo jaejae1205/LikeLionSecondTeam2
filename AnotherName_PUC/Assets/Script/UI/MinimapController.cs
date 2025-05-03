@@ -1,19 +1,40 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class MinimapController : MonoBehaviour
 {
+    [Header("Minimap UI")]
     public RectTransform minimapRect;
     public RectTransform playerIcon;
+
+    [Header("Portal")]
     public GameObject portalIconPrefab;
     public PortalDatabase portalDatabase;
+
+    [Header("NPC")]
+    public GameObject npcIconPrefab;
 
     private Transform player;
     private float mapRadiusWorld = 8f;
     private float mapUIRadius;
+
     private List<PortalSpawnData> portalData = new();
     private List<GameObject> portalIcons = new();
+
+    private List<Transform> npcList = new();
+    private List<GameObject> npcIcons = new();
+
+    private void OnEnable()
+    {
+        SceneManager.sceneLoaded += OnSceneLoaded;
+    }
+
+    private void OnDisable()
+    {
+        SceneManager.sceneLoaded -= OnSceneLoaded;
+    }
 
     IEnumerator Start()
     {
@@ -21,14 +42,37 @@ public class MinimapController : MonoBehaviour
         player = GameObject.FindWithTag("Player").transform;
 
         mapUIRadius = minimapRect.sizeDelta.x / 2f;
+
+        ReloadAll();
+    }
+
+    private void OnSceneLoaded(Scene scene, LoadSceneMode mode)
+    {
+        ReloadAll();
+    }
+
+    void ReloadAll()
+    {
         LoadPortalData();
+        ClearPortalIcons();
         CreatePortalIcons();
+
+        LoadNpcData();
     }
 
     void LoadPortalData()
     {
-        string currentScene = UnityEngine.SceneManagement.SceneManager.GetActiveScene().name;
+        string currentScene = SceneManager.GetActiveScene().name;
         portalData = portalDatabase.spawnPoints.FindAll(p => p.sceneName == currentScene);
+    }
+
+    void ClearPortalIcons()
+    {
+        foreach (var icon in portalIcons)
+        {
+            if (icon != null) Destroy(icon);
+        }
+        portalIcons.Clear();
     }
 
     void CreatePortalIcons()
@@ -38,6 +82,35 @@ public class MinimapController : MonoBehaviour
             GameObject icon = Instantiate(portalIconPrefab, minimapRect);
             icon.SetActive(true);
             portalIcons.Add(icon);
+        }
+    }
+
+    void LoadNpcData()
+    {
+        foreach (var icon in npcIcons)
+        {
+            if (icon != null) Destroy(icon);
+        }
+        npcList.Clear();
+        npcIcons.Clear();
+
+        if (npcIconPrefab == null)
+        {
+            Debug.LogWarning("⚠ npcIconPrefab is not assigned.");
+            return;
+        }
+
+        GameObject[] npcs = GameObject.FindGameObjectsWithTag("NPC");
+
+        foreach (GameObject npc in npcs)
+        {
+            if (npc == null) continue;
+
+            npcList.Add(npc.transform);
+
+            GameObject icon = Instantiate(npcIconPrefab, minimapRect);
+            icon.SetActive(true);
+            npcIcons.Add(icon);
         }
     }
 
@@ -54,7 +127,6 @@ public class MinimapController : MonoBehaviour
         {
             var data = portalData[i];
 
-            // 🎯 VillageStart는 예외로 표시하지 않음
             if (data.portalId == "VillageStart")
             {
                 portalIcons[i].SetActive(false);
@@ -72,6 +144,25 @@ public class MinimapController : MonoBehaviour
             Vector2 iconPos = (offset / mapRadiusWorld) * mapUIRadius;
             portalIcons[i].SetActive(true);
             portalIcons[i].GetComponent<RectTransform>().anchoredPosition = iconPos;
+        }
+
+        // ✅ 3. NPC 아이콘 위치 갱신
+        int count = Mathf.Min(npcList.Count, npcIcons.Count);
+        for (int i = 0; i < count; i++)
+        {
+            if (npcList[i] == null || npcIcons[i] == null) continue;
+
+            Vector2 offset = npcList[i].position - player.position;
+
+            if (offset.magnitude > mapRadiusWorld)
+            {
+                npcIcons[i].SetActive(false);
+                continue;
+            }
+
+            Vector2 iconPos = (offset / mapRadiusWorld) * mapUIRadius;
+            npcIcons[i].SetActive(true);
+            npcIcons[i].GetComponent<RectTransform>().anchoredPosition = iconPos;
         }
     }
 }
