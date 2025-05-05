@@ -16,8 +16,10 @@ public class CharacterSelectManager : MonoBehaviour
     [TextArea] public string[] skillEDescriptions;
     [TextArea] public string[] skillRDescriptions;
 
-    [Header("프리팹 & 프리뷰")]
-    public GameObject[] characterPrefabs;
+    [Header("프리팹 분리")]
+    public GameObject[] characterPreviewPrefabs;   // 사용 안 해도 무방
+    public GameObject[] characterPlayablePrefabs;  // 인게임용
+
     public Transform previewRoot;
     private GameObject currentPreview;
 
@@ -70,8 +72,11 @@ public class CharacterSelectManager : MonoBehaviour
         if (currentPreview != null)
             Destroy(currentPreview);
 
-        currentPreview = Instantiate(characterPrefabs[index], previewRoot.position, Quaternion.identity, previewRoot);
-        currentPreview.transform.localScale = Vector3.one * 2f;
+        if (characterPreviewPrefabs.Length > index && characterPreviewPrefabs[index] != null)
+        {
+            currentPreview = Instantiate(characterPreviewPrefabs[index], previewRoot.position, Quaternion.identity, previewRoot);
+            currentPreview.transform.localScale = Vector3.one * 2f;
+        }
     }
 
     public void ConfirmSelection()
@@ -93,27 +98,46 @@ public class CharacterSelectManager : MonoBehaviour
 
         yield return new WaitForSeconds(0.3f);
 
-        string id = characterIds[selectedIndex];
-        string name = characterNames[selectedIndex];
-        Sprite portrait = characterPortraits[selectedIndex];
-        Sprite passiveIcon = passiveSkillIcons[selectedIndex];
-        Sprite skillR = skillRIcons[selectedIndex];
-        Sprite skillE = skillEIcons[selectedIndex];
-        Sprite skillQ = skillQIcons[selectedIndex];
+        // ✅ 씬 내 기존 Player 제거
+        GameObject existingPlayer = GameObject.FindWithTag("Player");
+        if (existingPlayer != null)
+        {
+            Destroy(existingPlayer);
+            Debug.Log("[선택] 기존 씬 Player 오브젝트 제거 완료");
+        }
 
-        string descQ = skillQDescriptions[selectedIndex];
-        string descE = skillEDescriptions[selectedIndex];
-        string descR = skillRDescriptions[selectedIndex];
+        // ✅ 이전 선택된 프리팹 제거
+        if (SelectedCharacterData.Instance.selectedCharacterPrefab != null)
+        {
+            Destroy(SelectedCharacterData.Instance.selectedCharacterPrefab);
+            SelectedCharacterData.Instance.selectedCharacterPrefab = null;
+            Debug.Log("[선택] selectedCharacterPrefab 제거 완료");
+        }
 
-        string passiveName = passiveSkillNames[selectedIndex];
-        string passiveDesc = passiveSkillDescriptions[selectedIndex];
-        int passiveLevel = passiveSkillLevels[selectedIndex];
+        // ✅ 새 캐릭터 프리팹 인스턴스화
+        GameObject selectedPlayablePrefab = characterPlayablePrefabs[selectedIndex];
+        GameObject persistentPrefab = Instantiate(selectedPlayablePrefab);
+        DontDestroyOnLoad(persistentPrefab);
 
+        string prefabName = selectedPlayablePrefab.name;
+
+        // 자동 캐릭터 이름 부여
+        string autoName = characterNames[selectedIndex];
+        switch (prefabName)
+        {
+            case "Player1": autoName = "불에 삼켜진 자"; break;
+            case "Player2": autoName = "하늘에서 온 자"; break;
+            case "Player3": autoName = "다가설 수 없는 자"; break;
+        }
+
+        // ✅ 선택 캐릭터 데이터 저장
         SelectedCharacterData.Instance.SelectCharacter(
-            id, name, portrait, passiveIcon,
-            skillR, skillE, skillQ,
-            descQ, descE, descR,
-            passiveName, passiveDesc, passiveLevel
+            characterIds[selectedIndex], autoName, characterPortraits[selectedIndex], passiveSkillIcons[selectedIndex],
+            skillRIcons[selectedIndex], skillEIcons[selectedIndex], skillQIcons[selectedIndex],
+            skillQDescriptions[selectedIndex], skillEDescriptions[selectedIndex], skillRDescriptions[selectedIndex],
+            passiveSkillNames[selectedIndex], passiveSkillDescriptions[selectedIndex], passiveSkillLevels[selectedIndex],
+            persistentPrefab,
+            prefabName
         );
 
         SceneManager.LoadScene("VillageScene");

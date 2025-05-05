@@ -10,7 +10,7 @@ public class TitleUIManager : MonoBehaviour
     private void Start()
     {
         CleanupInGameObjects(); // 타이틀씬 진입 시 InGameUI 제거
-        
+
         // 타이틀 씬에서 OptionManager가 다시 OptionUI를 찾게 한다
         if (OptionManager.Instance != null)
         {
@@ -20,15 +20,29 @@ public class TitleUIManager : MonoBehaviour
     }
 
     /// <summary>
-    /// 타이틀씬에서 DontDestroyOnLoad된 InGameUI 제거
+    /// 타이틀씬에서 DontDestroyOnLoad된 오브젝트 제거
     /// </summary>
     private void CleanupInGameObjects()
     {
+        // ✅ InGameUI 제거
         GameObject inGameUI = GameObject.FindWithTag("InGameUI");
         if (inGameUI != null)
         {
             Destroy(inGameUI);
             Debug.Log("[TitleUIManager] InGameUIManager 제거 완료");
+        }
+
+        // ✅ 선택된 캐릭터 프리팹 및 데이터 제거
+        if (SelectedCharacterData.Instance != null)
+        {
+            if (SelectedCharacterData.Instance.selectedCharacterPrefab != null)
+            {
+                Destroy(SelectedCharacterData.Instance.selectedCharacterPrefab);
+                Debug.Log("[TitleUIManager] selectedCharacterPrefab 제거 완료");
+            }
+
+            Destroy(SelectedCharacterData.Instance.gameObject);
+            Debug.Log("[TitleUIManager] SelectedCharacterData 오브젝트 제거 완료");
         }
     }
 

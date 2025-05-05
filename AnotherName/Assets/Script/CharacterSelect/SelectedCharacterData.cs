@@ -19,6 +19,8 @@ public class CharacterInfo
     public string passiveSkillName;
     public string passiveSkillDescription;
     public int passiveSkillLevel;
+
+    public string prefabName; // ✅ 프리팹 이름 저장
 }
 
 public class SelectedCharacterData : MonoBehaviour
@@ -26,8 +28,9 @@ public class SelectedCharacterData : MonoBehaviour
     public static SelectedCharacterData Instance { get; private set; }
 
     public CharacterInfo selectedCharacter;
+    public GameObject selectedCharacterPrefab; // ✅ 선택된 프리팹 저장
 
-    void Awake()
+    private void Awake()
     {
         if (Instance != null)
         {
@@ -43,7 +46,10 @@ public class SelectedCharacterData : MonoBehaviour
         string id, string name, Sprite portrait, Sprite passiveIcon,
         Sprite skillR, Sprite skillE, Sprite skillQ,
         string descQ, string descE, string descR,
-        string passiveName, string passiveDesc, int passiveLevel)
+        string passiveName, string passiveDesc, int passiveLevel,
+        GameObject prefab,
+        string prefabName
+    )
     {
         selectedCharacter = new CharacterInfo
         {
@@ -59,7 +65,10 @@ public class SelectedCharacterData : MonoBehaviour
             skillRDescription = descR,
             passiveSkillName = passiveName,
             passiveSkillDescription = passiveDesc,
-            passiveSkillLevel = passiveLevel
+            passiveSkillLevel = passiveLevel,
+            prefabName = prefabName
         };
+
+        selectedCharacterPrefab = prefab;
     }
 }
