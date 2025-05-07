@@ -538,6 +538,8 @@ MonoBehaviour:
     passiveSkillName: 
     passiveSkillDescription: 
     passiveSkillLevel: 0
+    prefabName: 
+  selectedCharacterPrefab: {fileID: 0}
 --- !u!4 &817779805
 Transform:
   m_ObjectHideFlags: 0
@@ -1332,10 +1334,11 @@ MonoBehaviour:
   - "\uBE14\uC5D0 \uC0BC\uCF1C\uC9C4 \uC790 R \uC2A4\uD0AC"
   - "\uD558\uB298\uC5D0\uC11C \uB0B4\uB824\uC628 \uC790 R \uC2A4\uD0AC"
   - "\uB2E4\uAC00\uC124 \uC218 \uC5C6\uB294 \uC790 R \uC2A4\uD0AC"
-  characterPrefabs:
-  - {fileID: 1096756191}
-  - {fileID: 1224544017}
-  - {fileID: 1350548157}
+  characterPreviewPrefabs: []
+  characterPlayablePrefabs:
+  - {fileID: 3397116820743276590, guid: e15d491caecf20548825eb21aec5537a, type: 3}
+  - {fileID: 5382906562217086531, guid: 3ef3fa2c3ce458a4d9363fb0a07ed2bc, type: 3}
+  - {fileID: 2430350160598431071, guid: 42527cd5d89febc42947df7fa835f5c2, type: 3}
   previewRoot: {fileID: 155424834}
   characterIds:
   - 1
