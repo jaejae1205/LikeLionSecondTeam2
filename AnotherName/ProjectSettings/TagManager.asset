@@ -7,6 +7,11 @@ TagManager:
   - OptionUI
   - Portal
   - InGameUI
+  - NPC
+  - Sign
+  - Map
+  - Enemy
+  - Ground
   layers:
   - Default
   - TransparentFX

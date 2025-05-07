@@ -113,8 +113,42 @@ public class PlayerSpawnManager : MonoBehaviour
 
             if (virtualCamera != null)
             {
-                virtualCamera.Follow = player.transform;
-                Debug.Log("[스폰] 카메라 Follow 대상 설정 완료");
+                if (virtualCamera.Follow != player.transform)
+                {
+                    virtualCamera.Follow = player.transform;
+                    Debug.Log("[스폰] CinemachineCamera의 Follow 대상 설정됨");
+                }
+
+                if (virtualCamera.LookAt != player.transform)
+                {
+                    virtualCamera.LookAt = player.transform;
+                    Debug.Log("[스폰] CinemachineCamera의 LookAt 대상도 설정됨");
+                }
+
+                // ✅ Confiner 자동 설정
+                var confiner = virtualCamera.GetComponent<CinemachineConfiner2D>();
+                if (confiner != null)
+                {
+                    GameObject groundObject = GameObject.FindWithTag("Ground");
+                    if (groundObject != null)
+                    {
+                        Collider2D groundCollider = groundObject.GetComponent<Collider2D>();
+                        if (groundCollider != null)
+                        {
+                            confiner.BoundingShape2D = groundCollider;
+                            confiner.InvalidateBoundingShapeCache();
+                            Debug.Log("[카메라] Confiner에 Ground Collider 자동 설정 완료");
+                        }
+                        else
+                        {
+                            Debug.LogWarning("[카메라] Ground 오브젝트에 Collider2D가 없습니다.");
+                        }
+                    }
+                    else
+                    {
+                        Debug.LogWarning("[카메라] 'Ground' 태그를 가진 오브젝트를 찾지 못했습니다.");
+                    }
+                }
             }
             else
             {
@@ -156,13 +190,32 @@ public class PlayerSpawnManager : MonoBehaviour
             {
                 virtualCamera = found;
                 SceneManager.MoveGameObjectToScene(virtualCamera.gameObject, SceneManager.GetActiveScene());
+
                 virtualCamera.Follow = player?.transform;
+                virtualCamera.LookAt = player?.transform;
+
+                // ✅ Confiner도 재설정
+                var confiner = virtualCamera.GetComponent<CinemachineConfiner2D>();
+                if (confiner != null)
+                {
+                    GameObject groundObject = GameObject.FindWithTag("Ground");
+                    if (groundObject != null)
+                    {
+                        Collider2D groundCollider = groundObject.GetComponent<Collider2D>();
+                        if (groundCollider != null)
+                        {
+                            confiner.BoundingShape2D = groundCollider;
+                            confiner.InvalidateBoundingShapeCache();
+                            Debug.Log("[카메라] 재설정된 Confiner에 Ground Collider 자동 적용");
+                        }
+                    }
+                }
 
                 virtualCamera.gameObject.SetActive(false);
                 yield return null;
                 virtualCamera.gameObject.SetActive(true);
 
-                Debug.Log("[스폰] 나중에 등장한 CinemachineCamera에 Follow 재설정 완료");
+                Debug.Log("[스폰] 나중에 등장한 CinemachineCamera에 Follow 및 Confiner 재설정 완료");
                 yield break;
             }
 
