@@ -1,29 +1,40 @@
-using UnityEngine;
+Ôªøusing UnityEngine;
 using UnityEngine.UI;
 using TMPro;
 using UnityEngine.SceneManagement;
+using System.Collections;
 
 public class InGameUIManager : MonoBehaviour
 {
     public static InGameUIManager Instance { get; private set; }
 
-    [Header("UI ø‰º“")]
+    [Header("UI ÏöîÏÜå")]
     public Image portraitImage;
     public TextMeshProUGUI nameText;
     public TextMeshProUGUI levelText;
     public Image passiveSkillIconImage;
 
-    [Header("Ω∫≈≥ æ∆¿Ãƒ‹")]
+    [Header("Ïä§ÌÇ¨ ÏïÑÏù¥ÏΩò")]
     public Image skillRIconImage;
     public Image skillEIconImage;
     public Image skillQIconImage;
 
-    [Header("∏ﬁ¥∫ ∆Àæ˜ UI")]
+    [Header("Î©îÎâ¥ ÌåùÏóÖ UI")]
     public GameObject menuUI;
     public GameObject optionUI;
 
-    [Header("ƒ≥∏Ø≈Õ ¡§∫∏ ∆Àæ˜")]
+    [Header("Ï∫êÎ¶≠ÌÑ∞ Ï†ïÎ≥¥ ÌåùÏóÖ")]
     public GameObject characterInfoUI;
+
+    [Header("Ï≤¥Î†• UI")]
+    public Image hpBarFillImage;
+
+    [Header("Ï≤¥Î†• Ïà´Ïûê UI")]
+    public TextMeshProUGUI hpText;
+
+    private Coroutine hpFlashCoroutine;
+    private Coroutine hpBarCoroutine;
+    private Color originalHpColor = Color.green;
 
     void Awake()
     {
@@ -49,13 +60,16 @@ public class InGameUIManager : MonoBehaviour
 
     void OnSceneLoaded(Scene scene, LoadSceneMode mode)
     {
-        RebindUIReferences();  // null¿œ ∂ß∏∏ ¿Áø¨∞·
+        RebindUIReferences();
 
         if (SelectedCharacterData.Instance != null)
         {
             var info = SelectedCharacterData.Instance.selectedCharacter;
             ApplyCharacterInfo(info);
         }
+
+        if (hpBarFillImage != null)
+            originalHpColor = hpBarFillImage.color;
     }
 
     public void RebindUIReferences()
@@ -89,6 +103,12 @@ public class InGameUIManager : MonoBehaviour
 
         if (skillQIconImage == null)
             skillQIconImage = GameObject.Find("SkillQ")?.GetComponent<Image>();
+
+        if (hpBarFillImage == null)
+            hpBarFillImage = GameObject.Find("HpBarFill")?.GetComponent<Image>();
+
+        if (hpText == null)
+            hpText = GameObject.Find("HpText")?.GetComponent<TextMeshProUGUI>();
     }
 
     public void ApplyCharacterInfo(CharacterInfo info)
@@ -120,7 +140,7 @@ public class InGameUIManager : MonoBehaviour
         if (menuUI != null)
             menuUI.SetActive(true);
         else
-            Debug.LogWarning("[InGameUIManager] menuUI∞° ø¨∞·µ«¡ˆ æ æ“Ω¿¥œ¥Ÿ.");
+            Debug.LogWarning("[InGameUIManager] menuUIÍ∞Ä Ïó∞Í≤∞ÎêòÏßÄ ÏïäÏïòÏäµÎãàÎã§.");
     }
 
     public void ResumeGame()
@@ -143,7 +163,7 @@ public class InGameUIManager : MonoBehaviour
         if (characterInfoUI != null)
             characterInfoUI.SetActive(true);
         else
-            Debug.LogWarning("[InGameUIManager] characterInfoUI∞° ø¨∞·µ«¡ˆ æ æ“Ω¿¥œ¥Ÿ.");
+            Debug.LogWarning("[InGameUIManager] characterInfoUIÍ∞Ä Ïó∞Í≤∞ÎêòÏßÄ ÏïäÏïòÏäµÎãàÎã§.");
     }
 
     public void CloseCharacterInfoPopup()
@@ -164,5 +184,54 @@ public class InGameUIManager : MonoBehaviour
 #if UNITY_EDITOR
         UnityEditor.EditorApplication.isPlaying = false;
 #endif
+    }
+
+    // ‚úÖ Ï≤¥Î†• ÏàòÏπòÎèÑ Ìï≠ÏÉÅ Ìï®Íªò Í∞±Ïã†
+    public void UpdateHpUI(int currentHp, int maxHp)
+    {
+        if (hpBarFillImage == null)
+        {
+            Debug.LogWarning("[UI] hpBarFillImageÍ∞Ä nullÏûÖÎãàÎã§. Fill Ïò§Î∏åÏ†ùÌä∏ Ïó∞Í≤∞ ÌïÑÏöî.");
+            return;
+        }
+
+        float target = Mathf.Clamp01((float)currentHp / maxHp);
+
+        if (hpBarCoroutine != null)
+            StopCoroutine(hpBarCoroutine);
+        hpBarCoroutine = StartCoroutine(AnimateHpBar(target));
+
+        // ‚úÖ Ï≤¥Î†• ÏàòÏπò ÎèôÍ∏∞Ìôî (Ï¥àÍ∏∞ Ï∂úÎ†• Ìè¨Ìï®)
+        if (hpText != null)
+            hpText.text = $"{currentHp} / {maxHp}";
+
+        if (hpFlashCoroutine != null)
+            StopCoroutine(hpFlashCoroutine);
+        hpFlashCoroutine = StartCoroutine(FlashHpBarFade());
+    }
+
+    private IEnumerator AnimateHpBar(float target)
+    {
+        float current = hpBarFillImage.fillAmount;
+
+        while (Mathf.Abs(current - target) > 0.001f)
+        {
+            current = Mathf.Lerp(current, target, 0.2f);
+            hpBarFillImage.fillAmount = current;
+            yield return null;
+        }
+
+        hpBarFillImage.fillAmount = target;
+    }
+
+    private IEnumerator FlashHpBarFade()
+    {
+        Color fadedColor = originalHpColor;
+        fadedColor.a = 0.3f;
+        hpBarFillImage.color = fadedColor;
+
+        yield return new WaitForSeconds(0.1f);
+
+        hpBarFillImage.color = originalHpColor;
     }
 }
