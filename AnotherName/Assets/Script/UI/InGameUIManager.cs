@@ -1,29 +1,37 @@
-using UnityEngine;
+ï»¿using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
 using UnityEngine.SceneManagement;
+using System.Collections;
 
 public class InGameUIManager : MonoBehaviour
 {
     public static InGameUIManager Instance { get; private set; }
 
-    [Header("UI ¿ä¼Ò")]
+    [Header("UI ìš”ì†Œ")]
     public Image portraitImage;
     public TextMeshProUGUI nameText;
     public TextMeshProUGUI levelText;
     public Image passiveSkillIconImage;
 
-    [Header("½ºÅ³ ¾ÆÀÌÄÜ")]
+    [Header("ìŠ¤í‚¬ ì•„ì´ì½˜")]
     public Image skillRIconImage;
     public Image skillEIconImage;
     public Image skillQIconImage;
 
-    [Header("¸Ş´º ÆË¾÷ UI")]
+    [Header("ë©”ë‰´ íŒì—… UI")]
     public GameObject menuUI;
     public GameObject optionUI;
 
-    [Header("Ä³¸¯ÅÍ Á¤º¸ ÆË¾÷")]
+    [Header("ìºë¦­í„° ì •ë³´ íŒì—…")]
     public GameObject characterInfoUI;
+
+    [Header("ì²´ë ¥ UI")]
+    public Image hpBarFillImage;
+
+    // âœ… ì²´ë ¥ë°” ì ë©¸ ê´€ë ¨ ë³€ìˆ˜
+    private Coroutine hpFlashCoroutine;
+    private Color originalHpColor = Color.green;
 
     void Awake()
     {
@@ -49,13 +57,17 @@ public class InGameUIManager : MonoBehaviour
 
     void OnSceneLoaded(Scene scene, LoadSceneMode mode)
     {
-        RebindUIReferences();  // nullÀÏ ¶§¸¸ Àç¿¬°á
+        RebindUIReferences();
 
         if (SelectedCharacterData.Instance != null)
         {
             var info = SelectedCharacterData.Instance.selectedCharacter;
             ApplyCharacterInfo(info);
         }
+
+        // âœ… ì²´ë ¥ë°” ì›ë˜ ìƒ‰ìƒ ê¸°ì–µ
+        if (hpBarFillImage != null)
+            originalHpColor = hpBarFillImage.color;
     }
 
     public void RebindUIReferences()
@@ -89,6 +101,9 @@ public class InGameUIManager : MonoBehaviour
 
         if (skillQIconImage == null)
             skillQIconImage = GameObject.Find("SkillQ")?.GetComponent<Image>();
+
+        if (hpBarFillImage == null)
+            hpBarFillImage = GameObject.Find("HpBarFill")?.GetComponent<Image>();
     }
 
     public void ApplyCharacterInfo(CharacterInfo info)
@@ -120,7 +135,7 @@ public class InGameUIManager : MonoBehaviour
         if (menuUI != null)
             menuUI.SetActive(true);
         else
-            Debug.LogWarning("[InGameUIManager] menuUI°¡ ¿¬°áµÇÁö ¾Ê¾Ò½À´Ï´Ù.");
+            Debug.LogWarning("[InGameUIManager] menuUIê°€ ì—°ê²°ë˜ì§€ ì•Šì•˜ìŠµë‹ˆë‹¤.");
     }
 
     public void ResumeGame()
@@ -143,7 +158,7 @@ public class InGameUIManager : MonoBehaviour
         if (characterInfoUI != null)
             characterInfoUI.SetActive(true);
         else
-            Debug.LogWarning("[InGameUIManager] characterInfoUI°¡ ¿¬°áµÇÁö ¾Ê¾Ò½À´Ï´Ù.");
+            Debug.LogWarning("[InGameUIManager] characterInfoUIê°€ ì—°ê²°ë˜ì§€ ì•Šì•˜ìŠµë‹ˆë‹¤.");
     }
 
     public void CloseCharacterInfoPopup()
@@ -164,5 +179,34 @@ public class InGameUIManager : MonoBehaviour
 #if UNITY_EDITOR
         UnityEditor.EditorApplication.isPlaying = false;
 #endif
+    }
+
+    // âœ… ì²´ë ¥ ì—…ë°ì´íŠ¸ + íˆ¬ëª…ë„ ì ë©¸ íš¨ê³¼
+    public void UpdateHpUI(int currentHp, int maxHp)
+    {
+        if (hpBarFillImage == null)
+        {
+            Debug.LogWarning("[UI] hpBarFillImageê°€ nullì…ë‹ˆë‹¤. Fill ì˜¤ë¸Œì íŠ¸ ì—°ê²° í•„ìš”.");
+            return;
+        }
+
+        float fillAmount = Mathf.Clamp01((float)currentHp / maxHp);
+        hpBarFillImage.fillAmount = fillAmount;
+
+        // ì ë©¸ íš¨ê³¼ ì‹¤í–‰ (íˆ¬ëª…ë„)
+        if (hpFlashCoroutine != null)
+            StopCoroutine(hpFlashCoroutine);
+        hpFlashCoroutine = StartCoroutine(FlashHpBarFade());
+    }
+
+    private IEnumerator FlashHpBarFade()
+    {
+        Color fadedColor = originalHpColor;
+        fadedColor.a = 0.3f; // íˆ¬ëª…ë„ ë‚®ì¶¤
+        hpBarFillImage.color = fadedColor;
+
+        yield return new WaitForSeconds(0.1f);
+
+        hpBarFillImage.color = originalHpColor;
     }
 }

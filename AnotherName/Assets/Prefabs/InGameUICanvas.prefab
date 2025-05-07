@@ -1372,6 +1372,7 @@ MonoBehaviour:
   menuUI: {fileID: 3353842751889958714}
   optionUI: {fileID: 1802838906241975537}
   characterInfoUI: {fileID: 4793716323267159214}
+  hpBarFillImage: {fileID: 1935010437395821252}
 --- !u!114 &3706822391835135993
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5856,11 +5857,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
-  m_Type: 0
+  m_Sprite: {fileID: -8466629868714491950, guid: 419b6846fc0833f41a36d4c130cf0ad8, type: 3}
+  m_Type: 3
   m_PreserveAspect: 0
   m_FillCenter: 1
-  m_FillMethod: 4
+  m_FillMethod: 0
   m_FillAmount: 1
   m_FillClockwise: 1
   m_FillOrigin: 0
