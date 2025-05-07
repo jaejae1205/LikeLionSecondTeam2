@@ -9,18 +9,15 @@ TagManager:
   - InGameUI
   - NPC
   - Sign
-  - Map
-  - Enemy
-  - Ground
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - TileMap
   - Water
   - UI
-  - Plaayer
-  - Enemy
+  - Map
+  - 
   - 
   - 
   - 
