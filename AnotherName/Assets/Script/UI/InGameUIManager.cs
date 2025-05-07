@@ -29,8 +29,11 @@ public class InGameUIManager : MonoBehaviour
     [Header("체력 UI")]
     public Image hpBarFillImage;
 
-    // ✅ 체력바 점멸 관련 변수
+    [Header("체력 숫자 UI")]
+    public TextMeshProUGUI hpText;
+
     private Coroutine hpFlashCoroutine;
+    private Coroutine hpBarCoroutine;
     private Color originalHpColor = Color.green;
 
     void Awake()
@@ -65,7 +68,6 @@ public class InGameUIManager : MonoBehaviour
             ApplyCharacterInfo(info);
         }
 
-        // ✅ 체력바 원래 색상 기억
         if (hpBarFillImage != null)
             originalHpColor = hpBarFillImage.color;
     }
@@ -104,6 +106,9 @@ public class InGameUIManager : MonoBehaviour
 
         if (hpBarFillImage == null)
             hpBarFillImage = GameObject.Find("HpBarFill")?.GetComponent<Image>();
+
+        if (hpText == null)
+            hpText = GameObject.Find("HpText")?.GetComponent<TextMeshProUGUI>();
     }
 
     public void ApplyCharacterInfo(CharacterInfo info)
@@ -181,7 +186,6 @@ public class InGameUIManager : MonoBehaviour
 #endif
     }
 
-    // ✅ 체력 업데이트 + 투명도 점멸 효과
     public void UpdateHpUI(int currentHp, int maxHp)
     {
         if (hpBarFillImage == null)
@@ -190,19 +194,38 @@ public class InGameUIManager : MonoBehaviour
             return;
         }
 
-        float fillAmount = Mathf.Clamp01((float)currentHp / maxHp);
-        hpBarFillImage.fillAmount = fillAmount;
+        float target = Mathf.Clamp01((float)currentHp / maxHp);
 
-        // 점멸 효과 실행 (투명도)
+        if (hpBarCoroutine != null)
+            StopCoroutine(hpBarCoroutine);
+        hpBarCoroutine = StartCoroutine(AnimateHpBar(target));
+
+        if (hpText != null)
+            hpText.text = $"{currentHp} / {maxHp}";
+
         if (hpFlashCoroutine != null)
             StopCoroutine(hpFlashCoroutine);
         hpFlashCoroutine = StartCoroutine(FlashHpBarFade());
     }
 
+    private IEnumerator AnimateHpBar(float target)
+    {
+        float current = hpBarFillImage.fillAmount;
+
+        while (Mathf.Abs(current - target) > 0.001f)
+        {
+            current = Mathf.Lerp(current, target, 0.2f);
+            hpBarFillImage.fillAmount = current;
+            yield return null;
+        }
+
+        hpBarFillImage.fillAmount = target;
+    }
+
     private IEnumerator FlashHpBarFade()
     {
         Color fadedColor = originalHpColor;
-        fadedColor.a = 0.3f; // 투명도 낮춤
+        fadedColor.a = 0.3f;
         hpBarFillImage.color = fadedColor;
 
         yield return new WaitForSeconds(0.1f);

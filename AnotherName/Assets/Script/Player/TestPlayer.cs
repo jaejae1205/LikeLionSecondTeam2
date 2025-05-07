@@ -33,23 +33,23 @@ public class TestPlayer : MonoBehaviour
         animator = GetComponent<Animator>();
         rb = GetComponent<Rigidbody2D>();
         spriteRenderer = GetComponent<SpriteRenderer>();
+
+        // ✅ 체력 초기화
+        maxHp = 100;
         currentHp = maxHp;
 
         originalColor = spriteRenderer.color;
         if (originalColor.a < 1f)
-            originalColor.a = 1f; // 투명한 경우 대비
+            originalColor.a = 1f;
     }
 
     void Start()
     {
-        Debug.Log($"[Player] Start() 위치: {transform.position} at {Time.time}");
-        InGameUIManager.Instance?.UpdateHpUI(currentHp, maxHp); // 체력 UI 초기화
+        InGameUIManager.Instance?.UpdateHpUI(currentHp, maxHp);
     }
 
     private void Update()
     {
-        Debug.Log("[Player 현재 위치]: " + transform.position);
-
         if (!isAttacking)
         {
             moveInput.x = Input.GetAxisRaw("Horizontal");
@@ -59,9 +59,7 @@ public class TestPlayer : MonoBehaviour
             animator.SetBool("Move", isMoving);
 
             if (moveInput.x != 0)
-            {
                 spriteRenderer.flipX = moveInput.x < 0;
-            }
         }
         else
         {
@@ -93,10 +91,7 @@ public class TestPlayer : MonoBehaviour
         isAttacking = true;
         animator.SetBool("Attack", true);
 
-        if (AudioManager.Instance != null)
-        {
-            AudioManager.Instance.PlaySfx("testSfx");
-        }
+        AudioManager.Instance?.PlaySfx("testSfx");
     }
 
     private void EndAttack()
@@ -107,11 +102,14 @@ public class TestPlayer : MonoBehaviour
 
     public void TakeDamage(int damage)
     {
-        Debug.Log($"[DEBUG] TakeDamage() 호출됨");
+        Debug.Log($"[TakeDamage] 받은 데미지: {damage}, 이전 체력: {currentHp}, 최대 체력: {maxHp}");
 
         currentHp -= damage;
-        Debug.Log($"[Player] {damage} 데미지를 입음. 현재 체력: {currentHp}");
+        currentHp = Mathf.Clamp(currentHp, 0, maxHp);
 
+        Debug.Log($"[TakeDamage] 현재 체력: {currentHp}");
+
+        // ✅ 정확한 maxHp와 함께 UI 갱신
         InGameUIManager.Instance?.UpdateHpUI(currentHp, maxHp);
 
         if (currentHp <= 0)
@@ -123,34 +121,36 @@ public class TestPlayer : MonoBehaviour
     private void Die()
     {
         Debug.Log("[Player] 사망 처리 로직 호출됨");
-        // 사망 연출 추가 가능
+        // 사망 연출 등
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        Debug.Log($"[DEBUG] 충돌 감지됨: {collision.collider.name}");
+        if (isHit) return;
 
-        if (collision.collider.CompareTag("Enemy") && !isHit)
+        if (collision.collider.CompareTag("Enemy"))
         {
-            Debug.Log("[DEBUG] Enemy 태그 충돌로 데미지 처리 시작");
+            isHit = true; // ✅ 충돌 중복 방지
 
-            TakeDamage(10);
+            MonsterTest monster = collision.collider.GetComponent<MonsterTest>();
+            int damage = monster != null ? monster.attackPower : 1;
+
+            TakeDamage(damage);
 
             Vector2 hitDir = (transform.position - collision.transform.position).normalized;
             rb.AddForce(hitDir * knockbackForce, ForceMode2D.Impulse);
 
-            if (flashCoroutine != null) StopCoroutine(flashCoroutine);
+            if (flashCoroutine != null)
+                StopCoroutine(flashCoroutine);
             flashCoroutine = StartCoroutine(FlashWhiteWithAlpha());
 
-            isHit = true;
             Invoke(nameof(ResetHit), 0.5f);
         }
     }
 
-    // ✅ 흰색 + 투명도 점멸 효과
     private IEnumerator FlashWhiteWithAlpha()
     {
-        Color fadedWhite = new Color(1f, 1f, 1f, 0.3f); // 투명한 흰색
+        Color fadedWhite = new Color(1f, 1f, 1f, 0.3f);
         spriteRenderer.color = fadedWhite;
 
         yield return new WaitForSeconds(hitFlashDuration);
