@@ -21,7 +21,6 @@ public class TestPlayer : MonoBehaviour
     private Vector2 moveInput;
     private bool isAttacking = false;
 
-    // 피격 관련 변수
     private bool isHit = false;
     public float knockbackForce = 5f;
     public float hitFlashDuration = 0.1f;
@@ -34,18 +33,25 @@ public class TestPlayer : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         spriteRenderer = GetComponent<SpriteRenderer>();
 
-        // ✅ 체력 초기화
-        maxHp = 100;
         currentHp = maxHp;
-
         originalColor = spriteRenderer.color;
-        if (originalColor.a < 1f)
-            originalColor.a = 1f;
+        if (originalColor.a < 1f) originalColor.a = 1f;
     }
 
-    void Start()
+    private void Start()
     {
-        InGameUIManager.Instance?.UpdateHpUI(currentHp, maxHp);
+        StartCoroutine(InitializeHpUI());
+    }
+
+    private IEnumerator InitializeHpUI()
+    {
+        yield return new WaitUntil(() =>
+            InGameUIManager.Instance != null &&
+            InGameUIManager.Instance.hpText != null &&
+            InGameUIManager.Instance.hpBarFillImage != null
+        );
+
+        InGameUIManager.Instance.UpdateHpUI(currentHp, maxHp);
     }
 
     private void Update()
@@ -90,7 +96,6 @@ public class TestPlayer : MonoBehaviour
     {
         isAttacking = true;
         animator.SetBool("Attack", true);
-
         AudioManager.Instance?.PlaySfx("testSfx");
     }
 
@@ -108,8 +113,6 @@ public class TestPlayer : MonoBehaviour
         currentHp = Mathf.Clamp(currentHp, 0, maxHp);
 
         Debug.Log($"[TakeDamage] 현재 체력: {currentHp}");
-
-        // ✅ 정확한 maxHp와 함께 UI 갱신
         InGameUIManager.Instance?.UpdateHpUI(currentHp, maxHp);
 
         if (currentHp <= 0)
@@ -121,7 +124,6 @@ public class TestPlayer : MonoBehaviour
     private void Die()
     {
         Debug.Log("[Player] 사망 처리 로직 호출됨");
-        // 사망 연출 등
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
@@ -130,7 +132,7 @@ public class TestPlayer : MonoBehaviour
 
         if (collision.collider.CompareTag("Enemy"))
         {
-            isHit = true; // ✅ 충돌 중복 방지
+            isHit = true;
 
             MonsterTest monster = collision.collider.GetComponent<MonsterTest>();
             int damage = monster != null ? monster.attackPower : 1;
@@ -162,4 +164,8 @@ public class TestPlayer : MonoBehaviour
     {
         isHit = false;
     }
+
+    // UIManager에서 접근할 수 있게 Getter 제공 (optional)
+    public int GetCurrentHp() => currentHp;
+    public int GetMaxHp() => maxHp;
 }

@@ -186,6 +186,7 @@ public class InGameUIManager : MonoBehaviour
 #endif
     }
 
+    // ✅ 체력 수치도 항상 함께 갱신
     public void UpdateHpUI(int currentHp, int maxHp)
     {
         if (hpBarFillImage == null)
@@ -200,6 +201,7 @@ public class InGameUIManager : MonoBehaviour
             StopCoroutine(hpBarCoroutine);
         hpBarCoroutine = StartCoroutine(AnimateHpBar(target));
 
+        // ✅ 체력 수치 동기화 (초기 출력 포함)
         if (hpText != null)
             hpText.text = $"{currentHp} / {maxHp}";
 
