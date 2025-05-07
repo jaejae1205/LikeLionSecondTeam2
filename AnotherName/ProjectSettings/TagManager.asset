@@ -7,14 +7,16 @@ TagManager:
   - OptionUI
   - Portal
   - InGameUI
+  - NPC
+  - Sign
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - TileMap
   - Water
   - UI
-  - 
+  - Map
   - 
   - 
   - 
