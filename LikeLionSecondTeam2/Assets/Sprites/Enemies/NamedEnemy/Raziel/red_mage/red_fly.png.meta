@@ -311,7 +311,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      red_fly_0: 710056587869536499
+      red_fly_1: 8401667001187590804
+      red_fly_2: -1082031270910572260
+      red_fly_3: -5462811420408613865
+      red_fly_4: 208396040958029145
+      red_fly_5: 1831105642983998207
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

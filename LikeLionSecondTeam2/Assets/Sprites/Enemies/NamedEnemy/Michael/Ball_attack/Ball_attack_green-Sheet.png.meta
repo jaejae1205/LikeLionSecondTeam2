@@ -511,7 +511,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Ball_attack_green-Sheet_0: 8543358599544987764
+      Ball_attack_green-Sheet_1: -612744922147436700
+      Ball_attack_green-Sheet_10: -2727349611774378625
+      Ball_attack_green-Sheet_11: 2058955623261284977
+      Ball_attack_green-Sheet_12: 5595253391899943401
+      Ball_attack_green-Sheet_13: -3270484224836943464
+      Ball_attack_green-Sheet_2: 3163489410683827836
+      Ball_attack_green-Sheet_3: -2240026536826865780
+      Ball_attack_green-Sheet_4: -6105430327710579356
+      Ball_attack_green-Sheet_5: 6760454414164146360
+      Ball_attack_green-Sheet_6: -8678990610044247888
+      Ball_attack_green-Sheet_7: 5889500113462453440
+      Ball_attack_green-Sheet_8: -84671332788226392
+      Ball_attack_green-Sheet_9: -3620636835251254636
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

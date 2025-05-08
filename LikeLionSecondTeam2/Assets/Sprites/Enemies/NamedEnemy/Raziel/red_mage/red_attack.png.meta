@@ -936,7 +936,38 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      red_attack_0: -1898286449965150787
+      red_attack_1: -1196625086661276975
+      red_attack_10: -6929706317276541387
+      red_attack_11: -4646816001718107731
+      red_attack_12: 307904665495911919
+      red_attack_13: 5280618071783684903
+      red_attack_14: -6154955661706270955
+      red_attack_15: 2767412982682407341
+      red_attack_16: 5037873571377884770
+      red_attack_17: -8681141961528548621
+      red_attack_18: 7275728699498230000
+      red_attack_19: -1205845852053431260
+      red_attack_2: 1333935218108579088
+      red_attack_20: -5069690748223498921
+      red_attack_21: 4757342067049532741
+      red_attack_22: 2593780192251184684
+      red_attack_23: -4847849206674951367
+      red_attack_24: 6150378692480694938
+      red_attack_25: -1374724208132984591
+      red_attack_26: -1898392659548807290
+      red_attack_27: -5328831382529266010
+      red_attack_28: 1918302741844553752
+      red_attack_29: 6235489891703631421
+      red_attack_3: 3790826377386882549
+      red_attack_30: -2152826445559895195
+      red_attack_4: -1476360635334683854
+      red_attack_5: 7743841558306500478
+      red_attack_6: 4833325238850553077
+      red_attack_7: 5205270562238432477
+      red_attack_8: -1583956650303192887
+      red_attack_9: 5144147275653771274
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      8_sword_warrior_blue_full_no_swords_0: 731005679486440211
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

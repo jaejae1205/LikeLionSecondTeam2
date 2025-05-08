@@ -236,7 +236,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Angel_Mage_green_hurt-Sheet_0: 5173182488656611936
+      Angel_Mage_green_hurt-Sheet_1: 7861216553158171026
+      Angel_Mage_green_hurt-Sheet_2: -1707826125273757289
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

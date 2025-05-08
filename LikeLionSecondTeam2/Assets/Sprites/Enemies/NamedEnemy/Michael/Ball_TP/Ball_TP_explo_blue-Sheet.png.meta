@@ -786,7 +786,32 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Ball_TP_explo_blue-Sheet_0: 5917446170581541775
+      Ball_TP_explo_blue-Sheet_1: -6107190573543270016
+      Ball_TP_explo_blue-Sheet_10: 5004506942450366236
+      Ball_TP_explo_blue-Sheet_11: 8535983100451407750
+      Ball_TP_explo_blue-Sheet_12: 3347827201930678391
+      Ball_TP_explo_blue-Sheet_13: 7988093905227764408
+      Ball_TP_explo_blue-Sheet_14: -2472426896984849686
+      Ball_TP_explo_blue-Sheet_15: 1607189623437694364
+      Ball_TP_explo_blue-Sheet_16: -3835651472865894650
+      Ball_TP_explo_blue-Sheet_17: -7474419046264491289
+      Ball_TP_explo_blue-Sheet_18: 4931685531188446967
+      Ball_TP_explo_blue-Sheet_19: -2992328294593970389
+      Ball_TP_explo_blue-Sheet_2: 5204073484541109596
+      Ball_TP_explo_blue-Sheet_20: -4279313052668782090
+      Ball_TP_explo_blue-Sheet_21: 3955055006676449955
+      Ball_TP_explo_blue-Sheet_22: -4109939731211559729
+      Ball_TP_explo_blue-Sheet_23: -2324137512557064188
+      Ball_TP_explo_blue-Sheet_24: 6366869433319585433
+      Ball_TP_explo_blue-Sheet_3: 6377398919157536748
+      Ball_TP_explo_blue-Sheet_4: -7049831630120608506
+      Ball_TP_explo_blue-Sheet_5: 4524567782446077265
+      Ball_TP_explo_blue-Sheet_6: -103802690158183578
+      Ball_TP_explo_blue-Sheet_7: -712423477085698482
+      Ball_TP_explo_blue-Sheet_8: -7528983989012510266
+      Ball_TP_explo_blue-Sheet_9: 4111280625177674187
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -336,7 +336,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sword_45_deg_red-Sheet_0: 2085066728464761946
+      sword_45_deg_red-Sheet_1: -1302239266410659944
+      sword_45_deg_red-Sheet_2: -3902572638911871863
+      sword_45_deg_red-Sheet_3: 3580486826951535620
+      sword_45_deg_red-Sheet_4: 5693223719243140949
+      sword_45_deg_red-Sheet_5: 8366191334394377573
+      sword_45_deg_red-Sheet_6: -5778988657134081226
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
