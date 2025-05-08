@@ -1,0 +1,3731 @@
+fileFormatVersion: 2
+guid: 475ce0e1d4cf0a04db2d0a840aa3804c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -584591488693531120
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_0
+  - first:
+      213: 207788630109480180
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_1
+  - first:
+      213: 3802445166968558137
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_2
+  - first:
+      213: 3968390632700797334
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_3
+  - first:
+      213: 1751612489801669170
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_4
+  - first:
+      213: 4386734169856627418
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_5
+  - first:
+      213: 7742297651701384468
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_6
+  - first:
+      213: -5193628063161180881
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_7
+  - first:
+      213: 5470686277295479195
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_8
+  - first:
+      213: -6255936264435222911
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_9
+  - first:
+      213: 2359651590808189864
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_10
+  - first:
+      213: -2706655794795717726
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_11
+  - first:
+      213: -2257321450825337801
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_12
+  - first:
+      213: -1340784439736863604
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_13
+  - first:
+      213: 8270602983138641769
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_14
+  - first:
+      213: 3695192691043009042
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_15
+  - first:
+      213: -9151612711236199725
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_16
+  - first:
+      213: 2020383623673093585
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_17
+  - first:
+      213: 1739768825317227271
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_18
+  - first:
+      213: 8089278969763395387
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_19
+  - first:
+      213: -5579042621357989006
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_20
+  - first:
+      213: -8773995427693669851
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_21
+  - first:
+      213: 2258440850990289627
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_22
+  - first:
+      213: -6625313540333540907
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_23
+  - first:
+      213: -2335106401630887830
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_24
+  - first:
+      213: -7764368019754187223
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_25
+  - first:
+      213: -7402508191808883115
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_26
+  - first:
+      213: -3071894770919483746
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_27
+  - first:
+      213: -7688786010209813823
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_28
+  - first:
+      213: -5817213926120729115
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_29
+  - first:
+      213: -5468527659638271948
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_30
+  - first:
+      213: -1871716935885316312
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_31
+  - first:
+      213: 7714009614904721704
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_32
+  - first:
+      213: 4192443190715693972
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_33
+  - first:
+      213: -4800396838499676247
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_34
+  - first:
+      213: 1945547414986338055
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_35
+  - first:
+      213: 6999109797123811481
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_36
+  - first:
+      213: -3198377086946826598
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_37
+  - first:
+      213: 4018040677152763148
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_38
+  - first:
+      213: -1220313346100243924
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_39
+  - first:
+      213: -4100628729350015828
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_40
+  - first:
+      213: -9183700399755288824
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_41
+  - first:
+      213: -7758645580970482038
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_42
+  - first:
+      213: 2767834599642340562
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_43
+  - first:
+      213: -153807138469361504
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_44
+  - first:
+      213: -7343275678585280766
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_45
+  - first:
+      213: 5630992386086004208
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_46
+  - first:
+      213: -8825726298413678350
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_47
+  - first:
+      213: -2760977551649820370
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_48
+  - first:
+      213: 6446875981530707126
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_49
+  - first:
+      213: -3465585969739630995
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_50
+  - first:
+      213: 8600820425564922867
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_51
+  - first:
+      213: -6956115577253543756
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_52
+  - first:
+      213: -3931711580577789033
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_53
+  - first:
+      213: 6306379332250359527
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_54
+  - first:
+      213: -6884380027687028569
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_55
+  - first:
+      213: -3058428428914041413
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_56
+  - first:
+      213: -5753917904623509279
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_57
+  - first:
+      213: -842015426520327689
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_58
+  - first:
+      213: 3962761565995097514
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_59
+  - first:
+      213: -3396955972829763201
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_60
+  - first:
+      213: 4182358126122622233
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_61
+  - first:
+      213: -6892921429104459714
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_62
+  - first:
+      213: 1749733592357134686
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_63
+  - first:
+      213: -1054971331793463007
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_64
+  - first:
+      213: 639693773911222958
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_65
+  - first:
+      213: -650445922035585811
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_66
+  - first:
+      213: 1062027718138565714
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_67
+  - first:
+      213: 9050362986152782015
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_68
+  - first:
+      213: 1956619044464195351
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_69
+  - first:
+      213: 220129790992357856
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_70
+  - first:
+      213: -7707752194568549691
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_71
+  - first:
+      213: -3917029763223859209
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_72
+  - first:
+      213: 1914126069390009031
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_73
+  - first:
+      213: -3908901935532936719
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_74
+  - first:
+      213: 5053591874153817154
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_75
+  - first:
+      213: 4088001786973565019
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_76
+  - first:
+      213: 3056781332245063807
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_77
+  - first:
+      213: -2258599216147697999
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_78
+  - first:
+      213: -5256158069645276770
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_79
+  - first:
+      213: -5536215604989953761
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_80
+  - first:
+      213: 6516343306592370426
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_81
+  - first:
+      213: 8806649432122146955
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_82
+  - first:
+      213: 1616155654450886635
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_83
+  - first:
+      213: 6868512521909816128
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_84
+  - first:
+      213: -8523251964264333029
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_85
+  - first:
+      213: 4673954164328776518
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_86
+  - first:
+      213: -6458460318889476106
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_87
+  - first:
+      213: 4126412138511271639
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_88
+  - first:
+      213: 6015499129355681835
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_89
+  - first:
+      213: 3943523699980458572
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_90
+  - first:
+      213: 417501293954025483
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_91
+  - first:
+      213: -991648512132645686
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_92
+  - first:
+      213: -4078846429807056981
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_93
+  - first:
+      213: -5763565427351427054
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_94
+  - first:
+      213: -7240023667512079667
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_95
+  - first:
+      213: -252944479358583826
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_96
+  - first:
+      213: 7769533174551007801
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_97
+  - first:
+      213: -2289045967609625122
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_98
+  - first:
+      213: 1401536716149637062
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_99
+  - first:
+      213: 6789507750057058069
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_100
+  - first:
+      213: 2692412068966766778
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_101
+  - first:
+      213: -408815549968242819
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_102
+  - first:
+      213: 3537074046837833852
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_103
+  - first:
+      213: -5185643633872688400
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_104
+  - first:
+      213: 1321104925357797256
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_105
+  - first:
+      213: -3638453044295530656
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_106
+  - first:
+      213: -4002990861207268632
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_107
+  - first:
+      213: 4994860626497143118
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_108
+  - first:
+      213: -7584975401730829356
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_109
+  - first:
+      213: 132273683525135040
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_110
+  - first:
+      213: -3614201292497824824
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_111
+  - first:
+      213: 5251069282051789627
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_112
+  - first:
+      213: -5661549419455776522
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_113
+  - first:
+      213: -8615642428572408715
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_114
+  - first:
+      213: -7894767109609105559
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_115
+  - first:
+      213: -7586295837591779015
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_116
+  - first:
+      213: -2974964645101652388
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_117
+  - first:
+      213: 8138076376562911307
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_118
+  - first:
+      213: -5168582745517679869
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_119
+  - first:
+      213: -2828206846048591714
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_120
+  - first:
+      213: -8335680480885792221
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_121
+  - first:
+      213: -1426026083252513832
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_122
+  - first:
+      213: 2428945302380197861
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_123
+  - first:
+      213: 2815316609566427015
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_124
+  - first:
+      213: 1466319753664024973
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_125
+  - first:
+      213: 2381874221721306204
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_126
+  - first:
+      213: 6980058962453736691
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_127
+  - first:
+      213: 7202803782383849140
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_128
+  - first:
+      213: -6987471892088078196
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_129
+  - first:
+      213: 1374447393393418540
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_130
+  - first:
+      213: -827664577373298804
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_131
+  - first:
+      213: 5483985176965904042
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_132
+  - first:
+      213: 8854076155909093839
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_133
+  - first:
+      213: 4109999549220830290
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_134
+  - first:
+      213: -2666788756819016943
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_135
+  - first:
+      213: 5181003640635240535
+    second: 8_sword_warrior-blue_no_back_swords-Sheet_136
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1006
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e84b9632d13e7f0800000000000000
+      internalID: -584591488693531120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1006
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f46a0e78a632e200800000000000000
+      internalID: 207788630109480180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1007
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932df0fabbff4c430800000000000000
+      internalID: 3802445166968558137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1008
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6916e18414e821730800000000000000
+      internalID: 3968390632700797334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 1009
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a14ce674afe4810800000000000000
+      internalID: 1751612489801669170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 1010
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad25f5e4c7fc0ec30800000000000000
+      internalID: 4386734169856627418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 1010
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415800b91ba227b60800000000000000
+      internalID: 7742297651701384468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 1010
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d17c72bc68ce7b0800000000000000
+      internalID: -5193628063161180881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 1010
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b991dcb2f28cbeb40800000000000000
+      internalID: 5470686277295479195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 1009
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186bad4ec137e29a0800000000000000
+      internalID: -6255936264435222911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 1008
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8abbecfae9a2fb020800000000000000
+      internalID: 2359651590808189864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 1007
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2abd2f525e6007ad0800000000000000
+      internalID: -2706655794795717726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 1006
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 734bfaba9126ca0e0800000000000000
+      internalID: -2257321450825337801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 1006
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84fc15e7a3946de0800000000000000
+      internalID: -1340784439736863604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 850
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 967c348f79517c270800000000000000
+      internalID: 8270602983138641769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 850
+        width: 65
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2120d3eac26f74330800000000000000
+      internalID: 3695192691043009042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 851
+        width: 65
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da11d8f9b0fef080800000000000000
+      internalID: -9151612711236199725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 851
+        width: 65
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd1d078338d90c10800000000000000
+      internalID: 2020383623673093585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 850
+        width: 64
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70bf4586786e42810800000000000000
+      internalID: 1739768825317227271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 850
+        width: 63
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37f8c93d54e24070800000000000000
+      internalID: 8089278969763395387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 849
+        width: 64
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 273613f7b424392b0800000000000000
+      internalID: -5579042621357989006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 849
+        width: 63
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 522da6725a18c3680800000000000000
+      internalID: -8773995427693669851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 686
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd2d18dfcf7975f10800000000000000
+      internalID: 2258440850990289627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 689
+        width: 70
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d965deff682e04a0800000000000000
+      internalID: -6625313540333540907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 689
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60ec028919089fd0800000000000000
+      internalID: -2335106401630887830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 690
+        width: 32
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92606256c6c6f3490800000000000000
+      internalID: -7764368019754187223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 691
+        width: 33
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 556ff4c0502054990800000000000000
+      internalID: -7402508191808883115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 695
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e96d6ff3bff6e55d0800000000000000
+      internalID: -3071894770919483746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 695
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca73735cd1fb4590800000000000000
+      internalID: -7688786010209813823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 695
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e55e1f41ca154fa0800000000000000
+      internalID: -5817213926120729115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 695
+        width: 58
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 430dcda2113eb14b0800000000000000
+      internalID: -5468527659638271948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 675
+        width: 77
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f19741d535606e0800000000000000
+      internalID: -1871716935885316312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 667
+        width: 54
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821085acfdaad0b60800000000000000
+      internalID: 7714009614904721704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 670
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b3d939edc8e2a30800000000000000
+      internalID: 4192443190715693972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 669
+        width: 51
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af815c4280916db0800000000000000
+      internalID: -4800396838499676247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 2146
+        y: 689
+        width: 67
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70fa0f3e019fffa10800000000000000
+      internalID: 1945547414986338055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 2305
+        y: 686
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99865811745d12160800000000000000
+      internalID: 6999109797123811481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 526
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9629c23cf41d93d0800000000000000
+      internalID: -3198377086946826598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 529
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0da2c615b2f2c730800000000000000
+      internalID: 4018040677152763148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 529
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c22d60b2a73901fe0800000000000000
+      internalID: -1220313346100243924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 530
+        width: 32
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4b45f85e3a717c0800000000000000
+      internalID: -4100628729350015828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 531
+        width: 32
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f19fcc421fc8080800000000000000
+      internalID: -9183700399755288824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 531
+        width: 32
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a86a91083f0c35490800000000000000
+      internalID: -7758645580970482038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 532
+        width: 32
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc97bc57e2596620800000000000000
+      internalID: 2767834599642340562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 533
+        width: 33
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a84d93f8319dddf0800000000000000
+      internalID: -153807138469361504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 534
+        width: 32
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207a82a3da1771a90800000000000000
+      internalID: -7343275678585280766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 535
+        width: 32
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5e599adbd452e40800000000000000
+      internalID: 5630992386086004208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 535
+        width: 31
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0ca3a31b8b48580800000000000000
+      internalID: -8825726298413678350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 535
+        width: 32
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21b5198b890fa9d0800000000000000
+      internalID: -2760977551649820370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 535
+        width: 32
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4b2265c87e77950800000000000000
+      internalID: 6446875981530707126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 2141
+        y: 534
+        width: 32
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6677170ce3c7efc0800000000000000
+      internalID: -3465585969739630995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 2301
+        y: 533
+        width: 33
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f3a8b2ab904c5770800000000000000
+      internalID: 8600820425564922867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 2461
+        y: 532
+        width: 32
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b0cd31dcb9e67f90800000000000000
+      internalID: -6956115577253543756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 2621
+        y: 531
+        width: 32
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b0f580621cf69c0800000000000000
+      internalID: -3931711580577789033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 2781
+        y: 531
+        width: 31
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e6d5ad0792c48750800000000000000
+      internalID: 6306379332250359527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 2942
+        y: 529
+        width: 41
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8bbeef6d4c570a0800000000000000
+      internalID: -6884380027687028569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 3105
+        y: 526
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbd5f935c874e85d0800000000000000
+      internalID: -3058428428914041413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 3265
+        y: 526
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0e72cb62af520b0800000000000000
+      internalID: -5753917904623509279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 371
+        width: 32
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f95bd64e6f8054f0800000000000000
+      internalID: -842015426520327689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 371
+        width: 32
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad55be06ae8ef630800000000000000
+      internalID: 3962761565995097514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 372
+        width: 32
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7927d16a869bd0d0800000000000000
+      internalID: -3396955972829763201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 373
+        width: 33
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91dd10f7e88ba0a30800000000000000
+      internalID: 4182358126122622233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 374
+        width: 32
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e300d810b7c6750a0800000000000000
+      internalID: -6892921429104459714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 375
+        width: 32
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51e3088e6d484810800000000000000
+      internalID: 1749733592357134686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 375
+        width: 31
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 129da38c92dfb51f0800000000000000
+      internalID: -1054971331793463007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 375
+        width: 32
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaae10f1916a0e800800000000000000
+      internalID: 639693773911222958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 375
+        width: 32
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deca77f41e629f6f0800000000000000
+      internalID: -650445922035585811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 374
+        width: 32
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 254944135941dbe00800000000000000
+      internalID: 1062027718138565714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 373
+        width: 33
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8eafd5f29599d70800000000000000
+      internalID: 9050362986152782015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 372
+        width: 32
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7177d0287ae472b10800000000000000
+      internalID: 1956619044464195351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 371
+        width: 32
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9949ce0ee0e0300800000000000000
+      internalID: 220129790992357856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 2141
+        y: 371
+        width: 31
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca010a6730980590800000000000000
+      internalID: -7707752194568549691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 206
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ffc8640f2ae3a9c0800000000000000
+      internalID: -3917029763223859209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 209
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c26e45c487509a10800000000000000
+      internalID: 1914126069390009031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 209
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1f8be566ac0c9c0800000000000000
+      internalID: -3908901935532936719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 210
+        width: 32
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2442db2d807f12640800000000000000
+      internalID: 5053591874153817154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 211
+        width: 32
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50b8b157ff7bb830800000000000000
+      internalID: 4088001786973565019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 211
+        width: 32
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7823881d6edb6a20800000000000000
+      internalID: 3056781332245063807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 212
+        width: 32
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be6a8fbaf7d7a0e0800000000000000
+      internalID: -2258599216147697999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 213
+        width: 33
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e998d7f75106e07b0800000000000000
+      internalID: -5256158069645276770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 214
+        width: 32
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1979984d396b23b0800000000000000
+      internalID: -5536215604989953761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 215
+        width: 32
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afebee756b3be6a50800000000000000
+      internalID: 6516343306592370426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 215
+        width: 31
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b804907bff0873a70800000000000000
+      internalID: 8806649432122146955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 215
+        width: 32
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be7b845410dbd6610800000000000000
+      internalID: 1616155654450886635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 215
+        width: 32
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04bc1cb6fbbd15f50800000000000000
+      internalID: 6868512521909816128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_85
+      rect:
+        serializedVersion: 2
+        x: 2141
+        y: 214
+        width: 32
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b11cfd22f7357b980800000000000000
+      internalID: -8523251964264333029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_86
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 79
+        width: 54
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 643464d7c883dd040800000000000000
+      internalID: 4673954164328776518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_87
+      rect:
+        serializedVersion: 2
+        x: 2461
+        y: 212
+        width: 32
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fff2a0fe80fe56a0800000000000000
+      internalID: -6458460318889476106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_88
+      rect:
+        serializedVersion: 2
+        x: 2621
+        y: 211
+        width: 32
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d603d03af5f34930800000000000000
+      internalID: 4126412138511271639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_89
+      rect:
+        serializedVersion: 2
+        x: 2781
+        y: 211
+        width: 31
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20caef26985b7350800000000000000
+      internalID: 6015499129355681835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_90
+      rect:
+        serializedVersion: 2
+        x: 2942
+        y: 209
+        width: 41
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a5ba459e53ab630800000000000000
+      internalID: 3943523699980458572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_91
+      rect:
+        serializedVersion: 2
+        x: 3105
+        y: 206
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08456ff6334bc500800000000000000
+      internalID: 417501293954025483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_92
+      rect:
+        serializedVersion: 2
+        x: 3265
+        y: 206
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: accf944aee4fc32f0800000000000000
+      internalID: -991648512132645686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_93
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 46
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7eaf168c60567c0800000000000000
+      internalID: -4078846429807056981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_94
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 49
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218eefec7c3b300b0800000000000000
+      internalID: -5763565427351427054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_95
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 51
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca858c65d4468b90800000000000000
+      internalID: -7240023667512079667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_96
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 53
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb7fef065c5d7cf0800000000000000
+      internalID: -252944479358583826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_97
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 55
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932d9bbe14de2db60800000000000000
+      internalID: 7769533174551007801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_98
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 71
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5861202dcab30e0800000000000000
+      internalID: -2289045967609625122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_99
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 73
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf34c9b732437310800000000000000
+      internalID: 1401536716149637062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_100
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 62
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f99e9835d293e50800000000000000
+      internalID: 6789507750057058069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_101
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 74
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab81dbff28e5d5520800000000000000
+      internalID: 2692412068966766778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_102
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 63
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77ac7d5c68935af0800000000000000
+      internalID: -408815549968242819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_103
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 71
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c70c50afa16361130800000000000000
+      internalID: 3537074046837833852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_104
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 69
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0faa047f694e808b0800000000000000
+      internalID: -5185643633872688400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_105
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 73
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f68fa1ee1855210800000000000000
+      internalID: 1321104925357797256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_106
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 71
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06783dacb3e918dc0800000000000000
+      internalID: -3638453044295530656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_107
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 75
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e21b9e35058278c0800000000000000
+      internalID: -4002990861207268632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_108
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 102
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4182f0a64f415540800000000000000
+      internalID: 4994860626497143118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_109
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 104
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d312cd1f01ccb690800000000000000
+      internalID: -7584975401730829356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_110
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 73
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cae5afd63ee5d100800000000000000
+      internalID: 132273683525135040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_111
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 85
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3d8e5c217c7ddc0800000000000000
+      internalID: -3614201292497824824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_112
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 104
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3399afc0bb8fd840800000000000000
+      internalID: 5251069282051789627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_113
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 70
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f8f4079cc22e61b0800000000000000
+      internalID: -5661549419455776522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_114
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 106
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574682ddbd61f6880800000000000000
+      internalID: -8615642428572408715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_115
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 68
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 967df4f5427207290800000000000000
+      internalID: -7894767109609105559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_116
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 76
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939415f212018b690800000000000000
+      internalID: -7586295837591779015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_117
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 85
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56be55da6dc6b6d0800000000000000
+      internalID: -2974964645101652388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_118
+      rect:
+        serializedVersion: 2
+        x: 1961
+        y: 87
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48c70cd85140f070800000000000000
+      internalID: 8138076376562911307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_119
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 100
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b943590618548b0800000000000000
+      internalID: -5168582745517679869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_120
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 72
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9022f5abd030c8d0800000000000000
+      internalID: -2828206846048591714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_121
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 94
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32225a754c6b15c80800000000000000
+      internalID: -8335680480885792221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_122
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 70
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3da4b25dcb53ce0800000000000000
+      internalID: -1426026083252513832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_123
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 88
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7b93722e855b120800000000000000
+      internalID: 2428945302380197861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_124
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 78
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 787c67b4a83021720800000000000000
+      internalID: 2815316609566427015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_125
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 85
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d81584c0c0a695410800000000000000
+      internalID: 1466319753664024973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_126
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 77
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54cb552cfd1e0120800000000000000
+      internalID: 2381874221721306204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_127
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 56
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc2658f4a62ed060800000000000000
+      internalID: 6980058962453736691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_128
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 61
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be44d3c0ef75f360800000000000000
+      internalID: 7202803782383849140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_129
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 57
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80401ad553870f90800000000000000
+      internalID: -6987471892088078196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_130
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 59
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c212da54f94031310800000000000000
+      internalID: 1374447393393418540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_131
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 60
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f9d78b37b8384f0800000000000000
+      internalID: -827664577373298804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_132
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 64
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa67f8a86770b1c40800000000000000
+      internalID: 5483985176965904042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_133
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 63
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9b7375a5fffda70800000000000000
+      internalID: 8854076155909093839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_134
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 66
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25cb25670d6a90930800000000000000
+      internalID: 4109999549220830290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_135
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 65
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1130cc241c9adfad0800000000000000
+      internalID: -2666788756819016943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_sword_warrior-blue_no_back_swords-Sheet_136
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 68
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 750b11c6c5f96e740800000000000000
+      internalID: 5181003640635240535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      8_sword_warrior-blue_no_back_swords-Sheet_0: -584591488693531120
+      8_sword_warrior-blue_no_back_swords-Sheet_1: 207788630109480180
+      8_sword_warrior-blue_no_back_swords-Sheet_10: 2359651590808189864
+      8_sword_warrior-blue_no_back_swords-Sheet_100: 6789507750057058069
+      8_sword_warrior-blue_no_back_swords-Sheet_101: 2692412068966766778
+      8_sword_warrior-blue_no_back_swords-Sheet_102: -408815549968242819
+      8_sword_warrior-blue_no_back_swords-Sheet_103: 3537074046837833852
+      8_sword_warrior-blue_no_back_swords-Sheet_104: -5185643633872688400
+      8_sword_warrior-blue_no_back_swords-Sheet_105: 1321104925357797256
+      8_sword_warrior-blue_no_back_swords-Sheet_106: -3638453044295530656
+      8_sword_warrior-blue_no_back_swords-Sheet_107: -4002990861207268632
+      8_sword_warrior-blue_no_back_swords-Sheet_108: 4994860626497143118
+      8_sword_warrior-blue_no_back_swords-Sheet_109: -7584975401730829356
+      8_sword_warrior-blue_no_back_swords-Sheet_11: -2706655794795717726
+      8_sword_warrior-blue_no_back_swords-Sheet_110: 132273683525135040
+      8_sword_warrior-blue_no_back_swords-Sheet_111: -3614201292497824824
+      8_sword_warrior-blue_no_back_swords-Sheet_112: 5251069282051789627
+      8_sword_warrior-blue_no_back_swords-Sheet_113: -5661549419455776522
+      8_sword_warrior-blue_no_back_swords-Sheet_114: -8615642428572408715
+      8_sword_warrior-blue_no_back_swords-Sheet_115: -7894767109609105559
+      8_sword_warrior-blue_no_back_swords-Sheet_116: -7586295837591779015
+      8_sword_warrior-blue_no_back_swords-Sheet_117: -2974964645101652388
+      8_sword_warrior-blue_no_back_swords-Sheet_118: 8138076376562911307
+      8_sword_warrior-blue_no_back_swords-Sheet_119: -5168582745517679869
+      8_sword_warrior-blue_no_back_swords-Sheet_12: -2257321450825337801
+      8_sword_warrior-blue_no_back_swords-Sheet_120: -2828206846048591714
+      8_sword_warrior-blue_no_back_swords-Sheet_121: -8335680480885792221
+      8_sword_warrior-blue_no_back_swords-Sheet_122: -1426026083252513832
+      8_sword_warrior-blue_no_back_swords-Sheet_123: 2428945302380197861
+      8_sword_warrior-blue_no_back_swords-Sheet_124: 2815316609566427015
+      8_sword_warrior-blue_no_back_swords-Sheet_125: 1466319753664024973
+      8_sword_warrior-blue_no_back_swords-Sheet_126: 2381874221721306204
+      8_sword_warrior-blue_no_back_swords-Sheet_127: 6980058962453736691
+      8_sword_warrior-blue_no_back_swords-Sheet_128: 7202803782383849140
+      8_sword_warrior-blue_no_back_swords-Sheet_129: -6987471892088078196
+      8_sword_warrior-blue_no_back_swords-Sheet_13: -1340784439736863604
+      8_sword_warrior-blue_no_back_swords-Sheet_130: 1374447393393418540
+      8_sword_warrior-blue_no_back_swords-Sheet_131: -827664577373298804
+      8_sword_warrior-blue_no_back_swords-Sheet_132: 5483985176965904042
+      8_sword_warrior-blue_no_back_swords-Sheet_133: 8854076155909093839
+      8_sword_warrior-blue_no_back_swords-Sheet_134: 4109999549220830290
+      8_sword_warrior-blue_no_back_swords-Sheet_135: -2666788756819016943
+      8_sword_warrior-blue_no_back_swords-Sheet_136: 5181003640635240535
+      8_sword_warrior-blue_no_back_swords-Sheet_14: 8270602983138641769
+      8_sword_warrior-blue_no_back_swords-Sheet_15: 3695192691043009042
+      8_sword_warrior-blue_no_back_swords-Sheet_16: -9151612711236199725
+      8_sword_warrior-blue_no_back_swords-Sheet_17: 2020383623673093585
+      8_sword_warrior-blue_no_back_swords-Sheet_18: 1739768825317227271
+      8_sword_warrior-blue_no_back_swords-Sheet_19: 8089278969763395387
+      8_sword_warrior-blue_no_back_swords-Sheet_2: 3802445166968558137
+      8_sword_warrior-blue_no_back_swords-Sheet_20: -5579042621357989006
+      8_sword_warrior-blue_no_back_swords-Sheet_21: -8773995427693669851
+      8_sword_warrior-blue_no_back_swords-Sheet_22: 2258440850990289627
+      8_sword_warrior-blue_no_back_swords-Sheet_23: -6625313540333540907
+      8_sword_warrior-blue_no_back_swords-Sheet_24: -2335106401630887830
+      8_sword_warrior-blue_no_back_swords-Sheet_25: -7764368019754187223
+      8_sword_warrior-blue_no_back_swords-Sheet_26: -7402508191808883115
+      8_sword_warrior-blue_no_back_swords-Sheet_27: -3071894770919483746
+      8_sword_warrior-blue_no_back_swords-Sheet_28: -7688786010209813823
+      8_sword_warrior-blue_no_back_swords-Sheet_29: -5817213926120729115
+      8_sword_warrior-blue_no_back_swords-Sheet_3: 3968390632700797334
+      8_sword_warrior-blue_no_back_swords-Sheet_30: -5468527659638271948
+      8_sword_warrior-blue_no_back_swords-Sheet_31: -1871716935885316312
+      8_sword_warrior-blue_no_back_swords-Sheet_32: 7714009614904721704
+      8_sword_warrior-blue_no_back_swords-Sheet_33: 4192443190715693972
+      8_sword_warrior-blue_no_back_swords-Sheet_34: -4800396838499676247
+      8_sword_warrior-blue_no_back_swords-Sheet_35: 1945547414986338055
+      8_sword_warrior-blue_no_back_swords-Sheet_36: 6999109797123811481
+      8_sword_warrior-blue_no_back_swords-Sheet_37: -3198377086946826598
+      8_sword_warrior-blue_no_back_swords-Sheet_38: 4018040677152763148
+      8_sword_warrior-blue_no_back_swords-Sheet_39: -1220313346100243924
+      8_sword_warrior-blue_no_back_swords-Sheet_4: 1751612489801669170
+      8_sword_warrior-blue_no_back_swords-Sheet_40: -4100628729350015828
+      8_sword_warrior-blue_no_back_swords-Sheet_41: -9183700399755288824
+      8_sword_warrior-blue_no_back_swords-Sheet_42: -7758645580970482038
+      8_sword_warrior-blue_no_back_swords-Sheet_43: 2767834599642340562
+      8_sword_warrior-blue_no_back_swords-Sheet_44: -153807138469361504
+      8_sword_warrior-blue_no_back_swords-Sheet_45: -7343275678585280766
+      8_sword_warrior-blue_no_back_swords-Sheet_46: 5630992386086004208
+      8_sword_warrior-blue_no_back_swords-Sheet_47: -8825726298413678350
+      8_sword_warrior-blue_no_back_swords-Sheet_48: -2760977551649820370
+      8_sword_warrior-blue_no_back_swords-Sheet_49: 6446875981530707126
+      8_sword_warrior-blue_no_back_swords-Sheet_5: 4386734169856627418
+      8_sword_warrior-blue_no_back_swords-Sheet_50: -3465585969739630995
+      8_sword_warrior-blue_no_back_swords-Sheet_51: 8600820425564922867
+      8_sword_warrior-blue_no_back_swords-Sheet_52: -6956115577253543756
+      8_sword_warrior-blue_no_back_swords-Sheet_53: -3931711580577789033
+      8_sword_warrior-blue_no_back_swords-Sheet_54: 6306379332250359527
+      8_sword_warrior-blue_no_back_swords-Sheet_55: -6884380027687028569
+      8_sword_warrior-blue_no_back_swords-Sheet_56: -3058428428914041413
+      8_sword_warrior-blue_no_back_swords-Sheet_57: -5753917904623509279
+      8_sword_warrior-blue_no_back_swords-Sheet_58: -842015426520327689
+      8_sword_warrior-blue_no_back_swords-Sheet_59: 3962761565995097514
+      8_sword_warrior-blue_no_back_swords-Sheet_6: 7742297651701384468
+      8_sword_warrior-blue_no_back_swords-Sheet_60: -3396955972829763201
+      8_sword_warrior-blue_no_back_swords-Sheet_61: 4182358126122622233
+      8_sword_warrior-blue_no_back_swords-Sheet_62: -6892921429104459714
+      8_sword_warrior-blue_no_back_swords-Sheet_63: 1749733592357134686
+      8_sword_warrior-blue_no_back_swords-Sheet_64: -1054971331793463007
+      8_sword_warrior-blue_no_back_swords-Sheet_65: 639693773911222958
+      8_sword_warrior-blue_no_back_swords-Sheet_66: -650445922035585811
+      8_sword_warrior-blue_no_back_swords-Sheet_67: 1062027718138565714
+      8_sword_warrior-blue_no_back_swords-Sheet_68: 9050362986152782015
+      8_sword_warrior-blue_no_back_swords-Sheet_69: 1956619044464195351
+      8_sword_warrior-blue_no_back_swords-Sheet_7: -5193628063161180881
+      8_sword_warrior-blue_no_back_swords-Sheet_70: 220129790992357856
+      8_sword_warrior-blue_no_back_swords-Sheet_71: -7707752194568549691
+      8_sword_warrior-blue_no_back_swords-Sheet_72: -3917029763223859209
+      8_sword_warrior-blue_no_back_swords-Sheet_73: 1914126069390009031
+      8_sword_warrior-blue_no_back_swords-Sheet_74: -3908901935532936719
+      8_sword_warrior-blue_no_back_swords-Sheet_75: 5053591874153817154
+      8_sword_warrior-blue_no_back_swords-Sheet_76: 4088001786973565019
+      8_sword_warrior-blue_no_back_swords-Sheet_77: 3056781332245063807
+      8_sword_warrior-blue_no_back_swords-Sheet_78: -2258599216147697999
+      8_sword_warrior-blue_no_back_swords-Sheet_79: -5256158069645276770
+      8_sword_warrior-blue_no_back_swords-Sheet_8: 5470686277295479195
+      8_sword_warrior-blue_no_back_swords-Sheet_80: -5536215604989953761
+      8_sword_warrior-blue_no_back_swords-Sheet_81: 6516343306592370426
+      8_sword_warrior-blue_no_back_swords-Sheet_82: 8806649432122146955
+      8_sword_warrior-blue_no_back_swords-Sheet_83: 1616155654450886635
+      8_sword_warrior-blue_no_back_swords-Sheet_84: 6868512521909816128
+      8_sword_warrior-blue_no_back_swords-Sheet_85: -8523251964264333029
+      8_sword_warrior-blue_no_back_swords-Sheet_86: 4673954164328776518
+      8_sword_warrior-blue_no_back_swords-Sheet_87: -6458460318889476106
+      8_sword_warrior-blue_no_back_swords-Sheet_88: 4126412138511271639
+      8_sword_warrior-blue_no_back_swords-Sheet_89: 6015499129355681835
+      8_sword_warrior-blue_no_back_swords-Sheet_9: -6255936264435222911
+      8_sword_warrior-blue_no_back_swords-Sheet_90: 3943523699980458572
+      8_sword_warrior-blue_no_back_swords-Sheet_91: 417501293954025483
+      8_sword_warrior-blue_no_back_swords-Sheet_92: -991648512132645686
+      8_sword_warrior-blue_no_back_swords-Sheet_93: -4078846429807056981
+      8_sword_warrior-blue_no_back_swords-Sheet_94: -5763565427351427054
+      8_sword_warrior-blue_no_back_swords-Sheet_95: -7240023667512079667
+      8_sword_warrior-blue_no_back_swords-Sheet_96: -252944479358583826
+      8_sword_warrior-blue_no_back_swords-Sheet_97: 7769533174551007801
+      8_sword_warrior-blue_no_back_swords-Sheet_98: -2289045967609625122
+      8_sword_warrior-blue_no_back_swords-Sheet_99: 1401536716149637062
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

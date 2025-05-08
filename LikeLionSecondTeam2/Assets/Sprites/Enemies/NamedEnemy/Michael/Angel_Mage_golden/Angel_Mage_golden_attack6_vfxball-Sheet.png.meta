@@ -1,0 +1,1183 @@
+fileFormatVersion: 2
+guid: c1bf17ee4b0df8040a7ed6eeee69338b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6680427688867224018
+    second: Angel_Mage_golden_attack6_vfxball-Sheet_0
+  - first:
+      213: -6815277373024314898
+    second: Angel_Mage_golden_attack6_vfxball-Sheet_1
+  - first:
+      213: 4712625305299881819
+    second: Angel_Mage_golden_attack6_vfxball-Sheet_2
+  - first:
+      213: -2986621227637796158
+    second: Angel_Mage_golden_attack6_vfxball-Sheet_3
+  - first:
+      213: -5966386174697895302
+    second: Angel_Mage_golden_attack6_vfxball-Sheet_4
+  - first:
+      213: 9110403771617412291
+    second: Angel_Mage_golden_attack6_vfxball-Sheet_5
+  - first:
+      213: 1972802072220702879
+    second: Angel_Mage_golden_attack6_vfxball-Sheet_6
+  - first:
+      213: 7552558552959403423
+    second: Angel_Mage_golden_attack6_vfxball-Sheet_7
+  - first:
+      213: 1255748162052680969
+    second: Angel_Mage_golden_attack6_vfxball-Sheet_8
+  - first:
+      213: 1837359885519540211
+    second: Angel_Mage_golden_attack6_vfxball-Sheet_9
+  - first:
+      213: -9128127120029174844
+    second: Angel_Mage_golden_attack6_vfxball-Sheet_10
+  - first:
+      213: -1665060876486656257
+    second: Angel_Mage_golden_attack6_vfxball-Sheet_11
+  - first:
+      213: -8431232091852848037
+    second: Angel_Mage_golden_attack6_vfxball-Sheet_12
+  - first:
+      213: -2525767038733545010
+    second: Angel_Mage_golden_attack6_vfxball-Sheet_13
+  - first:
+      213: -8583552266929807652
+    second: Angel_Mage_golden_attack6_vfxball-Sheet_14
+  - first:
+      213: -7862896513520299451
+    second: Angel_Mage_golden_attack6_vfxball-Sheet_15
+  - first:
+      213: -429468213316676078
+    second: Angel_Mage_golden_attack6_vfxball-Sheet_16
+  - first:
+      213: -1983419278285534224
+    second: Angel_Mage_golden_attack6_vfxball-Sheet_17
+  - first:
+      213: 525788382467058080
+    second: Angel_Mage_golden_attack6_vfxball-Sheet_18
+  - first:
+      213: -5487412390416816549
+    second: Angel_Mage_golden_attack6_vfxball-Sheet_19
+  - first:
+      213: 795998090027907356
+    second: Angel_Mage_golden_attack6_vfxball-Sheet_20
+  - first:
+      213: 3459328637625217932
+    second: Angel_Mage_golden_attack6_vfxball-Sheet_21
+  - first:
+      213: 4164588401766041143
+    second: Angel_Mage_golden_attack6_vfxball-Sheet_22
+  - first:
+      213: -4487144451590126909
+    second: Angel_Mage_golden_attack6_vfxball-Sheet_23
+  - first:
+      213: 3527752402853326789
+    second: Angel_Mage_golden_attack6_vfxball-Sheet_24
+  - first:
+      213: -3792661105282689876
+    second: Angel_Mage_golden_attack6_vfxball-Sheet_25
+  - first:
+      213: -7095668893527484794
+    second: Angel_Mage_golden_attack6_vfxball-Sheet_26
+  - first:
+      213: 1187662931278189349
+    second: Angel_Mage_golden_attack6_vfxball-Sheet_27
+  - first:
+      213: 1023190684142652332
+    second: Angel_Mage_golden_attack6_vfxball-Sheet_28
+  - first:
+      213: -6909247092337654875
+    second: Angel_Mage_golden_attack6_vfxball-Sheet_29
+  - first:
+      213: -3907879323639417648
+    second: Angel_Mage_golden_attack6_vfxball-Sheet_30
+  - first:
+      213: -456635615199887315
+    second: Angel_Mage_golden_attack6_vfxball-Sheet_31
+  - first:
+      213: -4842155140379110028
+    second: Angel_Mage_golden_attack6_vfxball-Sheet_32
+  - first:
+      213: 4275448144388684773
+    second: Angel_Mage_golden_attack6_vfxball-Sheet_33
+  - first:
+      213: -5911994336769825396
+    second: Angel_Mage_golden_attack6_vfxball-Sheet_34
+  - first:
+      213: 3673357706076761507
+    second: Angel_Mage_golden_attack6_vfxball-Sheet_35
+  - first:
+      213: 2121532438039253458
+    second: Angel_Mage_golden_attack6_vfxball-Sheet_36
+  - first:
+      213: 2736460830697948330
+    second: Angel_Mage_golden_attack6_vfxball-Sheet_37
+  - first:
+      213: -2675718843294634747
+    second: Angel_Mage_golden_attack6_vfxball-Sheet_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack6_vfxball-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 128
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e26a261596a5a43a0800000000000000
+      internalID: -6680427688867224018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack6_vfxball-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 130
+        width: 59
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9d02f86554b61a0800000000000000
+      internalID: -6815277373024314898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack6_vfxball-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 132
+        width: 58
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f8ae12fbb966140800000000000000
+      internalID: 4712625305299881819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack6_vfxball-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 131
+        width: 59
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c2120831d36d86d0800000000000000
+      internalID: -2986621227637796158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack6_vfxball-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 130
+        width: 58
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a8458a263233da0800000000000000
+      internalID: -5966386174697895302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack6_vfxball-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 129
+        width: 60
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c482a716f7ae6e70800000000000000
+      internalID: 9110403771617412291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack6_vfxball-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 127
+        width: 59
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f989ed6480dc06b10800000000000000
+      internalID: 1972802072220702879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack6_vfxball-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 194
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f95cb7e1df310d860800000000000000
+      internalID: 7552558552959403423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack6_vfxball-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 126
+        width: 60
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90def76dc405d6110800000000000000
+      internalID: 1255748162052680969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack6_vfxball-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 193
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ffc1f4c41d9f7910800000000000000
+      internalID: 1837359885519540211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack6_vfxball-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 125
+        width: 59
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c33d0a4fb0625180800000000000000
+      internalID: -9128127120029174844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack6_vfxball-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffebc9764f384e8e0800000000000000
+      internalID: -1665060876486656257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack6_vfxball-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 124
+        width: 58
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b54cc32451f3efa80800000000000000
+      internalID: -8431232091852848037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack6_vfxball-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 191
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec195e6a24ca2fcd0800000000000000
+      internalID: -2525767038733545010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack6_vfxball-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 123
+        width: 60
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde56aad0b811e880800000000000000
+      internalID: -8583552266929807652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack6_vfxball-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54217f5c74161e290800000000000000
+      internalID: -7862896513520299451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack6_vfxball-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 121
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21610f67fe83a0af0800000000000000
+      internalID: -429468213316676078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack6_vfxball-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 122
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb012dccaa7974e0800000000000000
+      internalID: -1983419278285534224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack6_vfxball-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 126
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9e9f38fb9fb4700800000000000000
+      internalID: 525788382467058080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack6_vfxball-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 12
+        width: 60
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56e025218bc8d3b0800000000000000
+      internalID: -5487412390416816549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack6_vfxball-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 77
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19b006ab04fb0b00800000000000000
+      internalID: 795998090027907356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack6_vfxball-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 13
+        width: 59
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c83bcfe4111020030800000000000000
+      internalID: 3459328637625217932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack6_vfxball-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 76
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7360af226179bc930800000000000000
+      internalID: 4164588401766041143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack6_vfxball-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 14
+        width: 58
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c20b1b25e57ab1c0800000000000000
+      internalID: -4487144451590126909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack6_vfxball-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 75
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf6a9b9e1815f030800000000000000
+      internalID: 3527752402853326789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack6_vfxball-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 16
+        width: 60
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca45f22b1d2cd5bc0800000000000000
+      internalID: -3792661105282689876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack6_vfxball-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 74
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686518d5cbe178d90800000000000000
+      internalID: -7095668893527484794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack6_vfxball-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 18
+        width: 59
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5235cbbb42d6b7010800000000000000
+      internalID: 1187662931278189349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack6_vfxball-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 73
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cabcfc1918a133e00800000000000000
+      internalID: 1023190684142652332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack6_vfxball-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 20
+        width: 58
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a340d3506c6d10a0800000000000000
+      internalID: -6909247092337654875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack6_vfxball-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 19
+        width: 59
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4f061c57c64c9c0800000000000000
+      internalID: -3907879323639417648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack6_vfxball-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 18
+        width: 58
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d20083cc354b9a9f0800000000000000
+      internalID: -456635615199887315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack6_vfxball-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 79
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4751f5efd853dccb0800000000000000
+      internalID: -4842155140379110028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack6_vfxball-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 17
+        width: 60
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ebf3ed5f61755b30800000000000000
+      internalID: 4275448144388684773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack6_vfxball-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 15
+        width: 59
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85a6ba497064fda0800000000000000
+      internalID: -5911994336769825396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack6_vfxball-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 11
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad26a31f536af230800000000000000
+      internalID: 3673357706076761507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack6_vfxball-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 10
+        width: 59
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d15cc41382317d10800000000000000
+      internalID: 2121532438039253458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack6_vfxball-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 9
+        width: 58
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa4858b80acd9f520800000000000000
+      internalID: 2736460830697948330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_golden_attack6_vfxball-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 9
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50daa9a73efeddad0800000000000000
+      internalID: -2675718843294634747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Angel_Mage_golden_attack6_vfxball-Sheet_0: -6680427688867224018
+      Angel_Mage_golden_attack6_vfxball-Sheet_1: -6815277373024314898
+      Angel_Mage_golden_attack6_vfxball-Sheet_10: -9128127120029174844
+      Angel_Mage_golden_attack6_vfxball-Sheet_11: -1665060876486656257
+      Angel_Mage_golden_attack6_vfxball-Sheet_12: -8431232091852848037
+      Angel_Mage_golden_attack6_vfxball-Sheet_13: -2525767038733545010
+      Angel_Mage_golden_attack6_vfxball-Sheet_14: -8583552266929807652
+      Angel_Mage_golden_attack6_vfxball-Sheet_15: -7862896513520299451
+      Angel_Mage_golden_attack6_vfxball-Sheet_16: -429468213316676078
+      Angel_Mage_golden_attack6_vfxball-Sheet_17: -1983419278285534224
+      Angel_Mage_golden_attack6_vfxball-Sheet_18: 525788382467058080
+      Angel_Mage_golden_attack6_vfxball-Sheet_19: -5487412390416816549
+      Angel_Mage_golden_attack6_vfxball-Sheet_2: 4712625305299881819
+      Angel_Mage_golden_attack6_vfxball-Sheet_20: 795998090027907356
+      Angel_Mage_golden_attack6_vfxball-Sheet_21: 3459328637625217932
+      Angel_Mage_golden_attack6_vfxball-Sheet_22: 4164588401766041143
+      Angel_Mage_golden_attack6_vfxball-Sheet_23: -4487144451590126909
+      Angel_Mage_golden_attack6_vfxball-Sheet_24: 3527752402853326789
+      Angel_Mage_golden_attack6_vfxball-Sheet_25: -3792661105282689876
+      Angel_Mage_golden_attack6_vfxball-Sheet_26: -7095668893527484794
+      Angel_Mage_golden_attack6_vfxball-Sheet_27: 1187662931278189349
+      Angel_Mage_golden_attack6_vfxball-Sheet_28: 1023190684142652332
+      Angel_Mage_golden_attack6_vfxball-Sheet_29: -6909247092337654875
+      Angel_Mage_golden_attack6_vfxball-Sheet_3: -2986621227637796158
+      Angel_Mage_golden_attack6_vfxball-Sheet_30: -3907879323639417648
+      Angel_Mage_golden_attack6_vfxball-Sheet_31: -456635615199887315
+      Angel_Mage_golden_attack6_vfxball-Sheet_32: -4842155140379110028
+      Angel_Mage_golden_attack6_vfxball-Sheet_33: 4275448144388684773
+      Angel_Mage_golden_attack6_vfxball-Sheet_34: -5911994336769825396
+      Angel_Mage_golden_attack6_vfxball-Sheet_35: 3673357706076761507
+      Angel_Mage_golden_attack6_vfxball-Sheet_36: 2121532438039253458
+      Angel_Mage_golden_attack6_vfxball-Sheet_37: 2736460830697948330
+      Angel_Mage_golden_attack6_vfxball-Sheet_38: -2675718843294634747
+      Angel_Mage_golden_attack6_vfxball-Sheet_4: -5966386174697895302
+      Angel_Mage_golden_attack6_vfxball-Sheet_5: 9110403771617412291
+      Angel_Mage_golden_attack6_vfxball-Sheet_6: 1972802072220702879
+      Angel_Mage_golden_attack6_vfxball-Sheet_7: 7552558552959403423
+      Angel_Mage_golden_attack6_vfxball-Sheet_8: 1255748162052680969
+      Angel_Mage_golden_attack6_vfxball-Sheet_9: 1837359885519540211
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -361,7 +361,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      red_idle_0: 7869279958660487540
+      red_idle_1: -8483899152562261624
+      red_idle_2: -4733859715674724135
+      red_idle_3: 2429059839948096734
+      red_idle_4: 8181699395611227856
+      red_idle_5: -1953209885335825234
+      red_idle_6: 6752910241256058850
+      red_idle_7: -3267841069043628714
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -187,7 +187,11 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
+<<<<<<< HEAD:AnotherName/Assets/Images/Map/EPIC RPG World Pack - Cemetery V 1.6/Props/props by individual sprites/fence 1 - tile - 9.png.meta
       fence 1 - tile - 9_0: 7129903971278974379
+=======
+      take_hit_5_0: 8469541051420539944
+>>>>>>> branch_puc:LikeLionSecondTeam2/Assets/Sprites/Enemies/NamedEnemy/Baal/individual sprites/03_take_hit/take_hit_5.png.meta
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
