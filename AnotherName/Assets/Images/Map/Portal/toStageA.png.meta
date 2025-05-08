@@ -391,13 +391,14 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      toStageA_0: -889180894
-      toStageA_1: 711463663
-      toStageA_2: 852684217
-      toStageA_3: 79283382
-      toStageA_4: -1413807510
-      toStageA_5: -445457237
-      toStageA_6: -747149180
+      blue_idle_0: -8717599501490017918
+      blue_idle_1: -6749337059356267684
+      blue_idle_2: 2958979456605984065
+      blue_idle_3: 4645903802607785146
+      blue_idle_4: 6436035102166498807
+      blue_idle_5: 7446397742292877582
+      blue_idle_6: -7516208775498910575
+      blue_idle_7: 1223864923128852903
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
