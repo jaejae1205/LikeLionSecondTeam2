@@ -398,7 +398,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Angel_Mage_golden_idle-Sheet_0: -9112944981465049600
+      Angel_Mage_golden_idle-Sheet_1: -6159839528225665601
+      Angel_Mage_golden_idle-Sheet_2: 2503373777364995127
+      Angel_Mage_golden_idle-Sheet_3: 217948997927889920
+      Angel_Mage_golden_idle-Sheet_4: -2853784856325665367
+      Angel_Mage_golden_idle-Sheet_5: 1110169864918459583
+      Angel_Mage_golden_idle-Sheet_6: 1164877153328713737
+      Angel_Mage_golden_idle-Sheet_7: -5681947364033375047
+      Angel_Mage_golden_idle-Sheet_8: -2576871651606796905
+      Angel_Mage_golden_idle-Sheet_9: 3764837015686035822
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

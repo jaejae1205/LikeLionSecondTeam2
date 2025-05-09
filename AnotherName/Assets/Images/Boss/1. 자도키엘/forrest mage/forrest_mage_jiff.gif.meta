@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      forrest_mage_jiff_0: -2532383739469311781
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

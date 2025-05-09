@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Ball_attack_red_0: -5753319302348737098
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

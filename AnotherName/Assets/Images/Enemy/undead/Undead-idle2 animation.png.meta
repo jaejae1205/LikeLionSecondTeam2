@@ -348,7 +348,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Undead-idle2 animation_0: -5141437422032871650
+      Undead-idle2 animation_1: 5919281425611097670
+      Undead-idle2 animation_2: 3421249409146575961
+      Undead-idle2 animation_3: -1928296116678126317
+      Undead-idle2 animation_4: -315728601783155582
+      Undead-idle2 animation_5: -1354310360537350473
+      Undead-idle2 animation_6: 431634969057119290
+      Undead-idle2 animation_7: 737220716985228022
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

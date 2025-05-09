@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Angel_Mage_golden_attack6_vfxball_0: 1988155567880211114
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

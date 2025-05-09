@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Angel_Mage_green_death_0: -2555408090040246515
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
