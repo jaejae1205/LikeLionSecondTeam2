@@ -67,7 +67,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -436,7 +436,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Abandoned Structures Elements_9_0: -2805155597054939097
+      Abandoned Structures Elements_9_1: -2616988509683616376
+      Abandoned Structures Elements_9_10: -305280900920198208
+      Abandoned Structures Elements_9_2: -8426080106429193762
+      Abandoned Structures Elements_9_3: -9080032575045841931
+      Abandoned Structures Elements_9_4: -529455598985774402
+      Abandoned Structures Elements_9_5: 2394104237144049705
+      Abandoned Structures Elements_9_6: 7375729544985103768
+      Abandoned Structures Elements_9_7: 28033664116277005
+      Abandoned Structures Elements_9_8: 2485242244894036639
+      Abandoned Structures Elements_9_9: -7584608689799804442
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
