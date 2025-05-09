@@ -89,7 +89,9 @@ public class TestPlayer : MonoBehaviour
 
     private void FixedUpdate()
     {
-        rb.linearVelocity = moveInput.normalized * moveSpeed;
+        // 이동 처리 (Kinematic Rigidbody는 MovePosition 사용)
+        Vector2 moveDelta = moveInput.normalized * moveSpeed * Time.fixedDeltaTime;
+        rb.MovePosition(rb.position + moveDelta);
     }
 
     private void StartAttack()
