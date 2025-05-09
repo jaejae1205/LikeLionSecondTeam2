@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FOG-1-opacity 26 percent_0: 8826949954435294554
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

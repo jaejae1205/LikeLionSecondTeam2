@@ -212,13 +212,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-<<<<<<< HEAD:AnotherName/Assets/Images/Map/StageA/candleB_02.png.meta
       candleB_02_0: -8362096190478349336
       candleB_02_1: -2780731404610510868
-=======
-      demon_death_4_0: 461272216560515251
-      demon_death_4_1: 3223175380190361446
->>>>>>> branch_puc:LikeLionSecondTeam2/Assets/Sprites/Enemies/NamedEnemy/Baal/individual sprites/12_demon_death/demon_death_4.png.meta
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

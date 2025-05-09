@@ -386,7 +386,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Undead-hurt animation_0: -2975623081415429565
+      Undead-hurt animation_1: 655874176821003689
+      Undead-hurt animation_2: -6862941164232412885
+      Undead-hurt animation_3: 7922145428774795755
+      Undead-hurt animation_4: -6123812972807910913
+      Undead-hurt animation_5: -1142008620932237535
+      Undead-hurt animation_6: 1836145428729338482
+      Undead-hurt animation_7: 244830739742051549
+      Undead-hurt animation_8: 4869942585186416235
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

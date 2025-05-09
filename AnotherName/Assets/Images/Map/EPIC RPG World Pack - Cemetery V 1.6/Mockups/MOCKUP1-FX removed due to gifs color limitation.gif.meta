@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MOCKUP1-FX removed due to gifs color limitation_0: 9032239614156680738
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

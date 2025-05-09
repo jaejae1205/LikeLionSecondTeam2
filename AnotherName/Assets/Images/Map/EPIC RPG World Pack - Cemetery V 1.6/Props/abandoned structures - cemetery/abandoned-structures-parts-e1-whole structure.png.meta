@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      abandoned-structures-parts-e1-whole structure_0: -3864100316546240370
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

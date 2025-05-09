@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      stone ground(broken) to grass1_0: -7360261760516650937
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

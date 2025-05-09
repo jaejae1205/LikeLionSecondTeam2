@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      itchio header img_0: -1126365206727083985
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

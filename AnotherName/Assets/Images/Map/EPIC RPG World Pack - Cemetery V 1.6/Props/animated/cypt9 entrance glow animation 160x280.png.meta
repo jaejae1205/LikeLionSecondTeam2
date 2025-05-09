@@ -561,7 +561,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      cypt9 entrance glow animation 160x280_0: -6461615173291448860
+      cypt9 entrance glow animation 160x280_1: 5533844560174154199
+      cypt9 entrance glow animation 160x280_10: -8463252890145108832
+      cypt9 entrance glow animation 160x280_11: 14504566040515712
+      cypt9 entrance glow animation 160x280_12: -3411820709523419316
+      cypt9 entrance glow animation 160x280_13: -6962386076588840773
+      cypt9 entrance glow animation 160x280_14: -7710040222559622550
+      cypt9 entrance glow animation 160x280_15: 888168070346698522
+      cypt9 entrance glow animation 160x280_2: 2999948557584084958
+      cypt9 entrance glow animation 160x280_3: -8074878087673279103
+      cypt9 entrance glow animation 160x280_4: 668525190605032191
+      cypt9 entrance glow animation 160x280_5: -8673318806494194177
+      cypt9 entrance glow animation 160x280_6: 6220522354227260828
+      cypt9 entrance glow animation 160x280_7: -291079191996511763
+      cypt9 entrance glow animation 160x280_8: -3666074937381888746
+      cypt9 entrance glow animation 160x280_9: -9001860865080031512
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

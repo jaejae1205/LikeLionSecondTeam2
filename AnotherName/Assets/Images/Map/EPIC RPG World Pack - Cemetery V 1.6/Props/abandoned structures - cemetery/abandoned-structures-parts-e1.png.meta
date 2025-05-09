@@ -386,7 +386,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      abandoned-structures-parts-e1_0: 5796884838659650575
+      abandoned-structures-parts-e1_1: -5512848948187696007
+      abandoned-structures-parts-e1_2: -7451049547207774331
+      abandoned-structures-parts-e1_3: -5494975593351148837
+      abandoned-structures-parts-e1_4: 1119249825525608473
+      abandoned-structures-parts-e1_5: 5567017794955659058
+      abandoned-structures-parts-e1_6: 4221642898909156959
+      abandoned-structures-parts-e1_7: -135730113825929624
+      abandoned-structures-parts-e1_8: -8345696804922242962
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

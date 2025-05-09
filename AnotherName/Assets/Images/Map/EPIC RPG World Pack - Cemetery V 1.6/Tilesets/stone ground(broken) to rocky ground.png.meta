@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      stone ground(broken) to rocky ground_0: 5435508190918203324
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

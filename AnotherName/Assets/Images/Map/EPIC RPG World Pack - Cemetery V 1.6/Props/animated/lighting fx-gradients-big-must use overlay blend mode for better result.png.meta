@@ -211,7 +211,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      lighting fx-gradients-big-must use overlay blend mode for better result_0: 6451978989832082127
+      lighting fx-gradients-big-must use overlay blend mode for better result_1: 705492545408653493
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

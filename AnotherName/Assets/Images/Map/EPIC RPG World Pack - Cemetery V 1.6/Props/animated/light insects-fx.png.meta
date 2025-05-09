@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      light insects-fx_0: 3186973418519189934
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

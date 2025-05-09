@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      abandoned-structures-day-light-parts-e1-whole structure_0: 7792783882748342928
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

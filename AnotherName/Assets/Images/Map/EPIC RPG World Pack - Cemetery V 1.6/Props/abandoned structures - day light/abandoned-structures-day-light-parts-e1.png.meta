@@ -386,7 +386,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      abandoned-structures-day-light-parts-e1_0: 269654363779329571
+      abandoned-structures-day-light-parts-e1_1: -4656087437014243700
+      abandoned-structures-day-light-parts-e1_2: -6806869718867197643
+      abandoned-structures-day-light-parts-e1_3: 7362640700782576811
+      abandoned-structures-day-light-parts-e1_4: -6694841423045958451
+      abandoned-structures-day-light-parts-e1_5: 2689410571097607730
+      abandoned-structures-day-light-parts-e1_6: 1059587321868351113
+      abandoned-structures-day-light-parts-e1_7: -3539804093420607525
+      abandoned-structures-day-light-parts-e1_8: -8156650987640105263
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

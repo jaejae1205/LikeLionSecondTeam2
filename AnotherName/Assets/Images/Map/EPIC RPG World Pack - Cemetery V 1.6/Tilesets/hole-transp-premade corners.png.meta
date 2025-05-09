@@ -361,7 +361,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      hole-transp-premade corners_0: 1968190332149908714
+      hole-transp-premade corners_1: -8101155874304812415
+      hole-transp-premade corners_2: 8566767956317996474
+      hole-transp-premade corners_3: 5287012774135668802
+      hole-transp-premade corners_4: -8442621143690637635
+      hole-transp-premade corners_5: 7794788082110973700
+      hole-transp-premade corners_6: -7072106439732841583
+      hole-transp-premade corners_7: 5511025368550082356
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

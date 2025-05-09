@@ -361,7 +361,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      animated crow for the environment-flying_0: 8874201080021224439
+      animated crow for the environment-flying_1: 1137603616644853594
+      animated crow for the environment-flying_2: -6702006067960585112
+      animated crow for the environment-flying_3: -6856259576593064734
+      animated crow for the environment-flying_4: -2778007423502346841
+      animated crow for the environment-flying_5: 3042308353035778256
+      animated crow for the environment-flying_6: 780488009448150370
+      animated crow for the environment-flying_7: 833167227322788370
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

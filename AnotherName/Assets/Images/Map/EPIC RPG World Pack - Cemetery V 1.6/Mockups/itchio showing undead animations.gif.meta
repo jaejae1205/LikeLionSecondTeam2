@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      itchio showing undead animations_0: 6665343574314928145
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

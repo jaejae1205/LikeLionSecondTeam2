@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      leaves to rocky ground_0: 3534065385097618990
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
