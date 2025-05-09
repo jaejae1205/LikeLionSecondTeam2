@@ -16,10 +16,21 @@ public class CharacterSelectManager : MonoBehaviour
     [TextArea] public string[] skillEDescriptions;
     [TextArea] public string[] skillRDescriptions;
 
-    [Header("인스펙터에서 설정할 데이터")]
-    public string[] characterIds;              // ✅ 각 캐릭터의 고유 ID
+    [Header("프리팹 분리")]
+    public GameObject[] characterPreviewPrefabs;   // 사용 안 해도 무방
+    public GameObject[] characterPlayablePrefabs;  // 인게임용
+
+    public Transform previewRoot;
+    private GameObject currentPreview;
+
+    [Header("캐릭터 데이터")]
+    public string[] characterIds;
     public string[] characterNames;
     public Sprite[] characterPortraits;
+
+    [Header("효과음")]
+    public AudioClip selectSfx;
+    public AudioClip confirmSfx;
 
     [Header("패시브 스킬 아이콘")]
     public Sprite[] passiveSkillIcons;
@@ -33,10 +44,6 @@ public class CharacterSelectManager : MonoBehaviour
     public Sprite[] skillRIcons;
     public Sprite[] skillEIcons;
     public Sprite[] skillQIcons;
-
-    [Header("효과음")]
-    public AudioClip selectSfx;
-    public AudioClip confirmSfx;
 
     private int selectedIndex = -1;
 
@@ -61,6 +68,15 @@ public class CharacterSelectManager : MonoBehaviour
         {
             descriptionText.text = characterDescriptions[index];
         }
+
+        if (currentPreview != null)
+            Destroy(currentPreview);
+
+        if (characterPreviewPrefabs.Length > index && characterPreviewPrefabs[index] != null)
+        {
+            currentPreview = Instantiate(characterPreviewPrefabs[index], previewRoot.position, Quaternion.identity, previewRoot);
+            currentPreview.transform.localScale = Vector3.one * 2f;
+        }
     }
 
     public void ConfirmSelection()
@@ -82,7 +98,7 @@ public class CharacterSelectManager : MonoBehaviour
 
         yield return new WaitForSeconds(0.3f);
 
-        // ✅ 기존 Player 제거
+        // ✅ 씬 내 기존 Player 제거
         GameObject existingPlayer = GameObject.FindWithTag("Player");
         if (existingPlayer != null)
         {
@@ -90,23 +106,22 @@ public class CharacterSelectManager : MonoBehaviour
             Debug.Log("[선택] 기존 씬 Player 오브젝트 제거 완료");
         }
 
-        // ✅ 선택된 캐릭터 ID로 프리팹 로드
-        string id = characterIds[selectedIndex];
-        GameObject selectedPlayablePrefab = Resources.Load<GameObject>($"Characters/{id}");
-
-        if (selectedPlayablePrefab == null)
+        // ✅ 이전 선택된 프리팹 제거
+        if (SelectedCharacterData.Instance.selectedCharacterPrefab != null)
         {
-            Debug.LogError($"[선택 실패] Resources/Characters/{id}.prefab 파일을 찾을 수 없습니다. ID를 확인하세요.");
-            yield break;
+            Destroy(SelectedCharacterData.Instance.selectedCharacterPrefab);
+            SelectedCharacterData.Instance.selectedCharacterPrefab = null;
+            Debug.Log("[선택] selectedCharacterPrefab 제거 완료");
         }
 
-        // ✅ 프리팹 인스턴스화 및 유지
+        // ✅ 새 캐릭터 프리팹 인스턴스화
+        GameObject selectedPlayablePrefab = characterPlayablePrefabs[selectedIndex];
         GameObject persistentPrefab = Instantiate(selectedPlayablePrefab);
         DontDestroyOnLoad(persistentPrefab);
 
         string prefabName = selectedPlayablePrefab.name;
 
-        // ✅ 캐릭터 이름 커스터마이징
+        // 자동 캐릭터 이름 부여
         string autoName = characterNames[selectedIndex];
         switch (prefabName)
         {
@@ -115,9 +130,9 @@ public class CharacterSelectManager : MonoBehaviour
             case "Player3": autoName = "다가설 수 없는 자"; break;
         }
 
-        // ✅ 선택 캐릭터 정보 저장
+        // ✅ 선택 캐릭터 데이터 저장
         SelectedCharacterData.Instance.SelectCharacter(
-            id, autoName, characterPortraits[selectedIndex], passiveSkillIcons[selectedIndex],
+            characterIds[selectedIndex], autoName, characterPortraits[selectedIndex], passiveSkillIcons[selectedIndex],
             skillRIcons[selectedIndex], skillEIcons[selectedIndex], skillQIcons[selectedIndex],
             skillQDescriptions[selectedIndex], skillEDescriptions[selectedIndex], skillRDescriptions[selectedIndex],
             passiveSkillNames[selectedIndex], passiveSkillDescriptions[selectedIndex], passiveSkillLevels[selectedIndex],
@@ -125,7 +140,6 @@ public class CharacterSelectManager : MonoBehaviour
             prefabName
         );
 
-        // ✅ 다음 씬으로 이동
         SceneManager.LoadScene("VillageScene");
     }
 }

@@ -1,7 +1,6 @@
 ﻿using System.Collections;
 using UnityEngine;
 using UnityEngine.SceneManagement;
-using UnityEngine.EventSystems;
 using Unity.Cinemachine;
 
 public class PlayerSpawnManager : MonoBehaviour
@@ -12,47 +11,14 @@ public class PlayerSpawnManager : MonoBehaviour
     private Rigidbody2D playerRb;
     private CinemachineCamera virtualCamera;
 
-    private void Awake()
-    {
-        RemoveDuplicateEventSystems();
-    }
-
-    private void OnEnable()
-    {
-        SceneManager.sceneLoaded += OnSceneLoaded;
-    }
-
-    private void OnDisable()
-    {
-        SceneManager.sceneLoaded -= OnSceneLoaded;
-    }
-
-    private void OnSceneLoaded(Scene scene, LoadSceneMode mode)
-    {
-        StartCoroutine(ResetCameraConfiner());
-    }
-
     private void Start()
     {
         StartCoroutine(WaitForCameraAndSpawn());
     }
 
-    private void RemoveDuplicateEventSystems()
-    {
-        var eventSystems = FindObjectsOfType<EventSystem>();
-        if (eventSystems.Length > 1)
-        {
-            for (int i = 1; i < eventSystems.Length; i++)
-            {
-                Destroy(eventSystems[i].gameObject);
-                Debug.Log("[이벤트시스템] 중복된 EventSystem 제거 완료");
-            }
-        }
-    }
-
     private IEnumerator WaitForCameraAndSpawn()
     {
-        LoadingUIManager.Instance?.ShowLoading();
+        LoadingUIManager.Instance?.ShowLoading(); // 로딩 UI 표시
 
         float waitTime = 0f;
         float timeout = 3f;
@@ -69,12 +35,12 @@ public class PlayerSpawnManager : MonoBehaviour
                 }
 
                 virtualCamera = cameras[0];
-                HandleCameraRootPersistence(virtualCamera);
             }
             else if (cameras.Length == 1)
             {
                 virtualCamera = cameras[0];
-                HandleCameraRootPersistence(virtualCamera);
+                DontDestroyOnLoad(virtualCamera.gameObject);
+                Debug.Log("[스폰] CinemachineCamera 최초 인식 및 DontDestroyOnLoad 처리 완료");
             }
 
             waitTime += Time.unscaledDeltaTime;
@@ -87,24 +53,7 @@ public class PlayerSpawnManager : MonoBehaviour
         yield return StartCoroutine(ApplySpawn());
 
         yield return new WaitForSeconds(0.2f);
-        LoadingUIManager.Instance?.HideLoading();
-    }
-
-    private void HandleCameraRootPersistence(CinemachineCamera cam)
-    {
-        var parent = cam.transform.root;
-
-        GameObject existing = GameObject.Find(parent.name);
-        if (existing != null && existing != parent.gameObject)
-        {
-            Debug.Log($"[스폰] 중복된 Settings({parent.name}) 제거");
-            Destroy(parent.gameObject);
-        }
-        else
-        {
-            DontDestroyOnLoad(parent.gameObject);
-            Debug.Log($"[스폰] Settings({parent.name})에 DontDestroyOnLoad 적용 완료");
-        }
+        LoadingUIManager.Instance?.HideLoading(); // 로딩 UI 종료
     }
 
     private IEnumerator ApplySpawn()
@@ -119,6 +68,7 @@ public class PlayerSpawnManager : MonoBehaviour
             yield return null;
         }
 
+        // ✅ 선택된 캐릭터 프리팹 연결 (DontDestroyOnLoad 된 객체)
         if (player == null && SelectedCharacterData.Instance != null)
         {
             GameObject prefab = SelectedCharacterData.Instance.selectedCharacterPrefab;
@@ -174,6 +124,31 @@ public class PlayerSpawnManager : MonoBehaviour
                     virtualCamera.LookAt = player.transform;
                     Debug.Log("[스폰] CinemachineCamera의 LookAt 대상도 설정됨");
                 }
+
+                // ✅ Confiner 자동 설정
+                var confiner = virtualCamera.GetComponent<CinemachineConfiner2D>();
+                if (confiner != null)
+                {
+                    GameObject groundObject = GameObject.FindWithTag("Ground");
+                    if (groundObject != null)
+                    {
+                        Collider2D groundCollider = groundObject.GetComponent<Collider2D>();
+                        if (groundCollider != null)
+                        {
+                            confiner.BoundingShape2D = groundCollider;
+                            confiner.InvalidateBoundingShapeCache();
+                            Debug.Log("[카메라] Confiner에 Ground Collider 자동 설정 완료");
+                        }
+                        else
+                        {
+                            Debug.LogWarning("[카메라] Ground 오브젝트에 Collider2D가 없습니다.");
+                        }
+                    }
+                    else
+                    {
+                        Debug.LogWarning("[카메라] 'Ground' 태그를 가진 오브젝트를 찾지 못했습니다.");
+                    }
+                }
             }
             else
             {
@@ -203,42 +178,6 @@ public class PlayerSpawnManager : MonoBehaviour
         }
     }
 
-    private IEnumerator ResetCameraConfiner()
-    {
-        float timeout = 3f;
-        float elapsed = 0f;
-        GameObject ground = null;
-        Collider2D groundCollider = null;
-
-        while (elapsed < timeout)
-        {
-            ground = GameObject.FindWithTag("Ground");
-            if (ground != null)
-            {
-                groundCollider = ground.GetComponent<Collider2D>();
-                if (groundCollider != null) break;
-            }
-
-            elapsed += Time.unscaledDeltaTime;
-            yield return null;
-        }
-
-        if (virtualCamera != null && groundCollider != null)
-        {
-            var confiner = virtualCamera.GetComponent<CinemachineConfiner2D>();
-            if (confiner != null)
-            {
-                confiner.BoundingShape2D = groundCollider;
-                confiner.InvalidateBoundingShapeCache();
-                Debug.Log("[카메라] Confiner 재설정 완료");
-            }
-        }
-        else
-        {
-            Debug.LogWarning("[카메라] Ground 또는 Collider2D를 찾지 못해 Confiner 설정 실패");
-        }
-    }
-
     private IEnumerator WaitUntilCameraFoundAndAssignFollow()
     {
         float waitTime = 0f;
@@ -255,7 +194,22 @@ public class PlayerSpawnManager : MonoBehaviour
                 virtualCamera.Follow = player?.transform;
                 virtualCamera.LookAt = player?.transform;
 
-                StartCoroutine(ResetCameraConfiner());
+                // ✅ Confiner도 재설정
+                var confiner = virtualCamera.GetComponent<CinemachineConfiner2D>();
+                if (confiner != null)
+                {
+                    GameObject groundObject = GameObject.FindWithTag("Ground");
+                    if (groundObject != null)
+                    {
+                        Collider2D groundCollider = groundObject.GetComponent<Collider2D>();
+                        if (groundCollider != null)
+                        {
+                            confiner.BoundingShape2D = groundCollider;
+                            confiner.InvalidateBoundingShapeCache();
+                            Debug.Log("[카메라] 재설정된 Confiner에 Ground Collider 자동 적용");
+                        }
+                    }
+                }
 
                 virtualCamera.gameObject.SetActive(false);
                 yield return null;

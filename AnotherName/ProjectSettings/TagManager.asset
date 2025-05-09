@@ -9,7 +9,6 @@ TagManager:
   - InGameUI
   - NPC
   - Sign
-  - Ground
   layers:
   - Default
   - TransparentFX
