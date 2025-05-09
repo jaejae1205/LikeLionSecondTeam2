@@ -212,8 +212,13 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
+<<<<<<< HEAD:AnotherName/Assets/Images/Map/StageA/candleB_03.png.meta
       candleB_03_0: 5320140309716882587
       candleB_03_1: 7914293986467661058
+=======
+      transform_26_0: 8444445875177069672
+      transform_26_1: 5049872430377567399
+>>>>>>> branch_puc:LikeLionSecondTeam2/Assets/Sprites/Enemies/NamedEnemy/Baal/individual sprites/04_transform/transform_26.png.meta
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -187,7 +187,11 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
+<<<<<<< HEAD:AnotherName/Assets/Images/Map/EPIC RPG World Pack - Cemetery V 1.6/Props/props by individual sprites/crypt7_frame4.png.meta
       crypt7_frame4_0: -8470450489965784052
+=======
+      transform_12_0: -8332294869984722349
+>>>>>>> branch_puc:LikeLionSecondTeam2/Assets/Sprites/Enemies/NamedEnemy/Baal/individual sprites/04_transform/transform_12.png.meta
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

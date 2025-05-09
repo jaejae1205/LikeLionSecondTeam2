@@ -187,7 +187,11 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
+<<<<<<< HEAD:AnotherName/Assets/Images/Map/EPIC RPG World Pack - Cemetery V 1.6/Props/props by individual sprites/fence 1 - tile - 5.png.meta
       fence 1 - tile - 5_0: 429002824436890362
+=======
+      idle_6_0: -3270031921086647399
+>>>>>>> branch_puc:LikeLionSecondTeam2/Assets/Sprites/Enemies/NamedEnemy/Baal/individual sprites/01_idle/idle_6.png.meta
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
