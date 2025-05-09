@@ -391,7 +391,6 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-<<<<<<< HEAD:AnotherName/Assets/Images/Map/Portal/toStageA.png.meta
       toStageA_0: -889180894
       toStageA_1: 711463663
       toStageA_2: 852684217
@@ -399,15 +398,6 @@ TextureImporter:
       toStageA_4: -1413807510
       toStageA_5: -445457237
       toStageA_6: -747149180
-=======
-      sword_90_deg_blue-Sheet_0: 7842780627378770367
-      sword_90_deg_blue-Sheet_1: 9032409890078573575
-      sword_90_deg_blue-Sheet_2: -1458032026410729025
-      sword_90_deg_blue-Sheet_3: 5838112899693877639
-      sword_90_deg_blue-Sheet_4: -8311546906944703025
-      sword_90_deg_blue-Sheet_5: -6107485324408907996
-      sword_90_deg_blue-Sheet_6: 4519376662049034949
->>>>>>> branch_puc:LikeLionSecondTeam2/Assets/Sprites/Enemies/NamedEnemy/Raziel/sword_sprite/sword_90_deg_blue-Sheet.png.meta
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

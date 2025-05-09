@@ -261,11 +261,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      forrest_mage_0: 2588084238578454764
-      forrest_mage_1: 9221824451082528307
-      forrest_mage_2: 4241485842487349901
-      forrest_mage_3: 4029113786717119949
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

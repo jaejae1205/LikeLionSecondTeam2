@@ -511,21 +511,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      Ball_attack_red-Sheet_0: -886365505758274429
-      Ball_attack_red-Sheet_1: 3438941645302115814
-      Ball_attack_red-Sheet_10: 2193728869523773112
-      Ball_attack_red-Sheet_11: 8503590637120109721
-      Ball_attack_red-Sheet_12: 6599929353398748741
-      Ball_attack_red-Sheet_13: -3489679969690805072
-      Ball_attack_red-Sheet_2: -7437376536404448013
-      Ball_attack_red-Sheet_3: 6698141169928139891
-      Ball_attack_red-Sheet_4: 127434698735813152
-      Ball_attack_red-Sheet_5: -7521470247029607186
-      Ball_attack_red-Sheet_6: -8024821098775073679
-      Ball_attack_red-Sheet_7: -712023780032173892
-      Ball_attack_red-Sheet_8: 4115480435435448806
-      Ball_attack_red-Sheet_9: 8847885347879682930
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
