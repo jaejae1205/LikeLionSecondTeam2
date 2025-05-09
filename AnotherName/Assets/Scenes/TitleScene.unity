@@ -1390,10 +1390,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: OptionManager
       objectReference: {fileID: 0}
-    - target: {fileID: 3280195701266939539, guid: ff059e016dac4a7469b57d82671893ae, type: 3}
-      propertyPath: m_TagString
-      value: OptionUI
-      objectReference: {fileID: 0}
     - target: {fileID: 7779628266196781034, guid: ff059e016dac4a7469b57d82671893ae, type: 3}
       propertyPath: m_LocalPosition.x
       value: 850.95496
