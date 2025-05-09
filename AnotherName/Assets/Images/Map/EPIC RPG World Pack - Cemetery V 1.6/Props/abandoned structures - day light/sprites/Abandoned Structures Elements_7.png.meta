@@ -40,7 +40,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -211,7 +211,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Abandoned Structures Elements_7_0: 8482497297386580348
+      Abandoned Structures Elements_7_1: 4407586910223666303
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
