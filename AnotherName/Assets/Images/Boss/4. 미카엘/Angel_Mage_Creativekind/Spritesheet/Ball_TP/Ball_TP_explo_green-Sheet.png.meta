@@ -1,0 +1,781 @@
+fileFormatVersion: 2
+guid: 217f06d057f716c49b31c086a19dc241
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3826022909982660559
+    second: Ball_TP_explo_green-Sheet_0
+  - first:
+      213: 6115544018310372364
+    second: Ball_TP_explo_green-Sheet_1
+  - first:
+      213: 7394744566795307380
+    second: Ball_TP_explo_green-Sheet_2
+  - first:
+      213: -1000606481400075124
+    second: Ball_TP_explo_green-Sheet_3
+  - first:
+      213: 7917950273502497762
+    second: Ball_TP_explo_green-Sheet_4
+  - first:
+      213: 9066483505367656491
+    second: Ball_TP_explo_green-Sheet_5
+  - first:
+      213: -8127959801382948474
+    second: Ball_TP_explo_green-Sheet_6
+  - first:
+      213: 1171959388506166069
+    second: Ball_TP_explo_green-Sheet_7
+  - first:
+      213: -6322072260137798375
+    second: Ball_TP_explo_green-Sheet_8
+  - first:
+      213: 1944450243012833746
+    second: Ball_TP_explo_green-Sheet_9
+  - first:
+      213: 4474068232762131802
+    second: Ball_TP_explo_green-Sheet_10
+  - first:
+      213: 3226685856382281765
+    second: Ball_TP_explo_green-Sheet_11
+  - first:
+      213: -9039678266089908363
+    second: Ball_TP_explo_green-Sheet_12
+  - first:
+      213: -7232514586517570311
+    second: Ball_TP_explo_green-Sheet_13
+  - first:
+      213: -8406994371012280431
+    second: Ball_TP_explo_green-Sheet_14
+  - first:
+      213: 3752388315102807995
+    second: Ball_TP_explo_green-Sheet_15
+  - first:
+      213: -3929370693130693404
+    second: Ball_TP_explo_green-Sheet_16
+  - first:
+      213: 1294056875888873299
+    second: Ball_TP_explo_green-Sheet_17
+  - first:
+      213: -8236626993881408592
+    second: Ball_TP_explo_green-Sheet_18
+  - first:
+      213: 8112994687898257286
+    second: Ball_TP_explo_green-Sheet_19
+  - first:
+      213: 4799965951227267938
+    second: Ball_TP_explo_green-Sheet_20
+  - first:
+      213: -3292821906615231348
+    second: Ball_TP_explo_green-Sheet_21
+  - first:
+      213: -8533647838480275496
+    second: Ball_TP_explo_green-Sheet_22
+  - first:
+      213: 3452826596518830134
+    second: Ball_TP_explo_green-Sheet_23
+  - first:
+      213: 3595372655376755014
+    second: Ball_TP_explo_green-Sheet_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ball_TP_explo_green-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 24
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc7d504c093c81530800000000000000
+      internalID: 3826022909982660559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ball_TP_explo_green-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 17
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c97a312e6ced450800000000000000
+      internalID: 6115544018310372364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ball_TP_explo_green-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 13
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 479859421096f9660800000000000000
+      internalID: 7394744566795307380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ball_TP_explo_green-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 7
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ce134e4b12d12f0800000000000000
+      internalID: -1000606481400075124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ball_TP_explo_green-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 7
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ebc25992d532ed60800000000000000
+      internalID: 7917950273502497762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ball_TP_explo_green-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 7
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28a06b36be92dd70800000000000000
+      internalID: 9066483505367656491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ball_TP_explo_green-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 7
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6813ae9df9fa33f80800000000000000
+      internalID: -8127959801382948474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ball_TP_explo_green-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 47
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5331813cad2a34010800000000000000
+      internalID: 1171959388506166069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ball_TP_explo_green-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 60
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915b22276cc7348a0800000000000000
+      internalID: -6322072260137798375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ball_TP_explo_green-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 39
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d1b332a1331cfa10800000000000000
+      internalID: 1944450243012833746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ball_TP_explo_green-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 26
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5585a26a55171e30800000000000000
+      internalID: 4474068232762131802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ball_TP_explo_green-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 61
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528617fc0bd77cc20800000000000000
+      internalID: 3226685856382281765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ball_TP_explo_green-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 44
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57754e1e28c9c8280800000000000000
+      internalID: -9039678266089908363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ball_TP_explo_green-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 9
+        width: 143
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fcf9c59d42f0ab90800000000000000
+      internalID: -7232514586517570311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ball_TP_explo_green-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 52
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19fba17692b545b80800000000000000
+      internalID: -8406994371012280431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ball_TP_explo_green-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 31
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb78705aa49231430800000000000000
+      internalID: 3752388315102807995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ball_TP_explo_green-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 18
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e45d1d5c221879c0800000000000000
+      internalID: -3929370693130693404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ball_TP_explo_green-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 36
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f02865fd965f110800000000000000
+      internalID: 1294056875888873299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ball_TP_explo_green-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 8
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb1e4a736f91bd80800000000000000
+      internalID: -8236626993881408592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ball_TP_explo_green-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 18
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6878ec42fa5279070800000000000000
+      internalID: 8112994687898257286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ball_TP_explo_green-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 24
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b0fd0f997ec9240800000000000000
+      internalID: 4799965951227267938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ball_TP_explo_green-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 17
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c139b0ceb8d42d0800000000000000
+      internalID: -3292821906615231348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ball_TP_explo_green-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 8
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d76a1d0184629980800000000000000
+      internalID: -8533647838480275496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ball_TP_explo_green-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 8
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 630a684ee77eaef20800000000000000
+      internalID: 3452826596518830134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ball_TP_explo_green-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 8
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64962e6816455e130800000000000000
+      internalID: 3595372655376755014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
