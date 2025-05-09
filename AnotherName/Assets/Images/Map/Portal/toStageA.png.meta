@@ -240,7 +240,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: f756c7d48b0b78b47b8278f1ab42c28d
-      internalID: -889180894
+      internalID: -4595574272415174579
       vertices: []
       indices: 
       edges: []
@@ -262,7 +262,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ce0ac3f743078264fb8969ab4c78072f
-      internalID: 711463663
+      internalID: -1024570518030571256
       vertices: []
       indices: 
       edges: []
@@ -284,7 +284,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e687db6e4858c8640bda78b8b270ca26
-      internalID: 852684217
+      internalID: -2776347300171683940
       vertices: []
       indices: 
       edges: []
@@ -306,7 +306,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 935d671d6bbe55747875908464a4ae37
-      internalID: 79283382
+      internalID: 4593989120208986490
       vertices: []
       indices: 
       edges: []
@@ -328,7 +328,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 133243d2e7cac3944b822012d9a665cf
-      internalID: -1413807510
+      internalID: 5793531498432127001
       vertices: []
       indices: 
       edges: []
@@ -350,7 +350,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 573b60fd5681a604587e1edb6a0a02e3
-      internalID: -445457237
+      internalID: 2477857683576047256
       vertices: []
       indices: 
       edges: []
@@ -372,7 +372,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 4f812e39b222b184b991b48bcb43f2c7
-      internalID: -747149180
+      internalID: 6338309803953923871
       vertices: []
       indices: 
       edges: []
@@ -391,23 +391,13 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-<<<<<<< HEAD:AnotherName/Assets/Images/Map/Portal/toStageA.png.meta
-      toStageA_0: -889180894
-      toStageA_1: 711463663
-      toStageA_2: 852684217
-      toStageA_3: 79283382
-      toStageA_4: -1413807510
-      toStageA_5: -445457237
-      toStageA_6: -747149180
-=======
-      sword_90_deg_blue-Sheet_0: 7842780627378770367
-      sword_90_deg_blue-Sheet_1: 9032409890078573575
-      sword_90_deg_blue-Sheet_2: -1458032026410729025
-      sword_90_deg_blue-Sheet_3: 5838112899693877639
-      sword_90_deg_blue-Sheet_4: -8311546906944703025
-      sword_90_deg_blue-Sheet_5: -6107485324408907996
-      sword_90_deg_blue-Sheet_6: 4519376662049034949
->>>>>>> branch_puc:LikeLionSecondTeam2/Assets/Sprites/Enemies/NamedEnemy/Raziel/sword_sprite/sword_90_deg_blue-Sheet.png.meta
+      toStageA_0: -4595574272415174579
+      toStageA_1: -1024570518030571256
+      toStageA_2: -2776347300171683940
+      toStageA_3: 4593989120208986490
+      toStageA_4: 5793531498432127001
+      toStageA_5: 2477857683576047256
+      toStageA_6: 6338309803953923871
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
