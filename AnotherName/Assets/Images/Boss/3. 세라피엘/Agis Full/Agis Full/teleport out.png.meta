@@ -1848,7 +1848,75 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      teleport out_0: 2908213405399412643
+      teleport out_1: -2335642047836701204
+      teleport out_10: -7024235888518261641
+      teleport out_11: 6413221428404225190
+      teleport out_12: 3536615715868919587
+      teleport out_13: 7402847088414395949
+      teleport out_14: 3134378255159009449
+      teleport out_15: -5103269137971220641
+      teleport out_16: 7327370620851165772
+      teleport out_17: 3200316073298627503
+      teleport out_18: -7899737396089157349
+      teleport out_19: -3098404877958579234
+      teleport out_2: 2794984871601292170
+      teleport out_20: -5557537655181498810
+      teleport out_21: 9177144259166776345
+      teleport out_22: -1397100077025696927
+      teleport out_23: 3680929459366453182
+      teleport out_24: 390740411866127962
+      teleport out_25: 7428290567320234592
+      teleport out_26: -9180843597614500856
+      teleport out_27: -2217043285928405802
+      teleport out_28: 5889964166184740646
+      teleport out_29: -8307389023847523161
+      teleport out_3: 7829402840174588217
+      teleport out_30: 3125758679497345585
+      teleport out_31: -889100016087487167
+      teleport out_32: 6228217906977981947
+      teleport out_33: -1664841782454103232
+      teleport out_34: 8474739679143767773
+      teleport out_35: -3710598422262494578
+      teleport out_36: -6116573871758501921
+      teleport out_37: -2258149384354761702
+      teleport out_38: -385443634553071096
+      teleport out_39: 9019919086696816556
+      teleport out_4: -6272519668453215646
+      teleport out_40: -1176006369186510060
+      teleport out_41: 258089917032705915
+      teleport out_42: 8371081101868971097
+      teleport out_43: 2066468406776626454
+      teleport out_44: -5445995254710070903
+      teleport out_45: -7497802043357108770
+      teleport out_46: -2505937141105990744
+      teleport out_47: -501296501390188703
+      teleport out_48: -6158670448460744746
+      teleport out_49: -6923194401255423828
+      teleport out_5: 4009407108886259641
+      teleport out_50: 6267932767821087324
+      teleport out_51: -1901564361829915731
+      teleport out_52: -8345256192667815641
+      teleport out_53: -3977555387600899118
+      teleport out_54: -6908733286523865138
+      teleport out_55: 1459043151570962781
+      teleport out_56: 2379846134371091717
+      teleport out_57: 7997723667606713197
+      teleport out_58: 7684491340936400489
+      teleport out_59: -3626298603829543816
+      teleport out_6: -8650856189674073758
+      teleport out_60: -4033474652056751603
+      teleport out_61: -6930295445699396861
+      teleport out_62: 5244682838245474493
+      teleport out_63: -4117607360479523870
+      teleport out_64: -536888044461916520
+      teleport out_65: -9102276233303771811
+      teleport out_66: -1279056740079656464
+      teleport out_67: 9065661533168817236
+      teleport out_7: -618243857396451616
+      teleport out_8: 4096653671421488314
+      teleport out_9: 2197346802426650866
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

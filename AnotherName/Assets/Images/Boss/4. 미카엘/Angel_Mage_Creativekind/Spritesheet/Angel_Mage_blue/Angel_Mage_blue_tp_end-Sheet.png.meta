@@ -423,7 +423,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Angel_Mage_blue_tp_end-Sheet_0: -9220233954764884640
+      Angel_Mage_blue_tp_end-Sheet_1: -5950122933075839048
+      Angel_Mage_blue_tp_end-Sheet_10: -2879019188709353080
+      Angel_Mage_blue_tp_end-Sheet_2: 3616771040454064454
+      Angel_Mage_blue_tp_end-Sheet_3: -498575835147678740
+      Angel_Mage_blue_tp_end-Sheet_4: -4312343125032885517
+      Angel_Mage_blue_tp_end-Sheet_5: 7823963795471503200
+      Angel_Mage_blue_tp_end-Sheet_6: 331591770383052993
+      Angel_Mage_blue_tp_end-Sheet_7: -1171328072158452341
+      Angel_Mage_blue_tp_end-Sheet_8: -5520671334698069641
+      Angel_Mage_blue_tp_end-Sheet_9: 4879682863532227329
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

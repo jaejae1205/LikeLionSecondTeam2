@@ -398,7 +398,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Angel_Mage_golden_run-Sheet_0: -4251884866221718880
+      Angel_Mage_golden_run-Sheet_1: -8862455353445818349
+      Angel_Mage_golden_run-Sheet_2: 5638882224689016147
+      Angel_Mage_golden_run-Sheet_3: 8716854112604772802
+      Angel_Mage_golden_run-Sheet_4: -3378040210167273021
+      Angel_Mage_golden_run-Sheet_5: 8866500511526502247
+      Angel_Mage_golden_run-Sheet_6: 7306681768113231279
+      Angel_Mage_golden_run-Sheet_7: -3393725045966793445
+      Angel_Mage_golden_run-Sheet_8: 3447795419547029705
+      Angel_Mage_golden_run-Sheet_9: 2256892714546359378
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

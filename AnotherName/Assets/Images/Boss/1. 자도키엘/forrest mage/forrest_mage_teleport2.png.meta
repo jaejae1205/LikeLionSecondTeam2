@@ -273,7 +273,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      forrest_mage_teleport2_0: -565506079939689760
+      forrest_mage_teleport2_1: 3599915859629566397
+      forrest_mage_teleport2_2: 6817197163508283357
+      forrest_mage_teleport2_3: -2513094194955675240
+      forrest_mage_teleport2_4: -5599208038405210707
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

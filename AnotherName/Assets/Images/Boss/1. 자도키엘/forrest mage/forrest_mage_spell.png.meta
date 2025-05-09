@@ -573,7 +573,24 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      forrest_mage_spell_0: 3109506389342999609
+      forrest_mage_spell_1: 1828609442626352296
+      forrest_mage_spell_10: 7774118572897652862
+      forrest_mage_spell_11: -4793386134838236044
+      forrest_mage_spell_12: 5970464141115266295
+      forrest_mage_spell_13: 2258704506893004460
+      forrest_mage_spell_14: -9000288530932889867
+      forrest_mage_spell_15: 5710807898428931739
+      forrest_mage_spell_16: 6993068951308750081
+      forrest_mage_spell_2: -6135861547079082892
+      forrest_mage_spell_3: -8908755960128678743
+      forrest_mage_spell_4: -2319050374670605672
+      forrest_mage_spell_5: -6550897571613633913
+      forrest_mage_spell_6: 1934510431617310238
+      forrest_mage_spell_7: -5819302974119830614
+      forrest_mage_spell_8: 3308131470642380314
+      forrest_mage_spell_9: 6258748193533365814
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
