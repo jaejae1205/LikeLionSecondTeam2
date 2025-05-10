@@ -1,82 +1,31 @@
 fileFormatVersion: 2
-guid: 020de64f52d0c164d95ffb70ca3fa29c
+guid: 40a959ad6c3d6704eb05c205ab6d7ef4
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7773031391787181946
-    second: sprite-sheet_0
+      213: -5467614089638234826
+    second: Bat2-walk animation_0
   - first:
-      213: -1426790471357470633
-    second: sprite-sheet_1
+      213: -6310145568740434841
+    second: Bat2-walk animation_1
   - first:
-      213: -2506210909196879853
-    second: sprite-sheet_2
+      213: 5888755954363313142
+    second: Bat2-walk animation_2
   - first:
-      213: -8907015550746980148
-    second: sprite-sheet_3
+      213: -8039142478602585860
+    second: Bat2-walk animation_3
   - first:
-      213: -3085487725770422062
-    second: sprite-sheet_4
+      213: -263723892433643951
+    second: Bat2-walk animation_4
   - first:
-      213: -7371053094594084745
-    second: sprite-sheet_5
+      213: 9023631204189257007
+    second: Bat2-walk animation_5
   - first:
-      213: -3062665138650254500
-    second: sprite-sheet_6
+      213: -3909550727881011168
+    second: Bat2-walk animation_6
   - first:
-      213: -1924591734268745998
-    second: sprite-sheet_7
-  - first:
-      213: 2940483688060090369
-    second: sprite-sheet_8
-  - first:
-      213: 4123475054659131201
-    second: sprite-sheet_9
-  - first:
-      213: -7328016140542092180
-    second: sprite-sheet_10
-  - first:
-      213: 573168479056981123
-    second: sprite-sheet_11
-  - first:
-      213: -2052979034590239150
-    second: sprite-sheet_12
-  - first:
-      213: -599754731956233123
-    second: sprite-sheet_13
-  - first:
-      213: 8364850724636403409
-    second: sprite-sheet_14
-  - first:
-      213: -6650122099543898603
-    second: sprite-sheet_15
-  - first:
-      213: -4952747364788223248
-    second: sprite-sheet_16
-  - first:
-      213: -4558533973277291694
-    second: sprite-sheet_17
-  - first:
-      213: 192454500139917738
-    second: sprite-sheet_18
-  - first:
-      213: -3988586098559631296
-    second: sprite-sheet_19
-  - first:
-      213: 4585784099227081989
-    second: sprite-sheet_20
-  - first:
-      213: 7910205142894628472
-    second: sprite-sheet_21
-  - first:
-      213: -5453835138508083989
-    second: sprite-sheet_22
-  - first:
-      213: 1334599240327533485
-    second: sprite-sheet_23
-  - first:
-      213: -6627865198301778148
-    second: sprite-sheet_24
+      213: -3863718555780953690
+    second: Bat2-walk animation_7
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -109,7 +58,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -123,7 +72,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 30
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -224,155 +173,177 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: toStageA_0
+      name: Bat2-walk animation_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 64
-        width: 64
-        height: 64
+        x: 31
+        y: 45
+        width: 36
+        height: 23
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: f756c7d48b0b78b47b8278f1ab42c28d
-      internalID: -4595574272415174579
+      spriteID: 635313244f12f14b0800000000000000
+      internalID: -5467614089638234826
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: toStageA_1
+      name: Bat2-walk animation_1
       rect:
         serializedVersion: 2
-        x: 64
-        y: 64
-        width: 64
-        height: 64
+        x: 126
+        y: 44
+        width: 38
+        height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: ce0ac3f743078264fb8969ab4c78072f
-      internalID: -1024570518030571256
+      spriteID: 76c983ea90cdd68a0800000000000000
+      internalID: -6310145568740434841
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: toStageA_2
+      name: Bat2-walk animation_2
       rect:
         serializedVersion: 2
-        x: 128
-        y: 64
-        width: 64
-        height: 64
+        x: 223
+        y: 44
+        width: 35
+        height: 25
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: e687db6e4858c8640bda78b8b270ca26
-      internalID: -2776347300171683940
+      spriteID: 6fbaacc275019b150800000000000000
+      internalID: 5888755954363313142
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: toStageA_3
+      name: Bat2-walk animation_3
       rect:
         serializedVersion: 2
-        x: 192
-        y: 64
-        width: 64
-        height: 64
+        x: 319
+        y: 36
+        width: 36
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 935d671d6bbe55747875908464a4ae37
-      internalID: 4593989120208986490
+      spriteID: cf8b328428a3f6090800000000000000
+      internalID: -8039142478602585860
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: toStageA_4
+      name: Bat2-walk animation_4
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 64
-        height: 64
+        x: 417
+        y: 39
+        width: 32
+        height: 27
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 133243d2e7cac3944b822012d9a665cf
-      internalID: 5793531498432127001
+      spriteID: 15695b06480175cf0800000000000000
+      internalID: -263723892433643951
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: toStageA_5
+      name: Bat2-walk animation_5
       rect:
         serializedVersion: 2
-        x: 64
-        y: 0
-        width: 64
-        height: 64
+        x: 512
+        y: 41
+        width: 33
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 573b60fd5681a604587e1edb6a0a02e3
-      internalID: 2477857683576047256
+      spriteID: f2db4dd55c06a3d70800000000000000
+      internalID: 9023631204189257007
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: toStageA_6
+      name: Bat2-walk animation_6
       rect:
         serializedVersion: 2
-        x: 128
-        y: 0
-        width: 64
-        height: 64
+        x: 607
+        y: 42
+        width: 36
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 4f812e39b222b184b991b48bcb43f2c7
-      internalID: 6338309803953923871
+      spriteID: 0205841a35c7eb9c0800000000000000
+      internalID: -3909550727881011168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat2-walk animation_7
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 40
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a94792c170516ac0800000000000000
+      internalID: -3863718555780953690
       vertices: []
       indices: 
       edges: []
@@ -381,7 +352,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 6f32e4323b0d1a34da589b66eacbac71
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -391,13 +362,14 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      toStageA_0: -4595574272415174579
-      toStageA_1: -1024570518030571256
-      toStageA_2: -2776347300171683940
-      toStageA_3: 4593989120208986490
-      toStageA_4: 5793531498432127001
-      toStageA_5: 2477857683576047256
-      toStageA_6: 6338309803953923871
+      idle_0: 8793639957104055765
+      idle_1: 6084859605308855041
+      idle_2: 8603369663158992956
+      idle_3: -5906421172241655209
+      idle_4: 5704420531145803721
+      idle_5: -148617073940163930
+      idle_6: 4729606205655721961
+      idle_7: -2073685336235588006
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

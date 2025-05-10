@@ -1,5 +1,9 @@
 fileFormatVersion: 2
-guid: ef0957968034e6149a1d750513cb522b
+<<<<<<<< HEAD:AnotherName/Assets/Animation/Sprites/Sky/FromTheSky.png.meta
+guid: bf711ba757200aa47bb06add7db767d7
+========
+guid: 7323a5968cbc55248b7a677cc5d8047b
+>>>>>>>> branch_puc:AnotherName/Assets/Images/Boss/3. 세라피엘/Agis Full/Agis Full/attack2.png.meta
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -375,7 +379,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
-    buildTarget: iOS
+    buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -389,19 +393,6 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
     buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -2568,6 +2559,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
+<<<<<<<< HEAD:AnotherName/Assets/Animation/Sprites/Sky/FromTheSky.png.meta
       FromTheSky_0: 5910385640235780665
       FromTheSky_1: -3524667201595564117
       FromTheSky_10: -4687288047748953695
@@ -2664,6 +2656,110 @@ TextureImporter:
       FromTheSky_93: -5337840124828828974
       FromTheSky_94: 8136992084614438730
       FromTheSky_95: 6388281086097176291
+========
+      attack2_0: 8960278200517875464
+      attack2_1: -2465810860969379800
+      attack2_10: 7349703736009592938
+      attack2_100: -885522912043680927
+      attack2_101: 5516576631373308318
+      attack2_11: 7897007326269470006
+      attack2_12: 3546899277706344861
+      attack2_13: 3404559316335041068
+      attack2_14: -3085586742092536919
+      attack2_15: 529350200360652149
+      attack2_16: -6407345795641083186
+      attack2_17: 8128577087835474335
+      attack2_18: 3388321471743658438
+      attack2_19: -1373983342756087650
+      attack2_2: 5002756131240677261
+      attack2_20: -724106961184138799
+      attack2_21: 5502310619759235725
+      attack2_22: -1560000461162224091
+      attack2_23: -5857474597501581907
+      attack2_24: 5611266007970651507
+      attack2_25: -2107683236688485224
+      attack2_26: 5945101626041334105
+      attack2_27: 9024171775981450563
+      attack2_28: -5770401990249816495
+      attack2_29: 5706793357365440767
+      attack2_3: -3764604929125962900
+      attack2_30: -6453511409761839285
+      attack2_31: 6224414853980172902
+      attack2_32: 7313590300143134460
+      attack2_33: -2529480178275606493
+      attack2_34: 3215543099593954894
+      attack2_35: 3966251697951262526
+      attack2_36: -1017977328077991959
+      attack2_37: 3220418089751612505
+      attack2_38: -61043431449387281
+      attack2_39: -7395167334989267251
+      attack2_4: 5997235080567257955
+      attack2_40: -270285563602706568
+      attack2_41: -7129425802439451254
+      attack2_42: -1611822075670612304
+      attack2_43: 45511651303437286
+      attack2_44: -4920122265919995502
+      attack2_45: -84367437617648374
+      attack2_46: -3128800445853018548
+      attack2_47: 8711312301146430557
+      attack2_48: -2620793944512555430
+      attack2_49: -8687837968545935709
+      attack2_5: 1118178883266758183
+      attack2_50: 4875506739113151050
+      attack2_51: -6336551142733997548
+      attack2_52: -6160471911825316899
+      attack2_53: -5354214142217935757
+      attack2_54: -7959890804299150737
+      attack2_55: -1565830518739932325
+      attack2_56: -9012927323021179612
+      attack2_57: 640249653783535010
+      attack2_58: -5345795729381853533
+      attack2_59: -819164533451911856
+      attack2_6: 4375527575771685114
+      attack2_60: -636970226795454959
+      attack2_61: 1379709516787165213
+      attack2_62: -916470205589447555
+      attack2_63: 7319703727314454772
+      attack2_64: 485307461801547837
+      attack2_65: 4295871264951284496
+      attack2_66: 1346923513255174095
+      attack2_67: -6062877143261640437
+      attack2_68: -5346850749913560363
+      attack2_69: -393901433678359524
+      attack2_7: -47836001822693131
+      attack2_70: -4112862660811973267
+      attack2_71: 4329608622823242129
+      attack2_72: -3133636024991570206
+      attack2_73: 5741656530063144807
+      attack2_74: 3798360049773114377
+      attack2_75: 4701768447514860086
+      attack2_76: -2642597121301676974
+      attack2_77: 5092833900414418645
+      attack2_78: -8856146949431784592
+      attack2_79: -2296154414816910009
+      attack2_8: -5006914002284409324
+      attack2_80: 3325738644981026234
+      attack2_81: -3070504245927760314
+      attack2_82: 4388589924851057697
+      attack2_83: -2182187692499686215
+      attack2_84: 5795921023290150048
+      attack2_85: -8122625621368741091
+      attack2_86: -6570717920143686051
+      attack2_87: 2252789034447485729
+      attack2_88: 8131259214664714455
+      attack2_89: -7430807113584794103
+      attack2_9: 4818371918333672716
+      attack2_90: -8999351867271705694
+      attack2_91: -7826688385915539585
+      attack2_92: -2320912032295138299
+      attack2_93: 3866181522235842284
+      attack2_94: -8528455276097485720
+      attack2_95: 8137233932177873429
+      attack2_96: -2581042572879365106
+      attack2_97: 5298304562965851114
+      attack2_98: -6534157286844040383
+      attack2_99: 4068293316560302668
+>>>>>>>> branch_puc:AnotherName/Assets/Images/Boss/3. 세라피엘/Agis Full/Agis Full/attack2.png.meta
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 521a20271d511e7498547f0257a7bc8f
+guid: 0227e0a49de2e1048b20ac9c8fdf67f2
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6033505196294241038
-    second: spike_0_0
+      213: -5293095295874296911
+    second: crypt - 5_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -152,13 +152,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: spike_0_0
+      name: crypt - 5_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 13
-        height: 12
+        x: 7
+        y: 6
+        width: 142
+        height: 200
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -167,8 +167,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2f48868adfea44ca0800000000000000
-      internalID: -6033505196294241038
+      spriteID: 1b31f175fd52b86b0800000000000000
+      internalID: -5293095295874296911
       vertices: []
       indices: 
       edges: []
@@ -187,7 +187,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      spike_0_0: -6033505196294241038
+      crypt - 5_0: -5293095295874296911
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
