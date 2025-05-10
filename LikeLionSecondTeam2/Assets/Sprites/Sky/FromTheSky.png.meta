@@ -375,7 +375,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
-    buildTarget: iOS
+    buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -389,19 +389,6 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
     buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -2568,6 +2555,103 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
+      FromTheSky_0: 5910385640235780665
+      FromTheSky_1: -3524667201595564117
+      FromTheSky_10: -4687288047748953695
+      FromTheSky_11: 5808045470407986706
+      FromTheSky_12: 6262218476230417634
+      FromTheSky_13: -7490210379031018926
+      FromTheSky_14: 2905334709698961401
+      FromTheSky_15: 3353236702380552751
+      FromTheSky_16: 7424348382586091160
+      FromTheSky_17: 3185996884601715993
+      FromTheSky_18: 3141094320843918539
+      FromTheSky_19: 3502413962114173093
+      FromTheSky_2: -574799080086099987
+      FromTheSky_20: 7385912717488851959
+      FromTheSky_21: 5297567773253734932
+      FromTheSky_22: -2156952408400342597
+      FromTheSky_23: 1124107498567991467
+      FromTheSky_24: -3471869122571357577
+      FromTheSky_25: 2715917377378819604
+      FromTheSky_26: 7418244093504061426
+      FromTheSky_27: -4003516300517667532
+      FromTheSky_28: -1454023781047382965
+      FromTheSky_29: -4407085719150220165
+      FromTheSky_3: -8538229871358108089
+      FromTheSky_30: -8154882941030379529
+      FromTheSky_31: 644645315960439560
+      FromTheSky_32: -6350086781529658947
+      FromTheSky_33: -3762888801819331110
+      FromTheSky_34: 1256066608571683511
+      FromTheSky_35: 4260147066571702641
+      FromTheSky_36: -7154704398274975224
+      FromTheSky_37: 8628630263372872932
+      FromTheSky_38: -1306361882193243711
+      FromTheSky_39: -8491828209629920845
+      FromTheSky_4: 6369974698963715130
+      FromTheSky_40: 7683971222128661384
+      FromTheSky_41: -8121958711060520666
+      FromTheSky_42: 1204844064539986697
+      FromTheSky_43: 1187249230991946646
+      FromTheSky_44: 756002208526472791
+      FromTheSky_45: -4697274715755747121
+      FromTheSky_46: 2116991493377086281
+      FromTheSky_47: 1971098101655649907
+      FromTheSky_48: -5983601332047049578
+      FromTheSky_49: -5216018637364723506
+      FromTheSky_5: -4622592651600682700
+      FromTheSky_50: -2400380456286665446
+      FromTheSky_51: 8792718686320611480
+      FromTheSky_52: -4098127550471775386
+      FromTheSky_53: -971331529210078337
+      FromTheSky_54: 4769469337495193724
+      FromTheSky_55: 4483075883903406248
+      FromTheSky_56: -7299372828177670418
+      FromTheSky_57: 4099632219728866349
+      FromTheSky_58: -5954131948867431284
+      FromTheSky_59: 3617769019633368011
+      FromTheSky_6: -8800244668478904815
+      FromTheSky_60: 659702012089115272
+      FromTheSky_61: -6922619754151932283
+      FromTheSky_62: 5313607640775533074
+      FromTheSky_63: 7002262470814044745
+      FromTheSky_64: 3766295830576005328
+      FromTheSky_65: -1462564483641744968
+      FromTheSky_66: 8555249463263027257
+      FromTheSky_67: 3579772446791391929
+      FromTheSky_68: 6164526934806877353
+      FromTheSky_69: -1586697041400899244
+      FromTheSky_7: -3398823566727209796
+      FromTheSky_70: -6706240525930391979
+      FromTheSky_71: -9069062246713669220
+      FromTheSky_72: 984837304546990705
+      FromTheSky_73: 2464475255986405365
+      FromTheSky_74: 4323925651283904591
+      FromTheSky_75: 3033522286779055813
+      FromTheSky_76: -888716522837543219
+      FromTheSky_77: -1888316023002390273
+      FromTheSky_78: 1753067586606049590
+      FromTheSky_79: -894121913910942972
+      FromTheSky_8: 3829947934185360072
+      FromTheSky_80: -4686383287655908198
+      FromTheSky_81: 4783453521844613270
+      FromTheSky_82: -3398574850997461257
+      FromTheSky_83: -4986213849484418486
+      FromTheSky_84: -1612561881475699243
+      FromTheSky_85: -3960224755566464729
+      FromTheSky_86: -3311204579128108573
+      FromTheSky_87: 2204115784791886233
+      FromTheSky_88: 1797853608492710595
+      FromTheSky_89: 6956309136299039753
+      FromTheSky_9: 148321478196577880
+      FromTheSky_90: -3126987173315398463
+      FromTheSky_91: 8704173301575421694
+      FromTheSky_92: -346062631243669171
+      FromTheSky_93: -5337840124828828974
+      FromTheSky_94: 8136992084614438730
+      FromTheSky_95: 6388281086097176291
+
       attack2_0: 8960278200517875464
       attack2_1: -2465810860969379800
       attack2_10: 7349703736009592938
