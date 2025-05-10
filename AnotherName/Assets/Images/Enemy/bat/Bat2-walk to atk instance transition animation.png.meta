@@ -153,19 +153,6 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: iOS
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -336,14 +323,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      Bat2-walk to atk instance transition animation_0: 420515151805083568
-      Bat2-walk to atk instance transition animation_1: 5751201718585223658
-      Bat2-walk to atk instance transition animation_2: 4450160565760443979
-      Bat2-walk to atk instance transition animation_3: -1466737415418273382
-      Bat2-walk to atk instance transition animation_4: 1196437984172114466
-      Bat2-walk to atk instance transition animation_5: 1239536532654208587
-      Bat2-walk to atk instance transition animation_6: 6172520751535285703
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

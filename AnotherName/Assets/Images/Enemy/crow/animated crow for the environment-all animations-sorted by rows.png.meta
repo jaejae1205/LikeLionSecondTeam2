@@ -387,19 +387,6 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: iOS
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -2286,92 +2273,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      animated crow for the environment-all animations-sorted by rows_0: -5177898491473496189
-      animated crow for the environment-all animations-sorted by rows_1: 5996180571256488743
-      animated crow for the environment-all animations-sorted by rows_10: 4686608685330299992
-      animated crow for the environment-all animations-sorted by rows_11: -2232085592760953169
-      animated crow for the environment-all animations-sorted by rows_12: 6509991387614512135
-      animated crow for the environment-all animations-sorted by rows_13: 6398115470993495575
-      animated crow for the environment-all animations-sorted by rows_14: -7856257792442842939
-      animated crow for the environment-all animations-sorted by rows_15: 4604759442875121018
-      animated crow for the environment-all animations-sorted by rows_16: 3006737785648968724
-      animated crow for the environment-all animations-sorted by rows_17: 1085135828094188377
-      animated crow for the environment-all animations-sorted by rows_18: -7309789218540089407
-      animated crow for the environment-all animations-sorted by rows_19: 6130087436783388011
-      animated crow for the environment-all animations-sorted by rows_2: -7158563998111849698
-      animated crow for the environment-all animations-sorted by rows_20: 298626970139237192
-      animated crow for the environment-all animations-sorted by rows_21: 3501848592689304963
-      animated crow for the environment-all animations-sorted by rows_22: -8511783020122385715
-      animated crow for the environment-all animations-sorted by rows_23: 1518176240104748308
-      animated crow for the environment-all animations-sorted by rows_24: -7045448933114834055
-      animated crow for the environment-all animations-sorted by rows_25: -7157057890913736508
-      animated crow for the environment-all animations-sorted by rows_26: -8750144094537043536
-      animated crow for the environment-all animations-sorted by rows_27: -1103155221513964380
-      animated crow for the environment-all animations-sorted by rows_28: -4908014392748073512
-      animated crow for the environment-all animations-sorted by rows_29: 1164695633190532134
-      animated crow for the environment-all animations-sorted by rows_3: -1304709700693944116
-      animated crow for the environment-all animations-sorted by rows_30: 6277767876609103152
-      animated crow for the environment-all animations-sorted by rows_31: -7417642805712367003
-      animated crow for the environment-all animations-sorted by rows_32: -5546786130231726925
-      animated crow for the environment-all animations-sorted by rows_33: 2952482297265036155
-      animated crow for the environment-all animations-sorted by rows_34: 8167789669340275341
-      animated crow for the environment-all animations-sorted by rows_35: 3431823330792250431
-      animated crow for the environment-all animations-sorted by rows_36: 8817105808186572189
-      animated crow for the environment-all animations-sorted by rows_37: 976935580413431909
-      animated crow for the environment-all animations-sorted by rows_38: -6437622153720107623
-      animated crow for the environment-all animations-sorted by rows_39: 4767144494676071387
-      animated crow for the environment-all animations-sorted by rows_4: 1638018266773299571
-      animated crow for the environment-all animations-sorted by rows_40: -5821706049565587137
-      animated crow for the environment-all animations-sorted by rows_41: 7583788514147472795
-      animated crow for the environment-all animations-sorted by rows_42: -2922843289404526436
-      animated crow for the environment-all animations-sorted by rows_43: -6545829261429161039
-      animated crow for the environment-all animations-sorted by rows_44: 7241056856092941746
-      animated crow for the environment-all animations-sorted by rows_45: -8361628520647121979
-      animated crow for the environment-all animations-sorted by rows_46: -4232918979537469588
-      animated crow for the environment-all animations-sorted by rows_47: -888424878445949906
-      animated crow for the environment-all animations-sorted by rows_48: 8994620728698216539
-      animated crow for the environment-all animations-sorted by rows_49: 6718943404792497271
-      animated crow for the environment-all animations-sorted by rows_5: 9197236564411084824
-      animated crow for the environment-all animations-sorted by rows_50: -1629413941524231570
-      animated crow for the environment-all animations-sorted by rows_51: -6277856120244248559
-      animated crow for the environment-all animations-sorted by rows_52: -8617444173075223535
-      animated crow for the environment-all animations-sorted by rows_53: 2103174081751838408
-      animated crow for the environment-all animations-sorted by rows_54: 5720674939191793934
-      animated crow for the environment-all animations-sorted by rows_55: -8599024611179836878
-      animated crow for the environment-all animations-sorted by rows_56: -9050415130709531346
-      animated crow for the environment-all animations-sorted by rows_57: 693612351097634717
-      animated crow for the environment-all animations-sorted by rows_58: -8067989522118348348
-      animated crow for the environment-all animations-sorted by rows_59: 7128735407085511638
-      animated crow for the environment-all animations-sorted by rows_6: 3703153702923748666
-      animated crow for the environment-all animations-sorted by rows_60: 7038365948233598255
-      animated crow for the environment-all animations-sorted by rows_61: 913955200968090740
-      animated crow for the environment-all animations-sorted by rows_62: 6020652354875105254
-      animated crow for the environment-all animations-sorted by rows_63: -5710362898067088827
-      animated crow for the environment-all animations-sorted by rows_64: 4336507373783200376
-      animated crow for the environment-all animations-sorted by rows_65: 2389454594658875002
-      animated crow for the environment-all animations-sorted by rows_66: -3692819728384838539
-      animated crow for the environment-all animations-sorted by rows_67: -8351905855788065166
-      animated crow for the environment-all animations-sorted by rows_68: 98132804824372519
-      animated crow for the environment-all animations-sorted by rows_69: 8953634834344590398
-      animated crow for the environment-all animations-sorted by rows_7: 4532373008708761803
-      animated crow for the environment-all animations-sorted by rows_70: 1316231112575914960
-      animated crow for the environment-all animations-sorted by rows_71: 8696298315522643586
-      animated crow for the environment-all animations-sorted by rows_72: -6697730506593068358
-      animated crow for the environment-all animations-sorted by rows_73: 3170341519018600904
-      animated crow for the environment-all animations-sorted by rows_74: -5199489444062747142
-      animated crow for the environment-all animations-sorted by rows_75: -1867193472847355547
-      animated crow for the environment-all animations-sorted by rows_76: 8375151563579026163
-      animated crow for the environment-all animations-sorted by rows_77: 4981899691507384118
-      animated crow for the environment-all animations-sorted by rows_78: -5965101305183897455
-      animated crow for the environment-all animations-sorted by rows_79: 5535887651983186158
-      animated crow for the environment-all animations-sorted by rows_8: 4818819712172090891
-      animated crow for the environment-all animations-sorted by rows_80: 4527826325482113348
-      animated crow for the environment-all animations-sorted by rows_81: -8190944995665573849
-      animated crow for the environment-all animations-sorted by rows_82: -3128798468252843943
-      animated crow for the environment-all animations-sorted by rows_83: 6988768189145416028
-      animated crow for the environment-all animations-sorted by rows_84: -726988497286564456
-      animated crow for the environment-all animations-sorted by rows_9: 7782009703045332893
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

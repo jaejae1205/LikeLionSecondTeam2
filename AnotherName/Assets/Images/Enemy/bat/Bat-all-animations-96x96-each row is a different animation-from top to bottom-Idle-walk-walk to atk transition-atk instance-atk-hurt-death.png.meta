@@ -412,19 +412,6 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: iOS
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -2051,77 +2038,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      Bat-all-animations-96x96-each row is a different animation-from top to bottom-Idle-walk-walk to atk transition-atk instance-atk-hurt-death_0: -4632362920441209596
-      Bat-all-animations-96x96-each row is a different animation-from top to bottom-Idle-walk-walk to atk transition-atk instance-atk-hurt-death_1: -6082924283915147876
-      Bat-all-animations-96x96-each row is a different animation-from top to bottom-Idle-walk-walk to atk transition-atk instance-atk-hurt-death_10: 212824386445452668
-      Bat-all-animations-96x96-each row is a different animation-from top to bottom-Idle-walk-walk to atk transition-atk instance-atk-hurt-death_11: -983660054560859905
-      Bat-all-animations-96x96-each row is a different animation-from top to bottom-Idle-walk-walk to atk transition-atk instance-atk-hurt-death_12: -4883558104542922745
-      Bat-all-animations-96x96-each row is a different animation-from top to bottom-Idle-walk-walk to atk transition-atk instance-atk-hurt-death_13: -4608829486635853945
-      Bat-all-animations-96x96-each row is a different animation-from top to bottom-Idle-walk-walk to atk transition-atk instance-atk-hurt-death_14: 7871701387096106538
-      Bat-all-animations-96x96-each row is a different animation-from top to bottom-Idle-walk-walk to atk transition-atk instance-atk-hurt-death_15: 6024983924430651047
-      Bat-all-animations-96x96-each row is a different animation-from top to bottom-Idle-walk-walk to atk transition-atk instance-atk-hurt-death_16: -2222238908160035877
-      Bat-all-animations-96x96-each row is a different animation-from top to bottom-Idle-walk-walk to atk transition-atk instance-atk-hurt-death_17: -2196053045717944371
-      Bat-all-animations-96x96-each row is a different animation-from top to bottom-Idle-walk-walk to atk transition-atk instance-atk-hurt-death_18: -6272461369782382416
-      Bat-all-animations-96x96-each row is a different animation-from top to bottom-Idle-walk-walk to atk transition-atk instance-atk-hurt-death_19: -3425803805091614638
-      Bat-all-animations-96x96-each row is a different animation-from top to bottom-Idle-walk-walk to atk transition-atk instance-atk-hurt-death_2: 2047375330326075749
-      Bat-all-animations-96x96-each row is a different animation-from top to bottom-Idle-walk-walk to atk transition-atk instance-atk-hurt-death_20: 6842569218983271355
-      Bat-all-animations-96x96-each row is a different animation-from top to bottom-Idle-walk-walk to atk transition-atk instance-atk-hurt-death_21: -6738502980888752246
-      Bat-all-animations-96x96-each row is a different animation-from top to bottom-Idle-walk-walk to atk transition-atk instance-atk-hurt-death_22: -2665181580038693246
-      Bat-all-animations-96x96-each row is a different animation-from top to bottom-Idle-walk-walk to atk transition-atk instance-atk-hurt-death_23: 1271056127153016685
-      Bat-all-animations-96x96-each row is a different animation-from top to bottom-Idle-walk-walk to atk transition-atk instance-atk-hurt-death_24: -5028714790511273599
-      Bat-all-animations-96x96-each row is a different animation-from top to bottom-Idle-walk-walk to atk transition-atk instance-atk-hurt-death_25: 2085004745646331765
-      Bat-all-animations-96x96-each row is a different animation-from top to bottom-Idle-walk-walk to atk transition-atk instance-atk-hurt-death_26: -6620632183350874869
-      Bat-all-animations-96x96-each row is a different animation-from top to bottom-Idle-walk-walk to atk transition-atk instance-atk-hurt-death_27: 2625440496402619061
-      Bat-all-animations-96x96-each row is a different animation-from top to bottom-Idle-walk-walk to atk transition-atk instance-atk-hurt-death_28: -5346895894593634854
-      Bat-all-animations-96x96-each row is a different animation-from top to bottom-Idle-walk-walk to atk transition-atk instance-atk-hurt-death_29: -227031463832559702
-      Bat-all-animations-96x96-each row is a different animation-from top to bottom-Idle-walk-walk to atk transition-atk instance-atk-hurt-death_3: -7629857060442928773
-      Bat-all-animations-96x96-each row is a different animation-from top to bottom-Idle-walk-walk to atk transition-atk instance-atk-hurt-death_30: -1701702052013192535
-      Bat-all-animations-96x96-each row is a different animation-from top to bottom-Idle-walk-walk to atk transition-atk instance-atk-hurt-death_31: 1980643880705319324
-      Bat-all-animations-96x96-each row is a different animation-from top to bottom-Idle-walk-walk to atk transition-atk instance-atk-hurt-death_32: 8673899281139460675
-      Bat-all-animations-96x96-each row is a different animation-from top to bottom-Idle-walk-walk to atk transition-atk instance-atk-hurt-death_33: -167645531655045527
-      Bat-all-animations-96x96-each row is a different animation-from top to bottom-Idle-walk-walk to atk transition-atk instance-atk-hurt-death_34: 6906869372557904355
-      Bat-all-animations-96x96-each row is a different animation-from top to bottom-Idle-walk-walk to atk transition-atk instance-atk-hurt-death_35: 7082612332185070062
-      Bat-all-animations-96x96-each row is a different animation-from top to bottom-Idle-walk-walk to atk transition-atk instance-atk-hurt-death_36: 4641212138232332425
-      Bat-all-animations-96x96-each row is a different animation-from top to bottom-Idle-walk-walk to atk transition-atk instance-atk-hurt-death_37: -5592878298675504187
-      Bat-all-animations-96x96-each row is a different animation-from top to bottom-Idle-walk-walk to atk transition-atk instance-atk-hurt-death_38: -2878113984821765385
-      Bat-all-animations-96x96-each row is a different animation-from top to bottom-Idle-walk-walk to atk transition-atk instance-atk-hurt-death_39: 2554436536878310611
-      Bat-all-animations-96x96-each row is a different animation-from top to bottom-Idle-walk-walk to atk transition-atk instance-atk-hurt-death_4: -3892414323278566434
-      Bat-all-animations-96x96-each row is a different animation-from top to bottom-Idle-walk-walk to atk transition-atk instance-atk-hurt-death_40: 503416176945532377
-      Bat-all-animations-96x96-each row is a different animation-from top to bottom-Idle-walk-walk to atk transition-atk instance-atk-hurt-death_41: 1317008822205101138
-      Bat-all-animations-96x96-each row is a different animation-from top to bottom-Idle-walk-walk to atk transition-atk instance-atk-hurt-death_42: -8602099617662327529
-      Bat-all-animations-96x96-each row is a different animation-from top to bottom-Idle-walk-walk to atk transition-atk instance-atk-hurt-death_43: -1778916532734359623
-      Bat-all-animations-96x96-each row is a different animation-from top to bottom-Idle-walk-walk to atk transition-atk instance-atk-hurt-death_44: 481950587636260559
-      Bat-all-animations-96x96-each row is a different animation-from top to bottom-Idle-walk-walk to atk transition-atk instance-atk-hurt-death_45: -371801620304018635
-      Bat-all-animations-96x96-each row is a different animation-from top to bottom-Idle-walk-walk to atk transition-atk instance-atk-hurt-death_46: -332183670692709106
-      Bat-all-animations-96x96-each row is a different animation-from top to bottom-Idle-walk-walk to atk transition-atk instance-atk-hurt-death_47: 6442489558549544049
-      Bat-all-animations-96x96-each row is a different animation-from top to bottom-Idle-walk-walk to atk transition-atk instance-atk-hurt-death_48: -7980210887209039363
-      Bat-all-animations-96x96-each row is a different animation-from top to bottom-Idle-walk-walk to atk transition-atk instance-atk-hurt-death_49: 8437652116647995553
-      Bat-all-animations-96x96-each row is a different animation-from top to bottom-Idle-walk-walk to atk transition-atk instance-atk-hurt-death_5: 5440293500117616839
-      Bat-all-animations-96x96-each row is a different animation-from top to bottom-Idle-walk-walk to atk transition-atk instance-atk-hurt-death_50: -6978407224698345223
-      Bat-all-animations-96x96-each row is a different animation-from top to bottom-Idle-walk-walk to atk transition-atk instance-atk-hurt-death_51: 6337457969343341121
-      Bat-all-animations-96x96-each row is a different animation-from top to bottom-Idle-walk-walk to atk transition-atk instance-atk-hurt-death_52: 8719027973186928422
-      Bat-all-animations-96x96-each row is a different animation-from top to bottom-Idle-walk-walk to atk transition-atk instance-atk-hurt-death_53: -3525828010076026778
-      Bat-all-animations-96x96-each row is a different animation-from top to bottom-Idle-walk-walk to atk transition-atk instance-atk-hurt-death_54: -3581367275182704124
-      Bat-all-animations-96x96-each row is a different animation-from top to bottom-Idle-walk-walk to atk transition-atk instance-atk-hurt-death_55: 361262732331614529
-      Bat-all-animations-96x96-each row is a different animation-from top to bottom-Idle-walk-walk to atk transition-atk instance-atk-hurt-death_56: -5397524976576548189
-      Bat-all-animations-96x96-each row is a different animation-from top to bottom-Idle-walk-walk to atk transition-atk instance-atk-hurt-death_57: -4800458060621272685
-      Bat-all-animations-96x96-each row is a different animation-from top to bottom-Idle-walk-walk to atk transition-atk instance-atk-hurt-death_58: 5282137701492032709
-      Bat-all-animations-96x96-each row is a different animation-from top to bottom-Idle-walk-walk to atk transition-atk instance-atk-hurt-death_59: 6306912940333140714
-      Bat-all-animations-96x96-each row is a different animation-from top to bottom-Idle-walk-walk to atk transition-atk instance-atk-hurt-death_6: 7490116671507306594
-      Bat-all-animations-96x96-each row is a different animation-from top to bottom-Idle-walk-walk to atk transition-atk instance-atk-hurt-death_60: 5379146699043150159
-      Bat-all-animations-96x96-each row is a different animation-from top to bottom-Idle-walk-walk to atk transition-atk instance-atk-hurt-death_61: 4930341415757841884
-      Bat-all-animations-96x96-each row is a different animation-from top to bottom-Idle-walk-walk to atk transition-atk instance-atk-hurt-death_62: 3997042552434410810
-      Bat-all-animations-96x96-each row is a different animation-from top to bottom-Idle-walk-walk to atk transition-atk instance-atk-hurt-death_63: 7716311081886004075
-      Bat-all-animations-96x96-each row is a different animation-from top to bottom-Idle-walk-walk to atk transition-atk instance-atk-hurt-death_64: -8743638379672823306
-      Bat-all-animations-96x96-each row is a different animation-from top to bottom-Idle-walk-walk to atk transition-atk instance-atk-hurt-death_65: -4234923425316350888
-      Bat-all-animations-96x96-each row is a different animation-from top to bottom-Idle-walk-walk to atk transition-atk instance-atk-hurt-death_66: -7930618599663092667
-      Bat-all-animations-96x96-each row is a different animation-from top to bottom-Idle-walk-walk to atk transition-atk instance-atk-hurt-death_67: -3496402548981038950
-      Bat-all-animations-96x96-each row is a different animation-from top to bottom-Idle-walk-walk to atk transition-atk instance-atk-hurt-death_68: -1153520153920797190
-      Bat-all-animations-96x96-each row is a different animation-from top to bottom-Idle-walk-walk to atk transition-atk instance-atk-hurt-death_69: -4811100607819647771
-      Bat-all-animations-96x96-each row is a different animation-from top to bottom-Idle-walk-walk to atk transition-atk instance-atk-hurt-death_7: 6821219254094222265
-      Bat-all-animations-96x96-each row is a different animation-from top to bottom-Idle-walk-walk to atk transition-atk instance-atk-hurt-death_8: 272388829135144408
-      Bat-all-animations-96x96-each row is a different animation-from top to bottom-Idle-walk-walk to atk transition-atk instance-atk-hurt-death_9: 6196910161200344888
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

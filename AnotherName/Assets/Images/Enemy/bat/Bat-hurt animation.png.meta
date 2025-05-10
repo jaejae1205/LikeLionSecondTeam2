@@ -159,19 +159,6 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: iOS
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -386,16 +373,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      Bat-hurt animation_0: -250554794731750315
-      Bat-hurt animation_1: -2568590592918556442
-      Bat-hurt animation_2: 6143145364408907476
-      Bat-hurt animation_3: 7132210416891279219
-      Bat-hurt animation_4: -4449085662125923520
-      Bat-hurt animation_5: -3763987181664367015
-      Bat-hurt animation_6: -3392213887469720849
-      Bat-hurt animation_7: 1349486566491729197
-      Bat-hurt animation_8: 3123944639668133619
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

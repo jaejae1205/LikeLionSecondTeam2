@@ -408,19 +408,6 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: iOS
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -2024,76 +2011,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      Undead-all-animations-96x96-each row is a different animation-from top to bottom-Idle-Idle2-walk-atk-hurt-death_0: -7241694746846697564
-      Undead-all-animations-96x96-each row is a different animation-from top to bottom-Idle-Idle2-walk-atk-hurt-death_1: -1941664166431852742
-      Undead-all-animations-96x96-each row is a different animation-from top to bottom-Idle-Idle2-walk-atk-hurt-death_10: 4462159700135395594
-      Undead-all-animations-96x96-each row is a different animation-from top to bottom-Idle-Idle2-walk-atk-hurt-death_11: -2748516087485063401
-      Undead-all-animations-96x96-each row is a different animation-from top to bottom-Idle-Idle2-walk-atk-hurt-death_12: 1958732126796032011
-      Undead-all-animations-96x96-each row is a different animation-from top to bottom-Idle-Idle2-walk-atk-hurt-death_13: 3926746940361917786
-      Undead-all-animations-96x96-each row is a different animation-from top to bottom-Idle-Idle2-walk-atk-hurt-death_14: 8525265416351098826
-      Undead-all-animations-96x96-each row is a different animation-from top to bottom-Idle-Idle2-walk-atk-hurt-death_15: 8035292573559354157
-      Undead-all-animations-96x96-each row is a different animation-from top to bottom-Idle-Idle2-walk-atk-hurt-death_16: 4783487005915634981
-      Undead-all-animations-96x96-each row is a different animation-from top to bottom-Idle-Idle2-walk-atk-hurt-death_17: 6882973618871268001
-      Undead-all-animations-96x96-each row is a different animation-from top to bottom-Idle-Idle2-walk-atk-hurt-death_18: 4897611931418143383
-      Undead-all-animations-96x96-each row is a different animation-from top to bottom-Idle-Idle2-walk-atk-hurt-death_19: 6584866084329823452
-      Undead-all-animations-96x96-each row is a different animation-from top to bottom-Idle-Idle2-walk-atk-hurt-death_2: -2388878458409324109
-      Undead-all-animations-96x96-each row is a different animation-from top to bottom-Idle-Idle2-walk-atk-hurt-death_20: -3617604818901499076
-      Undead-all-animations-96x96-each row is a different animation-from top to bottom-Idle-Idle2-walk-atk-hurt-death_21: -2623691268738232259
-      Undead-all-animations-96x96-each row is a different animation-from top to bottom-Idle-Idle2-walk-atk-hurt-death_22: 3932548442440075775
-      Undead-all-animations-96x96-each row is a different animation-from top to bottom-Idle-Idle2-walk-atk-hurt-death_23: 6874739896810886996
-      Undead-all-animations-96x96-each row is a different animation-from top to bottom-Idle-Idle2-walk-atk-hurt-death_24: 6201152928074219983
-      Undead-all-animations-96x96-each row is a different animation-from top to bottom-Idle-Idle2-walk-atk-hurt-death_25: 2782940637309307680
-      Undead-all-animations-96x96-each row is a different animation-from top to bottom-Idle-Idle2-walk-atk-hurt-death_26: 8144172245962535440
-      Undead-all-animations-96x96-each row is a different animation-from top to bottom-Idle-Idle2-walk-atk-hurt-death_27: -2375985519412334971
-      Undead-all-animations-96x96-each row is a different animation-from top to bottom-Idle-Idle2-walk-atk-hurt-death_28: -4898767658515493302
-      Undead-all-animations-96x96-each row is a different animation-from top to bottom-Idle-Idle2-walk-atk-hurt-death_29: 7361471630067771257
-      Undead-all-animations-96x96-each row is a different animation-from top to bottom-Idle-Idle2-walk-atk-hurt-death_3: 9007346145267078899
-      Undead-all-animations-96x96-each row is a different animation-from top to bottom-Idle-Idle2-walk-atk-hurt-death_30: 7798849797621934280
-      Undead-all-animations-96x96-each row is a different animation-from top to bottom-Idle-Idle2-walk-atk-hurt-death_31: -6954715147184809817
-      Undead-all-animations-96x96-each row is a different animation-from top to bottom-Idle-Idle2-walk-atk-hurt-death_32: -2494750340750026532
-      Undead-all-animations-96x96-each row is a different animation-from top to bottom-Idle-Idle2-walk-atk-hurt-death_33: -5190469779236991661
-      Undead-all-animations-96x96-each row is a different animation-from top to bottom-Idle-Idle2-walk-atk-hurt-death_34: 5894406420653605996
-      Undead-all-animations-96x96-each row is a different animation-from top to bottom-Idle-Idle2-walk-atk-hurt-death_35: -4974545628249081697
-      Undead-all-animations-96x96-each row is a different animation-from top to bottom-Idle-Idle2-walk-atk-hurt-death_36: 3381574964559679392
-      Undead-all-animations-96x96-each row is a different animation-from top to bottom-Idle-Idle2-walk-atk-hurt-death_37: 3598485780828624192
-      Undead-all-animations-96x96-each row is a different animation-from top to bottom-Idle-Idle2-walk-atk-hurt-death_38: -1784946710888758496
-      Undead-all-animations-96x96-each row is a different animation-from top to bottom-Idle-Idle2-walk-atk-hurt-death_39: 5273000801784907248
-      Undead-all-animations-96x96-each row is a different animation-from top to bottom-Idle-Idle2-walk-atk-hurt-death_4: 8781396842491032948
-      Undead-all-animations-96x96-each row is a different animation-from top to bottom-Idle-Idle2-walk-atk-hurt-death_40: 626874300200047873
-      Undead-all-animations-96x96-each row is a different animation-from top to bottom-Idle-Idle2-walk-atk-hurt-death_41: 5558911140592135396
-      Undead-all-animations-96x96-each row is a different animation-from top to bottom-Idle-Idle2-walk-atk-hurt-death_42: -4903524664966881977
-      Undead-all-animations-96x96-each row is a different animation-from top to bottom-Idle-Idle2-walk-atk-hurt-death_43: 4054474658054848461
-      Undead-all-animations-96x96-each row is a different animation-from top to bottom-Idle-Idle2-walk-atk-hurt-death_44: -1621376354860406207
-      Undead-all-animations-96x96-each row is a different animation-from top to bottom-Idle-Idle2-walk-atk-hurt-death_45: 2053681616087210656
-      Undead-all-animations-96x96-each row is a different animation-from top to bottom-Idle-Idle2-walk-atk-hurt-death_46: -4868434115723365497
-      Undead-all-animations-96x96-each row is a different animation-from top to bottom-Idle-Idle2-walk-atk-hurt-death_47: -451041511592774083
-      Undead-all-animations-96x96-each row is a different animation-from top to bottom-Idle-Idle2-walk-atk-hurt-death_48: -6943675304479608197
-      Undead-all-animations-96x96-each row is a different animation-from top to bottom-Idle-Idle2-walk-atk-hurt-death_49: -6953393295781212736
-      Undead-all-animations-96x96-each row is a different animation-from top to bottom-Idle-Idle2-walk-atk-hurt-death_5: 4126290671291279633
-      Undead-all-animations-96x96-each row is a different animation-from top to bottom-Idle-Idle2-walk-atk-hurt-death_50: -91193610181680873
-      Undead-all-animations-96x96-each row is a different animation-from top to bottom-Idle-Idle2-walk-atk-hurt-death_51: 4806375779309619597
-      Undead-all-animations-96x96-each row is a different animation-from top to bottom-Idle-Idle2-walk-atk-hurt-death_52: 1091128531867259963
-      Undead-all-animations-96x96-each row is a different animation-from top to bottom-Idle-Idle2-walk-atk-hurt-death_53: -5471261636529490719
-      Undead-all-animations-96x96-each row is a different animation-from top to bottom-Idle-Idle2-walk-atk-hurt-death_54: 2447568778807501913
-      Undead-all-animations-96x96-each row is a different animation-from top to bottom-Idle-Idle2-walk-atk-hurt-death_55: -7760487903791567210
-      Undead-all-animations-96x96-each row is a different animation-from top to bottom-Idle-Idle2-walk-atk-hurt-death_56: -7060600627014067142
-      Undead-all-animations-96x96-each row is a different animation-from top to bottom-Idle-Idle2-walk-atk-hurt-death_57: 2295121200619927405
-      Undead-all-animations-96x96-each row is a different animation-from top to bottom-Idle-Idle2-walk-atk-hurt-death_58: -8815035233626286671
-      Undead-all-animations-96x96-each row is a different animation-from top to bottom-Idle-Idle2-walk-atk-hurt-death_59: -8892293560322271283
-      Undead-all-animations-96x96-each row is a different animation-from top to bottom-Idle-Idle2-walk-atk-hurt-death_6: -6490191560254358213
-      Undead-all-animations-96x96-each row is a different animation-from top to bottom-Idle-Idle2-walk-atk-hurt-death_60: 3261495534386382003
-      Undead-all-animations-96x96-each row is a different animation-from top to bottom-Idle-Idle2-walk-atk-hurt-death_61: 3046672378016440602
-      Undead-all-animations-96x96-each row is a different animation-from top to bottom-Idle-Idle2-walk-atk-hurt-death_62: -1519524522178687571
-      Undead-all-animations-96x96-each row is a different animation-from top to bottom-Idle-Idle2-walk-atk-hurt-death_63: -7204860687135329406
-      Undead-all-animations-96x96-each row is a different animation-from top to bottom-Idle-Idle2-walk-atk-hurt-death_64: 1987901186380586377
-      Undead-all-animations-96x96-each row is a different animation-from top to bottom-Idle-Idle2-walk-atk-hurt-death_65: -2139884938626618269
-      Undead-all-animations-96x96-each row is a different animation-from top to bottom-Idle-Idle2-walk-atk-hurt-death_66: 2584634649088278753
-      Undead-all-animations-96x96-each row is a different animation-from top to bottom-Idle-Idle2-walk-atk-hurt-death_67: -3972564504524894457
-      Undead-all-animations-96x96-each row is a different animation-from top to bottom-Idle-Idle2-walk-atk-hurt-death_68: 5475043571034561851
-      Undead-all-animations-96x96-each row is a different animation-from top to bottom-Idle-Idle2-walk-atk-hurt-death_7: -8195288861559607400
-      Undead-all-animations-96x96-each row is a different animation-from top to bottom-Idle-Idle2-walk-atk-hurt-death_8: 7767746160203798231
-      Undead-all-animations-96x96-each row is a different animation-from top to bottom-Idle-Idle2-walk-atk-hurt-death_9: 3340182082764262176
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -186,19 +186,6 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: iOS
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -611,25 +598,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      Undead-atk animation_0: -5055687102269039410
-      Undead-atk animation_1: -2303347388528244832
-      Undead-atk animation_10: 599572353788854363
-      Undead-atk animation_11: 5310984230114776401
-      Undead-atk animation_12: -9073374717975685809
-      Undead-atk animation_13: 9116939471341180907
-      Undead-atk animation_14: -9201438373387544367
-      Undead-atk animation_15: 4714876816345707201
-      Undead-atk animation_16: 720284984180095449
-      Undead-atk animation_17: 4202149804854981020
-      Undead-atk animation_2: -1208690513829804722
-      Undead-atk animation_3: 145508032832784862
-      Undead-atk animation_4: 5074246838650889262
-      Undead-atk animation_5: 3211946998926776511
-      Undead-atk animation_6: 2723473147656043502
-      Undead-atk animation_7: -8700007379174265115
-      Undead-atk animation_8: -3652369604307958380
-      Undead-atk animation_9: -6701934612542609838
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
