@@ -1,0 +1,2239 @@
+fileFormatVersion: 2
+guid: eeb39441482753e499d95a08af5eae9e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2858635745633348130
+    second: FromTheSkyEffect_0
+  - first:
+      213: -2860295585159455191
+    second: FromTheSkyEffect_1
+  - first:
+      213: -7199920798566372817
+    second: FromTheSkyEffect_2
+  - first:
+      213: -1068770001985206854
+    second: FromTheSkyEffect_3
+  - first:
+      213: 7365112224547577851
+    second: FromTheSkyEffect_4
+  - first:
+      213: 979667722927645990
+    second: FromTheSkyEffect_5
+  - first:
+      213: -5179771839770630782
+    second: FromTheSkyEffect_6
+  - first:
+      213: 92867949669665386
+    second: FromTheSkyEffect_7
+  - first:
+      213: -2814751217979414372
+    second: FromTheSkyEffect_8
+  - first:
+      213: 2079852902976529751
+    second: FromTheSkyEffect_9
+  - first:
+      213: -7076812238675502754
+    second: FromTheSkyEffect_10
+  - first:
+      213: 7876066457698619813
+    second: FromTheSkyEffect_11
+  - first:
+      213: -8113485534378523085
+    second: FromTheSkyEffect_12
+  - first:
+      213: 5194925984298258943
+    second: FromTheSkyEffect_13
+  - first:
+      213: 3326840884609156324
+    second: FromTheSkyEffect_14
+  - first:
+      213: 7725974154692667772
+    second: FromTheSkyEffect_15
+  - first:
+      213: -5199267826778782548
+    second: FromTheSkyEffect_16
+  - first:
+      213: -6995550916591468520
+    second: FromTheSkyEffect_17
+  - first:
+      213: -8659067025873079888
+    second: FromTheSkyEffect_18
+  - first:
+      213: -1956814310050991123
+    second: FromTheSkyEffect_19
+  - first:
+      213: -3075747291371610822
+    second: FromTheSkyEffect_20
+  - first:
+      213: -7275246389955447556
+    second: FromTheSkyEffect_21
+  - first:
+      213: -4533839614457120797
+    second: FromTheSkyEffect_22
+  - first:
+      213: -3846447371812264293
+    second: FromTheSkyEffect_23
+  - first:
+      213: 2709601359757685557
+    second: FromTheSkyEffect_24
+  - first:
+      213: 5435494324109297044
+    second: FromTheSkyEffect_25
+  - first:
+      213: -6854674889203396916
+    second: FromTheSkyEffect_26
+  - first:
+      213: -3317043750201412516
+    second: FromTheSkyEffect_27
+  - first:
+      213: 3671530203727599769
+    second: FromTheSkyEffect_28
+  - first:
+      213: 2290180348203112147
+    second: FromTheSkyEffect_29
+  - first:
+      213: 2847453637728748894
+    second: FromTheSkyEffect_30
+  - first:
+      213: -1153099962553548475
+    second: FromTheSkyEffect_31
+  - first:
+      213: -7851041191628831887
+    second: FromTheSkyEffect_32
+  - first:
+      213: -6509698498710920573
+    second: FromTheSkyEffect_33
+  - first:
+      213: 7104034096412450598
+    second: FromTheSkyEffect_34
+  - first:
+      213: -3406674788599625935
+    second: FromTheSkyEffect_35
+  - first:
+      213: -3123755205685315749
+    second: FromTheSkyEffect_36
+  - first:
+      213: -4894439005091079100
+    second: FromTheSkyEffect_37
+  - first:
+      213: 692642925944549101
+    second: FromTheSkyEffect_38
+  - first:
+      213: -6058618024275354038
+    second: FromTheSkyEffect_39
+  - first:
+      213: 2784562954548419585
+    second: FromTheSkyEffect_40
+  - first:
+      213: 8951017999791349295
+    second: FromTheSkyEffect_41
+  - first:
+      213: -321817284082420762
+    second: FromTheSkyEffect_42
+  - first:
+      213: -8152129949794014530
+    second: FromTheSkyEffect_43
+  - first:
+      213: 1608290524135445455
+    second: FromTheSkyEffect_44
+  - first:
+      213: -2392260922432208379
+    second: FromTheSkyEffect_45
+  - first:
+      213: -3699791546539678673
+    second: FromTheSkyEffect_46
+  - first:
+      213: -4534498109066610710
+    second: FromTheSkyEffect_47
+  - first:
+      213: 753476998838726102
+    second: FromTheSkyEffect_48
+  - first:
+      213: 603267663330249904
+    second: FromTheSkyEffect_49
+  - first:
+      213: -1787046316911089413
+    second: FromTheSkyEffect_50
+  - first:
+      213: -7201396256531274218
+    second: FromTheSkyEffect_51
+  - first:
+      213: 6415831619074645232
+    second: FromTheSkyEffect_52
+  - first:
+      213: 1173456590984258172
+    second: FromTheSkyEffect_53
+  - first:
+      213: -7835239944682727123
+    second: FromTheSkyEffect_54
+  - first:
+      213: 5428689597425893023
+    second: FromTheSkyEffect_55
+  - first:
+      213: 8951509748413186581
+    second: FromTheSkyEffect_56
+  - first:
+      213: 3183530777078302897
+    second: FromTheSkyEffect_57
+  - first:
+      213: 8751309042122736992
+    second: FromTheSkyEffect_58
+  - first:
+      213: 6136906388304457151
+    second: FromTheSkyEffect_59
+  - first:
+      213: 7104762960906454359
+    second: FromTheSkyEffect_60
+  - first:
+      213: -4984813454867786528
+    second: FromTheSkyEffect_61
+  - first:
+      213: 3078515929562502121
+    second: FromTheSkyEffect_62
+  - first:
+      213: 8619987898903313294
+    second: FromTheSkyEffect_63
+  - first:
+      213: 1727171403248042269
+    second: FromTheSkyEffect_64
+  - first:
+      213: 4021356578377531104
+    second: FromTheSkyEffect_65
+  - first:
+      213: -7529691031837744277
+    second: FromTheSkyEffect_66
+  - first:
+      213: 7432549756974303814
+    second: FromTheSkyEffect_67
+  - first:
+      213: 7723923806963747153
+    second: FromTheSkyEffect_68
+  - first:
+      213: -223160127694551199
+    second: FromTheSkyEffect_69
+  - first:
+      213: -9063968063785262716
+    second: FromTheSkyEffect_70
+  - first:
+      213: 2127753299289817595
+    second: FromTheSkyEffect_71
+  - first:
+      213: 5244473504621380429
+    second: FromTheSkyEffect_72
+  - first:
+      213: 8645521310327725376
+    second: FromTheSkyEffect_73
+  - first:
+      213: 1316367718488980171
+    second: FromTheSkyEffect_74
+  - first:
+      213: 2305060784254217946
+    second: FromTheSkyEffect_75
+  - first:
+      213: 4760683166726689811
+    second: FromTheSkyEffect_76
+  - first:
+      213: -4576267029174648230
+    second: FromTheSkyEffect_77
+  - first:
+      213: -5507653589200753021
+    second: FromTheSkyEffect_78
+  - first:
+      213: -7151796825882889403
+    second: FromTheSkyEffect_79
+  - first:
+      213: 3639856395561123084
+    second: FromTheSkyEffect_80
+  - first:
+      213: 8071868576768915256
+    second: FromTheSkyEffect_81
+  - first:
+      213: -3275503623643724645
+    second: FromTheSkyEffect_82
+  - first:
+      213: 1295833495548194363
+    second: FromTheSkyEffect_83
+  - first:
+      213: -79447473737058584
+    second: FromTheSkyEffect_84
+  - first:
+      213: -1634479035277232712
+    second: FromTheSkyEffect_85
+  - first:
+      213: 2495840517796041082
+    second: FromTheSkyEffect_86
+  - first:
+      213: 7055368393387165702
+    second: FromTheSkyEffect_87
+  - first:
+      213: -3895279510759833473
+    second: FromTheSkyEffect_88
+  - first:
+      213: 3177209803460183014
+    second: FromTheSkyEffect_89
+  - first:
+      213: -6243313103621882904
+    second: FromTheSkyEffect_90
+  - first:
+      213: -4703581857743106216
+    second: FromTheSkyEffect_91
+  - first:
+      213: -7785672842944530565
+    second: FromTheSkyEffect_92
+  - first:
+      213: -6520400184809966649
+    second: FromTheSkyEffect_93
+  - first:
+      213: 7186364866216560951
+    second: FromTheSkyEffect_94
+  - first:
+      213: -7415376267428106113
+    second: FromTheSkyEffect_95
+  - first:
+      213: -7530230406964791206
+    second: FromTheSkyEffect_96
+  - first:
+      213: 9013477632500320245
+    second: FromTheSkyEffect_97
+  - first:
+      213: 193937326675308936
+    second: FromTheSkyEffect_98
+  - first:
+      213: -4700666922316899626
+    second: FromTheSkyEffect_99
+  - first:
+      213: -7813399231431322421
+    second: FromTheSkyEffect_100
+  - first:
+      213: 1009261857105905523
+    second: FromTheSkyEffect_101
+  - first:
+      213: 6271843172779394051
+    second: FromTheSkyEffect_102
+  - first:
+      213: 1991039316112878460
+    second: FromTheSkyEffect_103
+  - first:
+      213: 5654136651303764206
+    second: FromTheSkyEffect_104
+  - first:
+      213: -7630551274319196331
+    second: FromTheSkyEffect_105
+  - first:
+      213: 7495356201275001009
+    second: FromTheSkyEffect_106
+  - first:
+      213: -1296637837806259522
+    second: FromTheSkyEffect_107
+  - first:
+      213: 4985185089631744898
+    second: FromTheSkyEffect_108
+  - first:
+      213: 8221536691152425014
+    second: FromTheSkyEffect_109
+  - first:
+      213: 5972684596624097088
+    second: FromTheSkyEffect_110
+  - first:
+      213: 8196543797427287100
+    second: FromTheSkyEffect_111
+  - first:
+      213: -776024032498265666
+    second: FromTheSkyEffect_112
+  - first:
+      213: -1287330813225061303
+    second: FromTheSkyEffect_113
+  - first:
+      213: -9149600742006570488
+    second: FromTheSkyEffect_114
+  - first:
+      213: -7738951731582945191
+    second: FromTheSkyEffect_115
+  - first:
+      213: -6360881014455477317
+    second: FromTheSkyEffect_116
+  - first:
+      213: 4222877530482036461
+    second: FromTheSkyEffect_117
+  - first:
+      213: -1850214615805414496
+    second: FromTheSkyEffect_118
+  - first:
+      213: 1227448462704411114
+    second: FromTheSkyEffect_119
+  - first:
+      213: 3966256742632032294
+    second: FromTheSkyEffect_120
+  - first:
+      213: -6897003948998503284
+    second: FromTheSkyEffect_121
+  - first:
+      213: 4552695599398821225
+    second: FromTheSkyEffect_122
+  - first:
+      213: -5719993474344180636
+    second: FromTheSkyEffect_123
+  - first:
+      213: 2919336994961274466
+    second: FromTheSkyEffect_124
+  - first:
+      213: 3020269668156826285
+    second: FromTheSkyEffect_125
+  - first:
+      213: 8536788554082658582
+    second: FromTheSkyEffect_126
+  - first:
+      213: -4969714988530615838
+    second: FromTheSkyEffect_127
+  - first:
+      213: 1873573044667012712
+    second: FromTheSkyEffect_128
+  - first:
+      213: 2016099105068544554
+    second: FromTheSkyEffect_129
+  - first:
+      213: -177542469793405410
+    second: FromTheSkyEffect_130
+  - first:
+      213: 4132088877781336152
+    second: FromTheSkyEffect_131
+  - first:
+      213: -8090417726378334426
+    second: FromTheSkyEffect_132
+  - first:
+      213: -5583332876944240009
+    second: FromTheSkyEffect_133
+  - first:
+      213: 2172070085561297933
+    second: FromTheSkyEffect_134
+  - first:
+      213: -4563291093376775686
+    second: FromTheSkyEffect_135
+  - first:
+      213: 5735727057067500855
+    second: FromTheSkyEffect_136
+  - first:
+      213: -4844976538558306751
+    second: FromTheSkyEffect_137
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FromTheSkyEffect_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1344
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed55a4f5fe51458d0800000000000000
+      internalID: -2858635745633348130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSkyEffect_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1344
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ed3fdd1503e48d0800000000000000
+      internalID: -2860295585159455191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSkyEffect_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1344
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a21863e2eb41c90800000000000000
+      internalID: -7199920798566372817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSkyEffect_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1344
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab504158857fa21f0800000000000000
+      internalID: -1068770001985206854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSkyEffect_4
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1344
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff9b03db82263660800000000000000
+      internalID: 7365112224547577851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSkyEffect_5
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1344
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 625a40f7a9a789d00800000000000000
+      internalID: 979667722927645990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSkyEffect_6
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1344
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28566e094f0cd18b0800000000000000
+      internalID: -5179771839770630782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSkyEffect_7
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1344
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a441f78eee94100800000000000000
+      internalID: 92867949669665386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSkyEffect_8
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1344
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c982d313eaeffe8d0800000000000000
+      internalID: -2814751217979414372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSkyEffect_9
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1344
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7552bfa123f1ddc10800000000000000
+      internalID: 2079852902976529751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSkyEffect_10
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1344
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e591c9373cc1acd90800000000000000
+      internalID: -7076812238675502754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSkyEffect_11
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 1344
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1de7ec6b86d4d60800000000000000
+      internalID: 7876066457698619813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSkyEffect_12
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1344
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3360911c4eb176f80800000000000000
+      internalID: -8113485534378523085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSkyEffect_13
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 1344
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff15b88a8a5181840800000000000000
+      internalID: 5194925984298258943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSkyEffect_14
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1344
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e4006f78205b2e20800000000000000
+      internalID: 3326840884609156324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSkyEffect_15
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 1344
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c792e4a4f8c283b60800000000000000
+      internalID: 7725974154692667772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSkyEffect_16
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1152
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4cbbc557d78d7b0800000000000000
+      internalID: -5199267826778782548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSkyEffect_17
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1152
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8104860618fcaee90800000000000000
+      internalID: -6995550916591468520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSkyEffect_18
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1152
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1798cea60d4d780800000000000000
+      internalID: -8659067025873079888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSkyEffect_19
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1152
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3720ea0cff7d4e0800000000000000
+      internalID: -1956814310050991123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSkyEffect_20
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 1152
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ddcee6220c055d0800000000000000
+      internalID: -3075747291371610822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSkyEffect_21
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1152
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf4334944f1290b90800000000000000
+      internalID: -7275246389955447556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSkyEffect_22
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 1152
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e770b754e09411c0800000000000000
+      internalID: -4533839614457120797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSkyEffect_23
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1152
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9625e3ae7cae9ac0800000000000000
+      internalID: -3846447371812264293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSkyEffect_24
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 1152
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 533b543a4107a9520800000000000000
+      internalID: 2709601359757685557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSkyEffect_25
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1152
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495cf2f0a41ce6b40800000000000000
+      internalID: 5435494324109297044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSkyEffect_26
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 1152
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccecd32818d4fd0a0800000000000000
+      internalID: -6854674889203396916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSkyEffect_27
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 1152
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54b0dc984e77f1d0800000000000000
+      internalID: -3317043750201412516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSkyEffect_28
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 1152
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9981d478445e3f230800000000000000
+      internalID: 3671530203727599769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSkyEffect_29
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1152
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d61a3e84ea58cf10800000000000000
+      internalID: 2290180348203112147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSkyEffect_30
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 1152
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e55473f3fff248720800000000000000
+      internalID: 2847453637728748894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSkyEffect_31
+      rect:
+        serializedVersion: 2
+        x: 4224
+        y: 1152
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 541ca7581bd5fffe0800000000000000
+      internalID: -1153099962553548475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSkyEffect_32
+      rect:
+        serializedVersion: 2
+        x: 4416
+        y: 1152
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 173010002af7b0390800000000000000
+      internalID: -7851041191628831887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSkyEffect_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 382217d84b7e8a5a0800000000000000
+      internalID: -6509698498710920573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSkyEffect_34
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 960
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f5de43f59969260800000000000000
+      internalID: 7104034096412450598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSkyEffect_35
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 960
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1378d30445f09b0d0800000000000000
+      internalID: -3406674788599625935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSkyEffect_36
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 960
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5779d7d03136a4d0800000000000000
+      internalID: -3123755205685315749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSkyEffect_37
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 960
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44cdabe18a5731cb0800000000000000
+      internalID: -4894439005091079100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSkyEffect_38
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 960
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deeac154213cc9900800000000000000
+      internalID: 692642925944549101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSkyEffect_39
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 960
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ed941c1077beba0800000000000000
+      internalID: -6058618024275354038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSkyEffect_40
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 960
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c12900141c4a620800000000000000
+      internalID: 2784562954548419585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSkyEffect_41
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 960
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ed0bf3277683c70800000000000000
+      internalID: 8951017999791349295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSkyEffect_42
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 960
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e3bfab92eca88bf0800000000000000
+      internalID: -321817284082420762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSkyEffect_43
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 960
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba64b3a001ddde80800000000000000
+      internalID: -8152129949794014530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSkyEffect_44
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 960
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc358bae5bbc15610800000000000000
+      internalID: 1608290524135445455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSkyEffect_45
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 960
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5024164ad5bfcced0800000000000000
+      internalID: -2392260922432208379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSkyEffect_46
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 960
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f246285d033b7acc0800000000000000
+      internalID: -3699791546539678673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSkyEffect_47
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 960
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae7776e9ef93211c0800000000000000
+      internalID: -4534498109066610710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSkyEffect_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dda53e9653e47a00800000000000000
+      internalID: 753476998838726102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSkyEffect_49
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc87495ebc3f5800800000000000000
+      internalID: 603267663330249904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSkyEffect_50
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf8285bc7d22337e0800000000000000
+      internalID: -1787046316911089413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSkyEffect_51
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 576
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61620a262408f0c90800000000000000
+      internalID: -7201396256531274218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSkyEffect_52
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 576
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fcd9a17ddc990950800000000000000
+      internalID: 6415831619074645232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSkyEffect_53
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 576
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7225f06d84f84010800000000000000
+      internalID: 1173456590984258172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSkyEffect_54
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 576
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d291c3f78c2a34390800000000000000
+      internalID: -7835239944682727123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSkyEffect_55
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 576
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ebd6a2d64965b40800000000000000
+      internalID: 5428689597425893023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSkyEffect_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5124d9560b62a3c70800000000000000
+      internalID: 8951509748413186581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSkyEffect_57
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8864bef5c2e2c20800000000000000
+      internalID: 3183530777078302897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSkyEffect_58
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 065c3671535e27970800000000000000
+      internalID: 8751309042122736992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSkyEffect_59
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd66be68dbaa2550800000000000000
+      internalID: 6136906388304457151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSkyEffect_60
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7558e223540399260800000000000000
+      internalID: 7104762960906454359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSkyEffect_61
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 384
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4940fc29262dab0800000000000000
+      internalID: -4984813454867786528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSkyEffect_62
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 384
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e354f06de519ba20800000000000000
+      internalID: 3078515929562502121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSkyEffect_63
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b3c4ac25950a770800000000000000
+      internalID: 8619987898903313294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSkyEffect_64
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1100d48d3528f710800000000000000
+      internalID: 1727171403248042269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSkyEffect_65
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee7f51808abec730800000000000000
+      internalID: 4021356578377531104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSkyEffect_66
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63edda86e9218790800000000000000
+      internalID: -7529691031837744277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSkyEffect_67
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a8ed7ef98b52760800000000000000
+      internalID: 7432549756974303814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSkyEffect_68
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159c14287c3e03b60800000000000000
+      internalID: 7723923806963747153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSkyEffect_69
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 0
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1674cb4db0d27ecf0800000000000000
+      internalID: -223160127694551199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSkyEffect_70
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4812896a111563280800000000000000
+      internalID: -9063968063785262716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSkyEffect_71
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 0
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf1c5d53a5c478d10800000000000000
+      internalID: 2127753299289817595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 48860c455311b2d47ab01f30970ac5dc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FromTheSkyEffect_0: -2858635745633348130
+      FromTheSkyEffect_1: -2860295585159455191
+      FromTheSkyEffect_10: -7076812238675502754
+      FromTheSkyEffect_11: 7876066457698619813
+      FromTheSkyEffect_12: -8113485534378523085
+      FromTheSkyEffect_13: 5194925984298258943
+      FromTheSkyEffect_14: 3326840884609156324
+      FromTheSkyEffect_15: 7725974154692667772
+      FromTheSkyEffect_16: -5199267826778782548
+      FromTheSkyEffect_17: -6995550916591468520
+      FromTheSkyEffect_18: -8659067025873079888
+      FromTheSkyEffect_19: -1956814310050991123
+      FromTheSkyEffect_2: -7199920798566372817
+      FromTheSkyEffect_20: -3075747291371610822
+      FromTheSkyEffect_21: -7275246389955447556
+      FromTheSkyEffect_22: -4533839614457120797
+      FromTheSkyEffect_23: -3846447371812264293
+      FromTheSkyEffect_24: 2709601359757685557
+      FromTheSkyEffect_25: 5435494324109297044
+      FromTheSkyEffect_26: -6854674889203396916
+      FromTheSkyEffect_27: -3317043750201412516
+      FromTheSkyEffect_28: 3671530203727599769
+      FromTheSkyEffect_29: 2290180348203112147
+      FromTheSkyEffect_3: -1068770001985206854
+      FromTheSkyEffect_30: 2847453637728748894
+      FromTheSkyEffect_31: -1153099962553548475
+      FromTheSkyEffect_32: -7851041191628831887
+      FromTheSkyEffect_33: -6509698498710920573
+      FromTheSkyEffect_34: 7104034096412450598
+      FromTheSkyEffect_35: -3406674788599625935
+      FromTheSkyEffect_36: -3123755205685315749
+      FromTheSkyEffect_37: -4894439005091079100
+      FromTheSkyEffect_38: 692642925944549101
+      FromTheSkyEffect_39: -6058618024275354038
+      FromTheSkyEffect_4: 7365112224547577851
+      FromTheSkyEffect_40: 2784562954548419585
+      FromTheSkyEffect_41: 8951017999791349295
+      FromTheSkyEffect_42: -321817284082420762
+      FromTheSkyEffect_43: -8152129949794014530
+      FromTheSkyEffect_44: 1608290524135445455
+      FromTheSkyEffect_45: -2392260922432208379
+      FromTheSkyEffect_46: -3699791546539678673
+      FromTheSkyEffect_47: -4534498109066610710
+      FromTheSkyEffect_48: 753476998838726102
+      FromTheSkyEffect_49: 603267663330249904
+      FromTheSkyEffect_5: 979667722927645990
+      FromTheSkyEffect_50: -1787046316911089413
+      FromTheSkyEffect_51: -7201396256531274218
+      FromTheSkyEffect_52: 6415831619074645232
+      FromTheSkyEffect_53: 1173456590984258172
+      FromTheSkyEffect_54: -7835239944682727123
+      FromTheSkyEffect_55: 5428689597425893023
+      FromTheSkyEffect_56: 8951509748413186581
+      FromTheSkyEffect_57: 3183530777078302897
+      FromTheSkyEffect_58: 8751309042122736992
+      FromTheSkyEffect_59: 6136906388304457151
+      FromTheSkyEffect_6: -5179771839770630782
+      FromTheSkyEffect_60: 7104762960906454359
+      FromTheSkyEffect_61: -4984813454867786528
+      FromTheSkyEffect_62: 3078515929562502121
+      FromTheSkyEffect_63: 8619987898903313294
+      FromTheSkyEffect_64: 1727171403248042269
+      FromTheSkyEffect_65: 4021356578377531104
+      FromTheSkyEffect_66: -7529691031837744277
+      FromTheSkyEffect_67: 7432549756974303814
+      FromTheSkyEffect_68: 7723923806963747153
+      FromTheSkyEffect_69: -223160127694551199
+      FromTheSkyEffect_7: 92867949669665386
+      FromTheSkyEffect_70: -9063968063785262716
+      FromTheSkyEffect_71: 2127753299289817595
+      FromTheSkyEffect_8: -2814751217979414372
+      FromTheSkyEffect_9: 2079852902976529751
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

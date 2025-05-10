@@ -89,7 +89,6 @@ public class TestPlayer : MonoBehaviour
 
     private void FixedUpdate()
     {
-        // 이동 처리 (Kinematic Rigidbody는 MovePosition 사용)
         Vector2 moveDelta = moveInput.normalized * moveSpeed * Time.fixedDeltaTime;
         rb.MovePosition(rb.position + moveDelta);
     }
@@ -136,9 +135,7 @@ public class TestPlayer : MonoBehaviour
         {
             isHit = true;
 
-            MonsterTest monster = collision.collider.GetComponent<MonsterTest>();
-            int damage = monster != null ? monster.attackPower : 1;
-
+            int damage = 1; // MonsterTest가 제거되어 기본 데미지 설정
             TakeDamage(damage);
 
             Vector2 hitDir = (transform.position - collision.transform.position).normalized;
@@ -167,7 +164,6 @@ public class TestPlayer : MonoBehaviour
         isHit = false;
     }
 
-    // UIManager에서 접근할 수 있게 Getter 제공 (optional)
     public int GetCurrentHp() => currentHp;
     public int GetMaxHp() => maxHp;
 }
