@@ -9,10 +9,6 @@ TagManager:
   - InGameUI
   - NPC
   - Sign
-<<<<<<< HEAD
-=======
-  - Ground
->>>>>>> branch_puc
   layers:
   - Default
   - TransparentFX

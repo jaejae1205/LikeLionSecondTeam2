@@ -1,25 +1,10 @@
 fileFormatVersion: 2
-<<<<<<< HEAD
-<<<<<<<< HEAD:AnotherName/Assets/Images/Map/StageA/spike_3.png.meta
-=======
->>>>>>> branch_puc
 guid: 38250d122cefbb24cad0563b7d3edb32
 TextureImporter:
   internalIDToNameTable:
   - first:
       213: 2367614376250832803
     second: spike_3_0
-<<<<<<< HEAD
-========
-guid: 0227e0a49de2e1048b20ac9c8fdf67f2
-TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: -5293095295874296911
-    second: crypt - 5_0
->>>>>>>> branch_puc:AnotherName/Assets/Images/Map/EPIC RPG World Pack - Cemetery V 1.6/Props/props by individual sprites/crypt - 5.png.meta
-=======
->>>>>>> branch_puc
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -52,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -167,10 +152,6 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-<<<<<<< HEAD
-<<<<<<<< HEAD:AnotherName/Assets/Images/Map/StageA/spike_3.png.meta
-=======
->>>>>>> branch_puc
       name: spike_3_0
       rect:
         serializedVersion: 2
@@ -178,18 +159,6 @@ TextureImporter:
         y: 0
         width: 13
         height: 13
-<<<<<<< HEAD
-========
-      name: crypt - 5_0
-      rect:
-        serializedVersion: 2
-        x: 7
-        y: 6
-        width: 142
-        height: 200
->>>>>>>> branch_puc:AnotherName/Assets/Images/Map/EPIC RPG World Pack - Cemetery V 1.6/Props/props by individual sprites/crypt - 5.png.meta
-=======
->>>>>>> branch_puc
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -198,18 +167,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-<<<<<<< HEAD
-<<<<<<<< HEAD:AnotherName/Assets/Images/Map/StageA/spike_3.png.meta
       spriteID: 3a7f9852bb47bd020800000000000000
       internalID: 2367614376250832803
-========
-      spriteID: 1b31f175fd52b86b0800000000000000
-      internalID: -5293095295874296911
->>>>>>>> branch_puc:AnotherName/Assets/Images/Map/EPIC RPG World Pack - Cemetery V 1.6/Props/props by individual sprites/crypt - 5.png.meta
-=======
-      spriteID: 3a7f9852bb47bd020800000000000000
-      internalID: 2367614376250832803
->>>>>>> branch_puc
       vertices: []
       indices: 
       edges: []
@@ -227,12 +186,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-<<<<<<< HEAD
-      crypt - 5_0: -5293095295874296911
-=======
-      spike_3_0: 2367614376250832803
->>>>>>> branch_puc
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

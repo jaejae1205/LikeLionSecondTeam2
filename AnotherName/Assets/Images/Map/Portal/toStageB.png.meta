@@ -1,5 +1,4 @@
 fileFormatVersion: 2
-<<<<<<<< HEAD:AnotherName/Assets/Images/Map/Portal/toStageB.png.meta
 guid: 25dab97f93609994f958e096990657f3
 TextureImporter:
   internalIDToNameTable:
@@ -78,35 +77,6 @@ TextureImporter:
   - first:
       213: -6627865198301778148
     second: sprite-sheet_24
-========
-guid: 40a959ad6c3d6704eb05c205ab6d7ef4
-TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: -5467614089638234826
-    second: Bat2-walk animation_0
-  - first:
-      213: -6310145568740434841
-    second: Bat2-walk animation_1
-  - first:
-      213: 5888755954363313142
-    second: Bat2-walk animation_2
-  - first:
-      213: -8039142478602585860
-    second: Bat2-walk animation_3
-  - first:
-      213: -263723892433643951
-    second: Bat2-walk animation_4
-  - first:
-      213: 9023631204189257007
-    second: Bat2-walk animation_5
-  - first:
-      213: -3909550727881011168
-    second: Bat2-walk animation_6
-  - first:
-      213: -3863718555780953690
-    second: Bat2-walk animation_7
->>>>>>>> branch_puc:AnotherName/Assets/Images/Map/EPIC RPG World Pack - Cemetery V 1.6/Characters/bat/Bat2-walk animation.png.meta
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -254,7 +224,6 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-<<<<<<<< HEAD:AnotherName/Assets/Images/Map/Portal/toStageB.png.meta
       name: sprite-sheet_0
       rect:
         serializedVersion: 2
@@ -350,15 +319,6 @@ TextureImporter:
         y: 0
         width: 64
         height: 64
-========
-      name: Bat2-walk animation_0
-      rect:
-        serializedVersion: 2
-        x: 31
-        y: 45
-        width: 36
-        height: 23
->>>>>>>> branch_puc:AnotherName/Assets/Images/Map/EPIC RPG World Pack - Cemetery V 1.6/Characters/bat/Bat2-walk animation.png.meta
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -367,19 +327,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-<<<<<<<< HEAD:AnotherName/Assets/Images/Map/Portal/toStageB.png.meta
       spriteID: 804d358588ff29c46bb95438d77057b9
       internalID: 862596003
-========
-      spriteID: 635313244f12f14b0800000000000000
-      internalID: -5467614089638234826
->>>>>>>> branch_puc:AnotherName/Assets/Images/Map/EPIC RPG World Pack - Cemetery V 1.6/Characters/bat/Bat2-walk animation.png.meta
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-<<<<<<<< HEAD:AnotherName/Assets/Images/Map/Portal/toStageB.png.meta
       name: sprite-sheet_5
       rect:
         serializedVersion: 2
@@ -387,37 +341,6 @@ TextureImporter:
         y: 0
         width: 64
         height: 64
-========
-      name: Bat2-walk animation_1
-      rect:
-        serializedVersion: 2
-        x: 126
-        y: 44
-        width: 38
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 76c983ea90cdd68a0800000000000000
-      internalID: -6310145568740434841
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bat2-walk animation_2
-      rect:
-        serializedVersion: 2
-        x: 223
-        y: 44
-        width: 35
-        height: 25
->>>>>>>> branch_puc:AnotherName/Assets/Images/Map/EPIC RPG World Pack - Cemetery V 1.6/Characters/bat/Bat2-walk animation.png.meta
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -426,19 +349,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-<<<<<<<< HEAD:AnotherName/Assets/Images/Map/Portal/toStageB.png.meta
       spriteID: 61712365a1ac12f46b81fca23f45ab2d
       internalID: 1466808937
-========
-      spriteID: 6fbaacc275019b150800000000000000
-      internalID: 5888755954363313142
->>>>>>>> branch_puc:AnotherName/Assets/Images/Map/EPIC RPG World Pack - Cemetery V 1.6/Characters/bat/Bat2-walk animation.png.meta
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-<<<<<<<< HEAD:AnotherName/Assets/Images/Map/Portal/toStageB.png.meta
       name: sprite-sheet_6
       rect:
         serializedVersion: 2
@@ -446,59 +363,6 @@ TextureImporter:
         y: 0
         width: 64
         height: 64
-========
-      name: Bat2-walk animation_3
-      rect:
-        serializedVersion: 2
-        x: 319
-        y: 36
-        width: 36
-        height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cf8b328428a3f6090800000000000000
-      internalID: -8039142478602585860
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bat2-walk animation_4
-      rect:
-        serializedVersion: 2
-        x: 417
-        y: 39
-        width: 32
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 15695b06480175cf0800000000000000
-      internalID: -263723892433643951
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bat2-walk animation_5
-      rect:
-        serializedVersion: 2
-        x: 512
-        y: 41
-        width: 33
-        height: 28
->>>>>>>> branch_puc:AnotherName/Assets/Images/Map/EPIC RPG World Pack - Cemetery V 1.6/Characters/bat/Bat2-walk animation.png.meta
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -507,57 +371,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-<<<<<<<< HEAD:AnotherName/Assets/Images/Map/Portal/toStageB.png.meta
       spriteID: 9b0922c9436099441bbed40b9ee1603d
       internalID: -137176235
-========
-      spriteID: f2db4dd55c06a3d70800000000000000
-      internalID: 9023631204189257007
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bat2-walk animation_6
-      rect:
-        serializedVersion: 2
-        x: 607
-        y: 42
-        width: 36
-        height: 28
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0205841a35c7eb9c0800000000000000
-      internalID: -3909550727881011168
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bat2-walk animation_7
-      rect:
-        serializedVersion: 2
-        x: 704
-        y: 40
-        width: 35
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6a94792c170516ac0800000000000000
-      internalID: -3863718555780953690
->>>>>>>> branch_puc:AnotherName/Assets/Images/Map/EPIC RPG World Pack - Cemetery V 1.6/Characters/bat/Bat2-walk animation.png.meta
       vertices: []
       indices: 
       edges: []
@@ -576,7 +391,6 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-<<<<<<<< HEAD:AnotherName/Assets/Images/Map/Portal/toStageB.png.meta
       sprite-sheet_0: 1009280099
       sprite-sheet_1: 487122765
       sprite-sheet_2: -1512236449
@@ -584,16 +398,6 @@ TextureImporter:
       sprite-sheet_4: 862596003
       sprite-sheet_5: 1466808937
       sprite-sheet_6: -137176235
-========
-      idle_0: 8793639957104055765
-      idle_1: 6084859605308855041
-      idle_2: 8603369663158992956
-      idle_3: -5906421172241655209
-      idle_4: 5704420531145803721
-      idle_5: -148617073940163930
-      idle_6: 4729606205655721961
-      idle_7: -2073685336235588006
->>>>>>>> branch_puc:AnotherName/Assets/Images/Map/EPIC RPG World Pack - Cemetery V 1.6/Characters/bat/Bat2-walk animation.png.meta
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
