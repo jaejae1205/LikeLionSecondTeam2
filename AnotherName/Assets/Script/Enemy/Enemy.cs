@@ -99,11 +99,12 @@ public class Enemy : MonoBehaviour
         if (direction.x != 0)
             spriteRenderer.flipX = direction.x < 0;
 
-        animator.Play("Move");
+        animator.SetBool("IsMoving", true);
 
         if (Vector2.Distance(transform.position, patrolTarget) < 0.2f)
         {
             rb.linearVelocity = Vector2.zero;
+            animator.SetBool("IsMoving", false);
             ChangeState(State.Idle);
             idleTimer = 0f;
             SetNewPatrolTarget();
@@ -130,7 +131,7 @@ public class Enemy : MonoBehaviour
         if (distance > maxChaseDistance)
         {
             target = null;
-            ChangeState(State.Idle); // 또는 Patrol
+            ChangeState(State.Idle);
             return;
         }
 
@@ -146,16 +147,17 @@ public class Enemy : MonoBehaviour
         if (direction.x != 0)
             spriteRenderer.flipX = direction.x < 0;
 
-        animator.Play("Move");
+        animator.SetBool("IsMoving", true);
     }
 
     private void TryAttack()
     {
         rb.linearVelocity = Vector2.zero;
+        animator.SetBool("IsMoving", false);
 
         if (attackCooldown <= 0f)
         {
-            animator.Play("Attack");
+            animator.SetTrigger("Attack");
             attackCooldown = attackDelay;
         }
 
@@ -173,14 +175,16 @@ public class Enemy : MonoBehaviour
         if (currentHp <= 0)
         {
             ChangeState(State.Death);
-            animator.Play("Death");
             rb.linearVelocity = Vector2.zero;
+            animator.SetBool("IsMoving", false);
+            animator.SetTrigger("Death");
         }
         else
         {
             ChangeState(State.Damage);
-            animator.Play("Hit");
             rb.linearVelocity = Vector2.zero;
+            animator.SetBool("IsMoving", false);
+            animator.SetTrigger("Hit");
         }
     }
 
@@ -199,10 +203,11 @@ public class Enemy : MonoBehaviour
         if (currentState == newState) return;
         currentState = newState;
 
-        if (newState == State.Idle)
+        // 상태에 따라 이동 멈추고 Idle 상태로
+        if (newState == State.Idle || newState == State.Attack || newState == State.Damage || newState == State.Death)
         {
             rb.linearVelocity = Vector2.zero;
-            animator.Play("Idle");
+            animator.SetBool("IsMoving", false);
         }
     }
 }
