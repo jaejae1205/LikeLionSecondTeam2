@@ -1,25 +1,10 @@
 fileFormatVersion: 2
-<<<<<<< HEAD
-<<<<<<<< HEAD:AnotherName/Assets/Images/Map/StageA/spike_2.png.meta
-=======
->>>>>>> branch_puc
 guid: 17ab922027bc7a244913d687722ca9e1
 TextureImporter:
   internalIDToNameTable:
   - first:
       213: -7253803724736329133
     second: spike_2_0
-<<<<<<< HEAD
-========
-guid: 2ee513467038dec4d9c0c0a56a11df7d
-TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: -3074768132835576989
-    second: itchio bg_0
->>>>>>>> branch_puc:AnotherName/Assets/Images/Map/EPIC RPG World Pack - Cemetery V 1.6/Mockups/itchio bg.png.meta
-=======
->>>>>>> branch_puc
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -52,11 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-<<<<<<< HEAD
-    filterMode: 1
-=======
     filterMode: 0
->>>>>>> branch_puc
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -171,31 +152,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-<<<<<<< HEAD
-<<<<<<<< HEAD:AnotherName/Assets/Images/Map/StageA/spike_2.png.meta
       name: spike_2_0
-========
-      name: itchio bg_0
->>>>>>>> branch_puc:AnotherName/Assets/Images/Map/EPIC RPG World Pack - Cemetery V 1.6/Mockups/itchio bg.png.meta
-=======
-      name: spike_2_0
->>>>>>> branch_puc
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-<<<<<<< HEAD
-<<<<<<<< HEAD:AnotherName/Assets/Images/Map/StageA/spike_2.png.meta
         width: 13
         height: 12
-========
-        width: 687
-        height: 592
->>>>>>>> branch_puc:AnotherName/Assets/Images/Map/EPIC RPG World Pack - Cemetery V 1.6/Mockups/itchio bg.png.meta
-=======
-        width: 13
-        height: 12
->>>>>>> branch_puc
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -204,18 +167,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-<<<<<<< HEAD
-<<<<<<<< HEAD:AnotherName/Assets/Images/Map/StageA/spike_2.png.meta
       spriteID: 35a8fa4d1ff455b90800000000000000
       internalID: -7253803724736329133
-========
-      spriteID: 363f4ab8caa3455d0800000000000000
-      internalID: -3074768132835576989
->>>>>>>> branch_puc:AnotherName/Assets/Images/Map/EPIC RPG World Pack - Cemetery V 1.6/Mockups/itchio bg.png.meta
-=======
-      spriteID: 35a8fa4d1ff455b90800000000000000
-      internalID: -7253803724736329133
->>>>>>> branch_puc
       vertices: []
       indices: 
       edges: []
@@ -234,11 +187,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-<<<<<<< HEAD
-      Cover_0: -8672492875515090611
-=======
       spike_2_0: -7253803724736329133
->>>>>>> branch_puc
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,9 +1,5 @@
 fileFormatVersion: 2
-<<<<<<<< HEAD:AnotherName/Assets/Images/Map/Portal/toStageC.png.meta
 guid: 2cf646b9c5b8dd449848576c24d954d4
-========
-guid: 7dc50b5662662f440b5c92f5dac65040
->>>>>>>> branch_puc:AnotherName/Assets/Images/Boss/1. 자도키엘/forrest mage/forrest_mage_death.png.meta
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -160,7 +156,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
-    buildTarget: Standalone
+    buildTarget: iOS
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -174,6 +170,19 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
     buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -382,7 +391,6 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-<<<<<<<< HEAD:AnotherName/Assets/Images/Map/Portal/toStageC.png.meta
       toStageC_0: -1653840884
       toStageC_1: 288276194
       toStageC_2: -1799684899
@@ -390,16 +398,6 @@ TextureImporter:
       toStageC_4: 214670571
       toStageC_5: -303178438
       toStageC_6: 2133484017
-========
-      forrest_mage_death_0: 4301836512019020886
-      forrest_mage_death_1: 1357587553898083269
-      forrest_mage_death_2: 7499044604402408901
-      forrest_mage_death_3: -8513133269108169401
-      forrest_mage_death_4: 8145736510606994555
-      forrest_mage_death_5: 6311919182261460314
-      forrest_mage_death_6: 5922280441638797770
-      forrest_mage_death_7: -6220406859002781073
->>>>>>>> branch_puc:AnotherName/Assets/Images/Boss/1. 자도키엘/forrest mage/forrest_mage_death.png.meta
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

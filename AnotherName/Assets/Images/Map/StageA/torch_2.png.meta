@@ -37,11 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-<<<<<<< HEAD
-    filterMode: 1
-=======
     filterMode: 0
->>>>>>> branch_puc
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -190,12 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-<<<<<<< HEAD
-    nameFileIdTable: {}
-=======
     nameFileIdTable:
       torch_2_0: -2568903973227165884
->>>>>>> branch_puc
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
