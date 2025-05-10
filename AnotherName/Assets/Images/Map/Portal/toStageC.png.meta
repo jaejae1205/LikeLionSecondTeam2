@@ -391,14 +391,13 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      forrest_mage_death_0: 4301836512019020886
-      forrest_mage_death_1: 1357587553898083269
-      forrest_mage_death_2: 7499044604402408901
-      forrest_mage_death_3: -8513133269108169401
-      forrest_mage_death_4: 8145736510606994555
-      forrest_mage_death_5: 6311919182261460314
-      forrest_mage_death_6: 5922280441638797770
-      forrest_mage_death_7: -6220406859002781073
+      toStageC_0: -1653840884
+      toStageC_1: 288276194
+      toStageC_2: -1799684899
+      toStageC_3: 976443678
+      toStageC_4: 214670571
+      toStageC_5: -303178438
+      toStageC_6: 2133484017
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

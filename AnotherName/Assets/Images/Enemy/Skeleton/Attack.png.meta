@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 28b5a9c3ab4555e498dfe95aebdd3724
+guid: e289c4cc6570a224bb81514848fe8611
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -61,7 +61,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -75,7 +75,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 60
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -108,7 +108,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
-    buildTarget: Standalone
+    buildTarget: iOS
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -122,6 +122,19 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
     buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -166,10 +179,10 @@ TextureImporter:
       name: Attack_0
       rect:
         serializedVersion: 2
-        x: 59
-        y: 48
-        width: 47
-        height: 53
+        x: 0
+        y: 0
+        width: 150
+        height: 150
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -188,10 +201,10 @@ TextureImporter:
       name: Attack_1
       rect:
         serializedVersion: 2
-        x: 209
-        y: 48
-        width: 44
-        height: 54
+        x: 150
+        y: 0
+        width: 150
+        height: 150
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -210,10 +223,10 @@ TextureImporter:
       name: Attack_2
       rect:
         serializedVersion: 2
-        x: 352
-        y: 48
-        width: 38
-        height: 59
+        x: 300
+        y: 0
+        width: 150
+        height: 150
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -232,10 +245,10 @@ TextureImporter:
       name: Attack_3
       rect:
         serializedVersion: 2
-        x: 502
-        y: 48
-        width: 38
-        height: 59
+        x: 450
+        y: 0
+        width: 150
+        height: 150
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -254,10 +267,10 @@ TextureImporter:
       name: Attack_4
       rect:
         serializedVersion: 2
-        x: 652
-        y: 48
-        width: 38
-        height: 59
+        x: 600
+        y: 0
+        width: 150
+        height: 150
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -276,10 +289,10 @@ TextureImporter:
       name: Attack_5
       rect:
         serializedVersion: 2
-        x: 807
-        y: 48
-        width: 33
-        height: 59
+        x: 750
+        y: 0
+        width: 150
+        height: 150
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -298,10 +311,10 @@ TextureImporter:
       name: Attack_6
       rect:
         serializedVersion: 2
-        x: 967
-        y: 48
-        width: 82
-        height: 55
+        x: 900
+        y: 0
+        width: 150
+        height: 150
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -320,10 +333,10 @@ TextureImporter:
       name: Attack_7
       rect:
         serializedVersion: 2
-        x: 1117
-        y: 48
-        width: 72
-        height: 54
+        x: 1050
+        y: 0
+        width: 150
+        height: 150
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -338,33 +351,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: Attack_8
-      rect:
-        serializedVersion: 2
-        x: 1188
-        y: 66
-        width: 11
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ffebd0cda1bafe0e0800000000000000
-      internalID: -2238382357930459393
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 70063efe8b26df840af9b089de8f9fba
     internalID: 0
     vertices: []
     indices: 
@@ -373,7 +364,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Attack_0: -7008412969330441016
+      Attack_1: -7763475090823894447
+      Attack_2: 302641331129538988
+      Attack_3: -6329420634031446844
+      Attack_4: -910092549403018386
+      Attack_5: 221524225039350300
+      Attack_6: 1290532464073988732
+      Attack_7: 4780903288873104255
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
