@@ -1,0 +1,2767 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:AnotherName/Assets/Animation/Sprites/Sky/FromTheSky.png.meta
+guid: ef0957968034e6149a1d750513cb522b
+========
+guid: 7323a5968cbc55248b7a677cc5d8047b
+>>>>>>>> branch_puc:AnotherName/Assets/Images/Boss/3. 세라피엘/Agis Full/Agis Full/attack2.png.meta
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5910385640235780665
+    second: FromTheSky_0
+  - first:
+      213: -3524667201595564117
+    second: FromTheSky_1
+  - first:
+      213: -574799080086099987
+    second: FromTheSky_2
+  - first:
+      213: -8538229871358108089
+    second: FromTheSky_3
+  - first:
+      213: 6369974698963715130
+    second: FromTheSky_4
+  - first:
+      213: -4622592651600682700
+    second: FromTheSky_5
+  - first:
+      213: -8800244668478904815
+    second: FromTheSky_6
+  - first:
+      213: -3398823566727209796
+    second: FromTheSky_7
+  - first:
+      213: 3829947934185360072
+    second: FromTheSky_8
+  - first:
+      213: 148321478196577880
+    second: FromTheSky_9
+  - first:
+      213: -4687288047748953695
+    second: FromTheSky_10
+  - first:
+      213: 5808045470407986706
+    second: FromTheSky_11
+  - first:
+      213: 6262218476230417634
+    second: FromTheSky_12
+  - first:
+      213: -7490210379031018926
+    second: FromTheSky_13
+  - first:
+      213: 2905334709698961401
+    second: FromTheSky_14
+  - first:
+      213: 3353236702380552751
+    second: FromTheSky_15
+  - first:
+      213: 7424348382586091160
+    second: FromTheSky_16
+  - first:
+      213: 3185996884601715993
+    second: FromTheSky_17
+  - first:
+      213: 3141094320843918539
+    second: FromTheSky_18
+  - first:
+      213: 3502413962114173093
+    second: FromTheSky_19
+  - first:
+      213: 7385912717488851959
+    second: FromTheSky_20
+  - first:
+      213: 5297567773253734932
+    second: FromTheSky_21
+  - first:
+      213: -2156952408400342597
+    second: FromTheSky_22
+  - first:
+      213: 1124107498567991467
+    second: FromTheSky_23
+  - first:
+      213: -3471869122571357577
+    second: FromTheSky_24
+  - first:
+      213: 2715917377378819604
+    second: FromTheSky_25
+  - first:
+      213: 7418244093504061426
+    second: FromTheSky_26
+  - first:
+      213: -4003516300517667532
+    second: FromTheSky_27
+  - first:
+      213: -1454023781047382965
+    second: FromTheSky_28
+  - first:
+      213: -4407085719150220165
+    second: FromTheSky_29
+  - first:
+      213: -8154882941030379529
+    second: FromTheSky_30
+  - first:
+      213: 644645315960439560
+    second: FromTheSky_31
+  - first:
+      213: -6350086781529658947
+    second: FromTheSky_32
+  - first:
+      213: -3762888801819331110
+    second: FromTheSky_33
+  - first:
+      213: 1256066608571683511
+    second: FromTheSky_34
+  - first:
+      213: 4260147066571702641
+    second: FromTheSky_35
+  - first:
+      213: -7154704398274975224
+    second: FromTheSky_36
+  - first:
+      213: 8628630263372872932
+    second: FromTheSky_37
+  - first:
+      213: -1306361882193243711
+    second: FromTheSky_38
+  - first:
+      213: -8491828209629920845
+    second: FromTheSky_39
+  - first:
+      213: 7683971222128661384
+    second: FromTheSky_40
+  - first:
+      213: -8121958711060520666
+    second: FromTheSky_41
+  - first:
+      213: 1204844064539986697
+    second: FromTheSky_42
+  - first:
+      213: 1187249230991946646
+    second: FromTheSky_43
+  - first:
+      213: 756002208526472791
+    second: FromTheSky_44
+  - first:
+      213: -4697274715755747121
+    second: FromTheSky_45
+  - first:
+      213: 2116991493377086281
+    second: FromTheSky_46
+  - first:
+      213: 1971098101655649907
+    second: FromTheSky_47
+  - first:
+      213: -5983601332047049578
+    second: FromTheSky_48
+  - first:
+      213: -5216018637364723506
+    second: FromTheSky_49
+  - first:
+      213: -2400380456286665446
+    second: FromTheSky_50
+  - first:
+      213: 8792718686320611480
+    second: FromTheSky_51
+  - first:
+      213: -4098127550471775386
+    second: FromTheSky_52
+  - first:
+      213: -971331529210078337
+    second: FromTheSky_53
+  - first:
+      213: 4769469337495193724
+    second: FromTheSky_54
+  - first:
+      213: 4483075883903406248
+    second: FromTheSky_55
+  - first:
+      213: -7299372828177670418
+    second: FromTheSky_56
+  - first:
+      213: 4099632219728866349
+    second: FromTheSky_57
+  - first:
+      213: -5954131948867431284
+    second: FromTheSky_58
+  - first:
+      213: 3617769019633368011
+    second: FromTheSky_59
+  - first:
+      213: 659702012089115272
+    second: FromTheSky_60
+  - first:
+      213: -6922619754151932283
+    second: FromTheSky_61
+  - first:
+      213: 5313607640775533074
+    second: FromTheSky_62
+  - first:
+      213: 7002262470814044745
+    second: FromTheSky_63
+  - first:
+      213: 3766295830576005328
+    second: FromTheSky_64
+  - first:
+      213: -1462564483641744968
+    second: FromTheSky_65
+  - first:
+      213: 8555249463263027257
+    second: FromTheSky_66
+  - first:
+      213: 3579772446791391929
+    second: FromTheSky_67
+  - first:
+      213: 6164526934806877353
+    second: FromTheSky_68
+  - first:
+      213: -1586697041400899244
+    second: FromTheSky_69
+  - first:
+      213: -6706240525930391979
+    second: FromTheSky_70
+  - first:
+      213: -9069062246713669220
+    second: FromTheSky_71
+  - first:
+      213: 984837304546990705
+    second: FromTheSky_72
+  - first:
+      213: 2464475255986405365
+    second: FromTheSky_73
+  - first:
+      213: 4323925651283904591
+    second: FromTheSky_74
+  - first:
+      213: 3033522286779055813
+    second: FromTheSky_75
+  - first:
+      213: -888716522837543219
+    second: FromTheSky_76
+  - first:
+      213: -1888316023002390273
+    second: FromTheSky_77
+  - first:
+      213: 1753067586606049590
+    second: FromTheSky_78
+  - first:
+      213: -894121913910942972
+    second: FromTheSky_79
+  - first:
+      213: -4686383287655908198
+    second: FromTheSky_80
+  - first:
+      213: 4783453521844613270
+    second: FromTheSky_81
+  - first:
+      213: -3398574850997461257
+    second: FromTheSky_82
+  - first:
+      213: -4986213849484418486
+    second: FromTheSky_83
+  - first:
+      213: -1612561881475699243
+    second: FromTheSky_84
+  - first:
+      213: -3960224755566464729
+    second: FromTheSky_85
+  - first:
+      213: -3311204579128108573
+    second: FromTheSky_86
+  - first:
+      213: 2204115784791886233
+    second: FromTheSky_87
+  - first:
+      213: 1797853608492710595
+    second: FromTheSky_88
+  - first:
+      213: 6956309136299039753
+    second: FromTheSky_89
+  - first:
+      213: -3126987173315398463
+    second: FromTheSky_90
+  - first:
+      213: 8704173301575421694
+    second: FromTheSky_91
+  - first:
+      213: -346062631243669171
+    second: FromTheSky_92
+  - first:
+      213: -5337840124828828974
+    second: FromTheSky_93
+  - first:
+      213: 8136992084614438730
+    second: FromTheSky_94
+  - first:
+      213: 6388281086097176291
+    second: FromTheSky_95
+  - first:
+      213: 37769522419155854
+    second: FromTheSky_96
+  - first:
+      213: -2307548325545495118
+    second: FromTheSky_97
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FromTheSky_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1728
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ac2dbdc68e50250800000000000000
+      internalID: 5910385640235780665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1728
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf1d69caddd51fc0800000000000000
+      internalID: -3524667201595564117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1728
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de72f363847e508f0800000000000000
+      internalID: -574799080086099987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1728
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e12136b2d128980800000000000000
+      internalID: -8538229871358108089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_4
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1728
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3445f73d32b66850800000000000000
+      internalID: 6369974698963715130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_5
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1728
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 431a204997049dfb0800000000000000
+      internalID: -4622592651600682700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_6
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1728
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1162ac689104fd580800000000000000
+      internalID: -8800244668478904815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_7
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1728
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc9ffa49f3f4d0d0800000000000000
+      internalID: -3398823566727209796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_8
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1728
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca0c5daa55b62530800000000000000
+      internalID: 3829947934185360072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_9
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1728
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856c77c3991fe0200800000000000000
+      internalID: 148321478196577880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_10
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1728
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a94df9da5863feb0800000000000000
+      internalID: -4687288047748953695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_11
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 1728
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e0cfe35925a9050800000000000000
+      internalID: 5808045470407986706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec1a95868ed7e650800000000000000
+      internalID: 6262218476230417634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1536
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25289e8585d6d0890800000000000000
+      internalID: -7490210379031018926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1536
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff183d7682d15820800000000000000
+      internalID: 2905334709698961401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_15
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1536
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22f13db307198e20800000000000000
+      internalID: 3353236702380552751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_16
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1536
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8963ac0a485980760800000000000000
+      internalID: 7424348382586091160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_17
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1536
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91dbf22594fe63c20800000000000000
+      internalID: 3185996884601715993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_18
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1536
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc06ef74a8679b20800000000000000
+      internalID: 3141094320843918539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_19
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1536
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a80f2421f21b9030800000000000000
+      internalID: 3502413962114173093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1344
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb86fbfb78008660800000000000000
+      internalID: 7385912717488851959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1344
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412985272ddb48940800000000000000
+      internalID: 5297567773253734932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1344
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1dfdb6637f012e0800000000000000
+      internalID: -2156952408400342597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_23
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1344
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba08f7d60d1a99f00800000000000000
+      internalID: 1124107498567991467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_24
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1344
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 772bc728d6171dfc0800000000000000
+      internalID: -3471869122571357577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_25
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1344
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e99f51770e0b520800000000000000
+      internalID: 2715917377378819604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_26
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1344
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fff27213b5e2f660800000000000000
+      internalID: 7418244093504061426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_27
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1344
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d882fd227a078c0800000000000000
+      internalID: -4003516300517667532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_28
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1344
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c43bb231542dbe0800000000000000
+      internalID: -1454023781047382965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_29
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1344
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7caa5f53e2e6d2c0800000000000000
+      internalID: -4407085719150220165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_30
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1344
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ffcdfaeb2904de80800000000000000
+      internalID: -8154882941030379529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_31
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 1344
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80301f7df7d32f800800000000000000
+      internalID: 644645315960439560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_32
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1344
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9650667b5ffd7a0800000000000000
+      internalID: -6350086781529658947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_33
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 1344
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad57346429887cbc0800000000000000
+      internalID: -3762888801819331110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_34
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1344
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b21522fce17e6110800000000000000
+      internalID: 1256066608571683511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_35
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 1344
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171cde19f251f1b30800000000000000
+      internalID: 4260147066571702641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a25ebc14265bc90800000000000000
+      internalID: -7154704398274975224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_37
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1152
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec7682128d0fb770800000000000000
+      internalID: 8628630263372872932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_38
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1152
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1d2cf1acededde0800000000000000
+      internalID: -1306361882193243711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_39
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1152
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b10e572c37f62a80800000000000000
+      internalID: -8491828209629920845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_40
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1152
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8839d477d13f2aa60800000000000000
+      internalID: 7683971222128661384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_41
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1152
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62129d29591094f80800000000000000
+      internalID: -8121958711060520666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_42
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1152
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90bc4ac0b4778b010800000000000000
+      internalID: 1204844064539986697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_43
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1152
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6937121a2e4f97010800000000000000
+      internalID: 1187249230991946646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_44
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1152
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75691a0d00cdd7a00800000000000000
+      internalID: 756002208526472791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_45
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1152
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc864f2888defceb0800000000000000
+      internalID: -4697274715755747121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_46
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1152
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 943d3430c80116d10800000000000000
+      internalID: 2116991493377086281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_47
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 1152
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37eb1a6b74fba5b10800000000000000
+      internalID: 1971098101655649907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_48
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1152
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c08cd7a4af5fca0800000000000000
+      internalID: -5983601332047049578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_49
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 1152
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec00f0a5faafc97b0800000000000000
+      internalID: -5216018637364723506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_50
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1152
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a154e3951b220bed0800000000000000
+      internalID: -2400380456286665446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_51
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 1152
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89054143f03060a70800000000000000
+      internalID: 8792718686320611480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_52
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1152
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b53e5a4b68027c0800000000000000
+      internalID: -4098127550471775386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_53
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 1152
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7bdb4ade132582f0800000000000000
+      internalID: -971331529210078337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_54
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 1152
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c78c48cb71f803240800000000000000
+      internalID: 4769469337495193724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_55
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 1152
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0de2993c5173e30800000000000000
+      internalID: 4483075883903406248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_56
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1152
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeed455261b63ba90800000000000000
+      internalID: -7299372828177670418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_57
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 1152
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c6fa678c1d4e830800000000000000
+      internalID: 4099632219728866349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_58
+      rect:
+        serializedVersion: 2
+        x: 4224
+        y: 1152
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84d3f1f98cae5da0800000000000000
+      internalID: -5954131948867431284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_59
+      rect:
+        serializedVersion: 2
+        x: 4416
+        y: 1152
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcbf8ae61c5e43230800000000000000
+      internalID: 3617769019633368011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 882ae281c7bb72900800000000000000
+      internalID: 659702012089115272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_61
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 960
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e0caed20aedef90800000000000000
+      internalID: -6922619754151932283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_62
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 960
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2122a302ff9bdb940800000000000000
+      internalID: 5313607640775533074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_63
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 960
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9429bec1e980d2160800000000000000
+      internalID: 7002262470814044745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_64
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 960
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0848c6a12944430800000000000000
+      internalID: 3766295830576005328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_65
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 960
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b16e63e95de3bbe0800000000000000
+      internalID: -1462564483641744968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_66
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 960
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930e4a62f0a5ab670800000000000000
+      internalID: 8555249463263027257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_67
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 960
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba5bbbe218eda130800000000000000
+      internalID: 3579772446791391929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_68
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 960
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4dd7d069ccc8550800000000000000
+      internalID: 6164526934806877353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_69
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 960
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459d221927beaf9e0800000000000000
+      internalID: -1586697041400899244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_70
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 960
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5561799d5c5aee2a0800000000000000
+      internalID: -6706240525930391979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_71
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 960
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99c9b2cfe7342280800000000000000
+      internalID: -9069062246713669220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_72
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 960
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a93138f48daad00800000000000000
+      internalID: 984837304546990705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_73
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 960
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff3fce1033933220800000000000000
+      internalID: 2464475255986405365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_74
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 960
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f480aff787ba10c30800000000000000
+      internalID: 4323925651283904591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce32b1927c391a20800000000000000
+      internalID: 3033522286779055813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_76
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 768
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc67f36f705aaa3f0800000000000000
+      internalID: -888716522837543219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0a341f49a5bc5e0800000000000000
+      internalID: -1888316023002390273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_78
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 639a7ee8ea5245810800000000000000
+      internalID: 1753067586606049590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_79
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40322774bd07793f0800000000000000
+      internalID: -894121913910942972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_80
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 576
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c31f9ba3f96feb0800000000000000
+      internalID: -4686383287655908198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_81
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 576
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690b32162ad326240800000000000000
+      internalID: 4783453521844613270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_82
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 576
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe58bfed26d5d0d0800000000000000
+      internalID: -3398574850997461257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_83
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 576
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4229570ce86dcab0800000000000000
+      internalID: -4986213849484418486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_84
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 576
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd2e4433870f99e0800000000000000
+      internalID: -1612561881475699243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721b0c521947a09c0800000000000000
+      internalID: -3960224755566464729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_86
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e91c629afc3c02d0800000000000000
+      internalID: -3311204579128108573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_87
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9990a5cd0a7969e10800000000000000
+      internalID: 2204115784791886233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_88
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cabc5cd45243f810800000000000000
+      internalID: 1797853608492710595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_89
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c98e8ad46c98060800000000000000
+      internalID: 6956309136299039753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_90
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 384
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c4355dbbb5ba94d0800000000000000
+      internalID: -3126987173315398463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_91
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 384
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe87d7408f6bc870800000000000000
+      internalID: 8704173301575421694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_92
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 384
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d412fa2ded9823bf0800000000000000
+      internalID: -346062631243669171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_93
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da30c300be2ce5b0800000000000000
+      internalID: -5337840124828828974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_94
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4fdb9770376ce070800000000000000
+      internalID: 8136992084614438730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromTheSky_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.41, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e63b2e1dcbb7a850800000000000000
+      internalID: 6388281086097176291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 27b4022be7d4639498a0d6133b558163
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+<<<<<<<< HEAD:AnotherName/Assets/Animation/Sprites/Sky/FromTheSky.png.meta
+      FromTheSky_0: 5910385640235780665
+      FromTheSky_1: -3524667201595564117
+      FromTheSky_10: -4687288047748953695
+      FromTheSky_11: 5808045470407986706
+      FromTheSky_12: 6262218476230417634
+      FromTheSky_13: -7490210379031018926
+      FromTheSky_14: 2905334709698961401
+      FromTheSky_15: 3353236702380552751
+      FromTheSky_16: 7424348382586091160
+      FromTheSky_17: 3185996884601715993
+      FromTheSky_18: 3141094320843918539
+      FromTheSky_19: 3502413962114173093
+      FromTheSky_2: -574799080086099987
+      FromTheSky_20: 7385912717488851959
+      FromTheSky_21: 5297567773253734932
+      FromTheSky_22: -2156952408400342597
+      FromTheSky_23: 1124107498567991467
+      FromTheSky_24: -3471869122571357577
+      FromTheSky_25: 2715917377378819604
+      FromTheSky_26: 7418244093504061426
+      FromTheSky_27: -4003516300517667532
+      FromTheSky_28: -1454023781047382965
+      FromTheSky_29: -4407085719150220165
+      FromTheSky_3: -8538229871358108089
+      FromTheSky_30: -8154882941030379529
+      FromTheSky_31: 644645315960439560
+      FromTheSky_32: -6350086781529658947
+      FromTheSky_33: -3762888801819331110
+      FromTheSky_34: 1256066608571683511
+      FromTheSky_35: 4260147066571702641
+      FromTheSky_36: -7154704398274975224
+      FromTheSky_37: 8628630263372872932
+      FromTheSky_38: -1306361882193243711
+      FromTheSky_39: -8491828209629920845
+      FromTheSky_4: 6369974698963715130
+      FromTheSky_40: 7683971222128661384
+      FromTheSky_41: -8121958711060520666
+      FromTheSky_42: 1204844064539986697
+      FromTheSky_43: 1187249230991946646
+      FromTheSky_44: 756002208526472791
+      FromTheSky_45: -4697274715755747121
+      FromTheSky_46: 2116991493377086281
+      FromTheSky_47: 1971098101655649907
+      FromTheSky_48: -5983601332047049578
+      FromTheSky_49: -5216018637364723506
+      FromTheSky_5: -4622592651600682700
+      FromTheSky_50: -2400380456286665446
+      FromTheSky_51: 8792718686320611480
+      FromTheSky_52: -4098127550471775386
+      FromTheSky_53: -971331529210078337
+      FromTheSky_54: 4769469337495193724
+      FromTheSky_55: 4483075883903406248
+      FromTheSky_56: -7299372828177670418
+      FromTheSky_57: 4099632219728866349
+      FromTheSky_58: -5954131948867431284
+      FromTheSky_59: 3617769019633368011
+      FromTheSky_6: -8800244668478904815
+      FromTheSky_60: 659702012089115272
+      FromTheSky_61: -6922619754151932283
+      FromTheSky_62: 5313607640775533074
+      FromTheSky_63: 7002262470814044745
+      FromTheSky_64: 3766295830576005328
+      FromTheSky_65: -1462564483641744968
+      FromTheSky_66: 8555249463263027257
+      FromTheSky_67: 3579772446791391929
+      FromTheSky_68: 6164526934806877353
+      FromTheSky_69: -1586697041400899244
+      FromTheSky_7: -3398823566727209796
+      FromTheSky_70: -6706240525930391979
+      FromTheSky_71: -9069062246713669220
+      FromTheSky_72: 984837304546990705
+      FromTheSky_73: 2464475255986405365
+      FromTheSky_74: 4323925651283904591
+      FromTheSky_75: 3033522286779055813
+      FromTheSky_76: -888716522837543219
+      FromTheSky_77: -1888316023002390273
+      FromTheSky_78: 1753067586606049590
+      FromTheSky_79: -894121913910942972
+      FromTheSky_8: 3829947934185360072
+      FromTheSky_80: -4686383287655908198
+      FromTheSky_81: 4783453521844613270
+      FromTheSky_82: -3398574850997461257
+      FromTheSky_83: -4986213849484418486
+      FromTheSky_84: -1612561881475699243
+      FromTheSky_85: -3960224755566464729
+      FromTheSky_86: -3311204579128108573
+      FromTheSky_87: 2204115784791886233
+      FromTheSky_88: 1797853608492710595
+      FromTheSky_89: 6956309136299039753
+      FromTheSky_9: 148321478196577880
+      FromTheSky_90: -3126987173315398463
+      FromTheSky_91: 8704173301575421694
+      FromTheSky_92: -346062631243669171
+      FromTheSky_93: -5337840124828828974
+      FromTheSky_94: 8136992084614438730
+      FromTheSky_95: 6388281086097176291
+========
+      attack2_0: 8960278200517875464
+      attack2_1: -2465810860969379800
+      attack2_10: 7349703736009592938
+      attack2_100: -885522912043680927
+      attack2_101: 5516576631373308318
+      attack2_11: 7897007326269470006
+      attack2_12: 3546899277706344861
+      attack2_13: 3404559316335041068
+      attack2_14: -3085586742092536919
+      attack2_15: 529350200360652149
+      attack2_16: -6407345795641083186
+      attack2_17: 8128577087835474335
+      attack2_18: 3388321471743658438
+      attack2_19: -1373983342756087650
+      attack2_2: 5002756131240677261
+      attack2_20: -724106961184138799
+      attack2_21: 5502310619759235725
+      attack2_22: -1560000461162224091
+      attack2_23: -5857474597501581907
+      attack2_24: 5611266007970651507
+      attack2_25: -2107683236688485224
+      attack2_26: 5945101626041334105
+      attack2_27: 9024171775981450563
+      attack2_28: -5770401990249816495
+      attack2_29: 5706793357365440767
+      attack2_3: -3764604929125962900
+      attack2_30: -6453511409761839285
+      attack2_31: 6224414853980172902
+      attack2_32: 7313590300143134460
+      attack2_33: -2529480178275606493
+      attack2_34: 3215543099593954894
+      attack2_35: 3966251697951262526
+      attack2_36: -1017977328077991959
+      attack2_37: 3220418089751612505
+      attack2_38: -61043431449387281
+      attack2_39: -7395167334989267251
+      attack2_4: 5997235080567257955
+      attack2_40: -270285563602706568
+      attack2_41: -7129425802439451254
+      attack2_42: -1611822075670612304
+      attack2_43: 45511651303437286
+      attack2_44: -4920122265919995502
+      attack2_45: -84367437617648374
+      attack2_46: -3128800445853018548
+      attack2_47: 8711312301146430557
+      attack2_48: -2620793944512555430
+      attack2_49: -8687837968545935709
+      attack2_5: 1118178883266758183
+      attack2_50: 4875506739113151050
+      attack2_51: -6336551142733997548
+      attack2_52: -6160471911825316899
+      attack2_53: -5354214142217935757
+      attack2_54: -7959890804299150737
+      attack2_55: -1565830518739932325
+      attack2_56: -9012927323021179612
+      attack2_57: 640249653783535010
+      attack2_58: -5345795729381853533
+      attack2_59: -819164533451911856
+      attack2_6: 4375527575771685114
+      attack2_60: -636970226795454959
+      attack2_61: 1379709516787165213
+      attack2_62: -916470205589447555
+      attack2_63: 7319703727314454772
+      attack2_64: 485307461801547837
+      attack2_65: 4295871264951284496
+      attack2_66: 1346923513255174095
+      attack2_67: -6062877143261640437
+      attack2_68: -5346850749913560363
+      attack2_69: -393901433678359524
+      attack2_7: -47836001822693131
+      attack2_70: -4112862660811973267
+      attack2_71: 4329608622823242129
+      attack2_72: -3133636024991570206
+      attack2_73: 5741656530063144807
+      attack2_74: 3798360049773114377
+      attack2_75: 4701768447514860086
+      attack2_76: -2642597121301676974
+      attack2_77: 5092833900414418645
+      attack2_78: -8856146949431784592
+      attack2_79: -2296154414816910009
+      attack2_8: -5006914002284409324
+      attack2_80: 3325738644981026234
+      attack2_81: -3070504245927760314
+      attack2_82: 4388589924851057697
+      attack2_83: -2182187692499686215
+      attack2_84: 5795921023290150048
+      attack2_85: -8122625621368741091
+      attack2_86: -6570717920143686051
+      attack2_87: 2252789034447485729
+      attack2_88: 8131259214664714455
+      attack2_89: -7430807113584794103
+      attack2_9: 4818371918333672716
+      attack2_90: -8999351867271705694
+      attack2_91: -7826688385915539585
+      attack2_92: -2320912032295138299
+      attack2_93: 3866181522235842284
+      attack2_94: -8528455276097485720
+      attack2_95: 8137233932177873429
+      attack2_96: -2581042572879365106
+      attack2_97: 5298304562965851114
+      attack2_98: -6534157286844040383
+      attack2_99: 4068293316560302668
+>>>>>>>> branch_puc:AnotherName/Assets/Images/Boss/3. 세라피엘/Agis Full/Agis Full/attack2.png.meta
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

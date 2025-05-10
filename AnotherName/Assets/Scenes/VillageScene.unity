@@ -526,7 +526,11 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
+<<<<<<< HEAD
   m_Sprite: {fileID: -889180894, guid: 020de64f52d0c164d95ffb70ca3fa29c, type: 3}
+=======
+  m_Sprite: {fileID: -4595574272415174579, guid: 020de64f52d0c164d95ffb70ca3fa29c, type: 3}
+>>>>>>> branch_puc
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -7781,26 +7785,12 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 7878350319992209165, guid: 94881633f3abb0f459e69c4eb99d2b4b, type: 3}
   m_PrefabInstance: {fileID: 821408907}
   m_PrefabAsset: {fileID: 0}
---- !u!4 &712421248 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 7878350319992209165, guid: 94881633f3abb0f459e69c4eb99d2b4b, type: 3}
-  m_PrefabInstance: {fileID: 497185900}
-  m_PrefabAsset: {fileID: 0}
---- !u!4 &712440354 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 7878350319992209165, guid: 94881633f3abb0f459e69c4eb99d2b4b, type: 3}
-  m_PrefabInstance: {fileID: 45228293}
-  m_PrefabAsset: {fileID: 0}
---- !u!4 &716639172 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 7878350319992209165, guid: 94881633f3abb0f459e69c4eb99d2b4b, type: 3}
-  m_PrefabInstance: {fileID: 1663760668}
-  m_PrefabAsset: {fileID: 0}
 --- !u!4 &767926427 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7878350319992209165, guid: 94881633f3abb0f459e69c4eb99d2b4b, type: 3}
   m_PrefabInstance: {fileID: 1690329835}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 --- !u!61 &738305479
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -7874,6 +7864,8 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+=======
+>>>>>>> branch_puc
 --- !u!1001 &787490064
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -13993,12 +13985,19 @@ Transform:
   - {fileID: 35363676}
   - {fileID: 659546063}
   - {fileID: 226272584}
+<<<<<<< HEAD
   - {fileID: 738305478}
+=======
+>>>>>>> branch_puc
   - {fileID: 2067515742}
   - {fileID: 1955320405}
   - {fileID: 299241804}
   - {fileID: 131733218}
   - {fileID: 1525332659}
+<<<<<<< HEAD
+=======
+  - {fileID: 767926427}
+>>>>>>> branch_puc
   m_Father: {fileID: 613108772}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1842509141
@@ -14259,6 +14258,13 @@ PrefabInstance:
       propertyPath: m_Name
       value: PlayerTest
       objectReference: {fileID: 0}
+<<<<<<< HEAD
+=======
+    - target: {fileID: 3397116820743276590, guid: e15d491caecf20548825eb21aec5537a, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+>>>>>>> branch_puc
     - target: {fileID: 4591144671563751580, guid: e15d491caecf20548825eb21aec5537a, type: 3}
       propertyPath: m_Size.x
       value: 0.4628439
@@ -14467,7 +14473,11 @@ BoxCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
+<<<<<<< HEAD
   m_IsTrigger: 0
+=======
+  m_IsTrigger: 1
+>>>>>>> branch_puc
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
@@ -15432,10 +15442,5 @@ SceneRoots:
   - {fileID: 1504810380}
   - {fileID: 307912755}
   - {fileID: 1982568720}
-  - {fileID: 63226909}
-  - {fileID: 257934976}
-  - {fileID: 1742831785}
-  - {fileID: 1540387985}
-  - {fileID: 1524706747}
-  - {fileID: 1189498513}
-  - {fileID: 7319654}
+  - {fileID: 1974799214}
+  - {fileID: 2129527872}

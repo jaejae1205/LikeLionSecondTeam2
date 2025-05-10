@@ -1,0 +1,1170 @@
+fileFormatVersion: 2
+guid: 537b1e4425f40a9469c688d95007594c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 293345849402790464
+    second: Angel_Mage_blue_attack6_vfxball-Sheet_0
+  - first:
+      213: -6913873538603360834
+    second: Angel_Mage_blue_attack6_vfxball-Sheet_1
+  - first:
+      213: -8538422584247116427
+    second: Angel_Mage_blue_attack6_vfxball-Sheet_2
+  - first:
+      213: 4650754232526397795
+    second: Angel_Mage_blue_attack6_vfxball-Sheet_3
+  - first:
+      213: -2336563189522638373
+    second: Angel_Mage_blue_attack6_vfxball-Sheet_4
+  - first:
+      213: 6795076382702241240
+    second: Angel_Mage_blue_attack6_vfxball-Sheet_5
+  - first:
+      213: -9130268388585705552
+    second: Angel_Mage_blue_attack6_vfxball-Sheet_6
+  - first:
+      213: -9189471057414583953
+    second: Angel_Mage_blue_attack6_vfxball-Sheet_7
+  - first:
+      213: -7967839286412737783
+    second: Angel_Mage_blue_attack6_vfxball-Sheet_8
+  - first:
+      213: 8288276235322324678
+    second: Angel_Mage_blue_attack6_vfxball-Sheet_9
+  - first:
+      213: 2124775731719966312
+    second: Angel_Mage_blue_attack6_vfxball-Sheet_10
+  - first:
+      213: -9088425595009596106
+    second: Angel_Mage_blue_attack6_vfxball-Sheet_11
+  - first:
+      213: 6938749845652841185
+    second: Angel_Mage_blue_attack6_vfxball-Sheet_12
+  - first:
+      213: -8145234034372306830
+    second: Angel_Mage_blue_attack6_vfxball-Sheet_13
+  - first:
+      213: -6179883002231586195
+    second: Angel_Mage_blue_attack6_vfxball-Sheet_14
+  - first:
+      213: 1667945377698923043
+    second: Angel_Mage_blue_attack6_vfxball-Sheet_15
+  - first:
+      213: 8896683900108077748
+    second: Angel_Mage_blue_attack6_vfxball-Sheet_16
+  - first:
+      213: 4400199761242577265
+    second: Angel_Mage_blue_attack6_vfxball-Sheet_17
+  - first:
+      213: -7101161189248560095
+    second: Angel_Mage_blue_attack6_vfxball-Sheet_18
+  - first:
+      213: -5485393940120447938
+    second: Angel_Mage_blue_attack6_vfxball-Sheet_19
+  - first:
+      213: 3138996363412193248
+    second: Angel_Mage_blue_attack6_vfxball-Sheet_20
+  - first:
+      213: -5308839159629432996
+    second: Angel_Mage_blue_attack6_vfxball-Sheet_21
+  - first:
+      213: -400717835397435590
+    second: Angel_Mage_blue_attack6_vfxball-Sheet_22
+  - first:
+      213: -2438951708513013238
+    second: Angel_Mage_blue_attack6_vfxball-Sheet_23
+  - first:
+      213: 4159090508891573945
+    second: Angel_Mage_blue_attack6_vfxball-Sheet_24
+  - first:
+      213: -6453122668502371377
+    second: Angel_Mage_blue_attack6_vfxball-Sheet_25
+  - first:
+      213: 5998111710706940224
+    second: Angel_Mage_blue_attack6_vfxball-Sheet_26
+  - first:
+      213: 4564371951090399180
+    second: Angel_Mage_blue_attack6_vfxball-Sheet_27
+  - first:
+      213: 6008278468465596417
+    second: Angel_Mage_blue_attack6_vfxball-Sheet_28
+  - first:
+      213: 6729646951846086884
+    second: Angel_Mage_blue_attack6_vfxball-Sheet_29
+  - first:
+      213: 3749677698481896301
+    second: Angel_Mage_blue_attack6_vfxball-Sheet_30
+  - first:
+      213: -6528097463403206783
+    second: Angel_Mage_blue_attack6_vfxball-Sheet_31
+  - first:
+      213: 2784334032240755546
+    second: Angel_Mage_blue_attack6_vfxball-Sheet_32
+  - first:
+      213: 2105686973809390368
+    second: Angel_Mage_blue_attack6_vfxball-Sheet_33
+  - first:
+      213: 1228105680305727892
+    second: Angel_Mage_blue_attack6_vfxball-Sheet_34
+  - first:
+      213: 8820541577718689363
+    second: Angel_Mage_blue_attack6_vfxball-Sheet_35
+  - first:
+      213: -5760888729012238591
+    second: Angel_Mage_blue_attack6_vfxball-Sheet_36
+  - first:
+      213: 6222631511884932875
+    second: Angel_Mage_blue_attack6_vfxball-Sheet_37
+  - first:
+      213: 4451431473706894959
+    second: Angel_Mage_blue_attack6_vfxball-Sheet_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Angel_Mage_blue_attack6_vfxball-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 128
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0421dfdee7c221400800000000000000
+      internalID: 293345849402790464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_blue_attack6_vfxball-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 130
+        width: 59
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebdd29dd5acfc00a0800000000000000
+      internalID: -6913873538603360834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_blue_attack6_vfxball-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 132
+        width: 58
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d17cbe5ed618980800000000000000
+      internalID: -8538422584247116427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_blue_attack6_vfxball-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 131
+        width: 59
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361616f655cca8040800000000000000
+      internalID: 4650754232526397795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_blue_attack6_vfxball-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 130
+        width: 58
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9df35a82cd29fd0800000000000000
+      internalID: -2336563189522638373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_blue_attack6_vfxball-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 129
+        width: 60
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d50d9cd7f5fc4e50800000000000000
+      internalID: 6795076382702241240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_blue_attack6_vfxball-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 127
+        width: 59
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bfee5a5645ca4180800000000000000
+      internalID: -9130268388585705552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_blue_attack6_vfxball-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 194
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f69021dd2c0787080800000000000000
+      internalID: -9189471057414583953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_blue_attack6_vfxball-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 126
+        width: 60
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90387f9626c8c6190800000000000000
+      internalID: -7967839286412737783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_blue_attack6_vfxball-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 193
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6f2b6a25fd50370800000000000000
+      internalID: 8288276235322324678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_blue_attack6_vfxball-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 125
+        width: 59
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e0a8c3548bc7d10800000000000000
+      internalID: 2124775731719966312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_blue_attack6_vfxball-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63582e9e21d6fd180800000000000000
+      internalID: -9088425595009596106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_blue_attack6_vfxball-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 124
+        width: 58
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e22f67b8346b4060800000000000000
+      internalID: 6938749845652841185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_blue_attack6_vfxball-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 191
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27811d01dc056fe80800000000000000
+      internalID: -8145234034372306830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_blue_attack6_vfxball-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 123
+        width: 60
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d620382e625ac3aa0800000000000000
+      internalID: -6179883002231586195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_blue_attack6_vfxball-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 322cf7edb7bb52710800000000000000
+      internalID: 1667945377698923043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_blue_attack6_vfxball-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 121
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4baf0e8dede577b70800000000000000
+      internalID: 8896683900108077748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_blue_attack6_vfxball-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 122
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1795f9d9e56a01d30800000000000000
+      internalID: 4400199761242577265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_blue_attack6_vfxball-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 126
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1249c0e958b937d90800000000000000
+      internalID: -7101161189248560095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_blue_attack6_vfxball-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 12
+        width: 60
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e345a0a3647ffd3b0800000000000000
+      internalID: -5485393940120447938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_blue_attack6_vfxball-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 77
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef3d68bf84ff8b20800000000000000
+      internalID: 3138996363412193248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_blue_attack6_vfxball-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 13
+        width: 59
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57ba9869e63356b0800000000000000
+      internalID: -5308839159629432996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_blue_attack6_vfxball-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 76
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3fe8f5704d507af0800000000000000
+      internalID: -400717835397435590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_blue_attack6_vfxball-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 14
+        width: 58
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a02ffbdd75a172ed0800000000000000
+      internalID: -2438951708513013238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_blue_attack6_vfxball-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 75
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be4e2338ce08b930800000000000000
+      internalID: 4159090508891573945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_blue_attack6_vfxball-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 16
+        width: 60
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc335e38f17e176a0800000000000000
+      internalID: -6453122668502371377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_blue_attack6_vfxball-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 74
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0493ccf42d29d3350800000000000000
+      internalID: 5998111710706940224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_blue_attack6_vfxball-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 18
+        width: 59
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc7ff7f3b18e75f30800000000000000
+      internalID: 4564371951090399180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_blue_attack6_vfxball-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 73
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10815801f61b16350800000000000000
+      internalID: 6008278468465596417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_blue_attack6_vfxball-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 20
+        width: 58
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e8839c5f32846d50800000000000000
+      internalID: 6729646951846086884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_blue_attack6_vfxball-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 19
+        width: 59
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6bb7380008890430800000000000000
+      internalID: 3749677698481896301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_blue_attack6_vfxball-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 18
+        width: 58
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18729b2c1f98765a0800000000000000
+      internalID: -6528097463403206783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_blue_attack6_vfxball-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 79
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53cdbfdc01f3a620800000000000000
+      internalID: 2784334032240755546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_blue_attack6_vfxball-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 17
+        width: 60
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02373127527e83d10800000000000000
+      internalID: 2105686973809390368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_blue_attack6_vfxball-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 15
+        width: 59
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49923450c9b1b0110800000000000000
+      internalID: 1228105680305727892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_blue_attack6_vfxball-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 11
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e6c7ae4dbd86a70800000000000000
+      internalID: 8820541577718689363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_blue_attack6_vfxball-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 10
+        width: 59
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1078ca439363d00b0800000000000000
+      internalID: -5760888729012238591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_blue_attack6_vfxball-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 9
+        width: 58
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07ad02246a3b5650800000000000000
+      internalID: 6222631511884932875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Mage_blue_attack6_vfxball-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 9
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f660b443759a6cd30800000000000000
+      internalID: 4451431473706894959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Angel_Mage_blue_attack6_vfxball-Sheet_0: 293345849402790464
+      Angel_Mage_blue_attack6_vfxball-Sheet_1: -6913873538603360834
+      Angel_Mage_blue_attack6_vfxball-Sheet_10: 2124775731719966312
+      Angel_Mage_blue_attack6_vfxball-Sheet_11: -9088425595009596106
+      Angel_Mage_blue_attack6_vfxball-Sheet_12: 6938749845652841185
+      Angel_Mage_blue_attack6_vfxball-Sheet_13: -8145234034372306830
+      Angel_Mage_blue_attack6_vfxball-Sheet_14: -6179883002231586195
+      Angel_Mage_blue_attack6_vfxball-Sheet_15: 1667945377698923043
+      Angel_Mage_blue_attack6_vfxball-Sheet_16: 8896683900108077748
+      Angel_Mage_blue_attack6_vfxball-Sheet_17: 4400199761242577265
+      Angel_Mage_blue_attack6_vfxball-Sheet_18: -7101161189248560095
+      Angel_Mage_blue_attack6_vfxball-Sheet_19: -5485393940120447938
+      Angel_Mage_blue_attack6_vfxball-Sheet_2: -8538422584247116427
+      Angel_Mage_blue_attack6_vfxball-Sheet_20: 3138996363412193248
+      Angel_Mage_blue_attack6_vfxball-Sheet_21: -5308839159629432996
+      Angel_Mage_blue_attack6_vfxball-Sheet_22: -400717835397435590
+      Angel_Mage_blue_attack6_vfxball-Sheet_23: -2438951708513013238
+      Angel_Mage_blue_attack6_vfxball-Sheet_24: 4159090508891573945
+      Angel_Mage_blue_attack6_vfxball-Sheet_25: -6453122668502371377
+      Angel_Mage_blue_attack6_vfxball-Sheet_26: 5998111710706940224
+      Angel_Mage_blue_attack6_vfxball-Sheet_27: 4564371951090399180
+      Angel_Mage_blue_attack6_vfxball-Sheet_28: 6008278468465596417
+      Angel_Mage_blue_attack6_vfxball-Sheet_29: 6729646951846086884
+      Angel_Mage_blue_attack6_vfxball-Sheet_3: 4650754232526397795
+      Angel_Mage_blue_attack6_vfxball-Sheet_30: 3749677698481896301
+      Angel_Mage_blue_attack6_vfxball-Sheet_31: -6528097463403206783
+      Angel_Mage_blue_attack6_vfxball-Sheet_32: 2784334032240755546
+      Angel_Mage_blue_attack6_vfxball-Sheet_33: 2105686973809390368
+      Angel_Mage_blue_attack6_vfxball-Sheet_34: 1228105680305727892
+      Angel_Mage_blue_attack6_vfxball-Sheet_35: 8820541577718689363
+      Angel_Mage_blue_attack6_vfxball-Sheet_36: -5760888729012238591
+      Angel_Mage_blue_attack6_vfxball-Sheet_37: 6222631511884932875
+      Angel_Mage_blue_attack6_vfxball-Sheet_38: 4451431473706894959
+      Angel_Mage_blue_attack6_vfxball-Sheet_4: -2336563189522638373
+      Angel_Mage_blue_attack6_vfxball-Sheet_5: 6795076382702241240
+      Angel_Mage_blue_attack6_vfxball-Sheet_6: -9130268388585705552
+      Angel_Mage_blue_attack6_vfxball-Sheet_7: -9189471057414583953
+      Angel_Mage_blue_attack6_vfxball-Sheet_8: -7967839286412737783
+      Angel_Mage_blue_attack6_vfxball-Sheet_9: 8288276235322324678
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
