@@ -156,6 +156,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -348,7 +361,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Undead-idle animation_0: 2164915748615219271
+      Undead-idle animation_1: -1100691342301278989
+      Undead-idle animation_2: 2571564349426277193
+      Undead-idle animation_3: 6642454871086836939
+      Undead-idle animation_4: -5094676043617261956
+      Undead-idle animation_5: -2513398457870328633
+      Undead-idle animation_6: -7970687458767980644
+      Undead-idle animation_7: -4672149880977779961
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

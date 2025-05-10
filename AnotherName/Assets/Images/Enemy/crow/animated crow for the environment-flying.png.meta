@@ -156,6 +156,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -348,7 +361,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      animated crow for the environment-flying_0: 8874201080021224439
+      animated crow for the environment-flying_1: 1137603616644853594
+      animated crow for the environment-flying_2: -6702006067960585112
+      animated crow for the environment-flying_3: -6856259576593064734
+      animated crow for the environment-flying_4: -2778007423502346841
+      animated crow for the environment-flying_5: 3042308353035778256
+      animated crow for the environment-flying_6: 780488009448150370
+      animated crow for the environment-flying_7: 833167227322788370
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

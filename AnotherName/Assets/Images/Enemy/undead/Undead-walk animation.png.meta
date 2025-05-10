@@ -156,6 +156,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -348,7 +361,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Undead-walk animation_0: -3886236738990572026
+      Undead-walk animation_1: -4429023591318253469
+      Undead-walk animation_2: -2524565549375813760
+      Undead-walk animation_3: -5994771574983912531
+      Undead-walk animation_4: 8382868347520352982
+      Undead-walk animation_5: 3553693349729434066
+      Undead-walk animation_6: -7908824337877569820
+      Undead-walk animation_7: 6265073861776423038
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

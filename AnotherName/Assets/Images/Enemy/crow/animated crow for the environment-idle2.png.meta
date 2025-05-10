@@ -207,6 +207,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -773,7 +786,32 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      animated crow for the environment-idle2_0: 2756671398613876507
+      animated crow for the environment-idle2_1: 4692273987817407542
+      animated crow for the environment-idle2_10: 8960113577414111464
+      animated crow for the environment-idle2_11: 8736189007193448995
+      animated crow for the environment-idle2_12: -4472104484009877546
+      animated crow for the environment-idle2_13: 1653797336076760650
+      animated crow for the environment-idle2_14: -1633118601745980334
+      animated crow for the environment-idle2_15: -2908019247894622287
+      animated crow for the environment-idle2_16: -2701596964303405245
+      animated crow for the environment-idle2_17: -470659491530829031
+      animated crow for the environment-idle2_18: -1587637647952850714
+      animated crow for the environment-idle2_19: -3265938206417811800
+      animated crow for the environment-idle2_2: 6413229698622586875
+      animated crow for the environment-idle2_20: 4702111461270560984
+      animated crow for the environment-idle2_21: 1807172030085480586
+      animated crow for the environment-idle2_22: 6732547025347920850
+      animated crow for the environment-idle2_23: 6574022096978545733
+      animated crow for the environment-idle2_24: 2196512413930536059
+      animated crow for the environment-idle2_3: -7000166164253145073
+      animated crow for the environment-idle2_4: 8823792068830535094
+      animated crow for the environment-idle2_5: 1346174061931883884
+      animated crow for the environment-idle2_6: -631522049032667692
+      animated crow for the environment-idle2_7: -6275791946926215940
+      animated crow for the environment-idle2_8: 5605187426600867850
+      animated crow for the environment-idle2_9: -804343552170569731
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
