@@ -14,9 +14,9 @@ GameObject:
   - component: {fileID: 4721092804346152400}
   - component: {fileID: 3510209821516273307}
   - component: {fileID: 9112759780768450214}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Enemy_Undead
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -33,7 +33,8 @@ Transform:
   m_LocalPosition: {x: 0, y: -4.55, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children: []
+  m_Children:
+  - {fileID: 1800623726448070855}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &49085839332241082
@@ -130,6 +131,14 @@ MonoBehaviour:
   detectionRange: 5
   attackRange: 1.5
   attackDamage: 10
+  patrolMoveDuration: 2
+  patrolStopDuration: 1
+  raycastLength: 1.5
+  attackCheck: {fileID: 1800623726448070855}
+  attackRadius: 0.5
+  playerLayer:
+    serializedVersion: 2
+    m_Bits: 128
 --- !u!50 &3510209821516273307
 Rigidbody2D:
   serializedVersion: 5
@@ -203,3 +212,34 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 0.42109323, y: 0.65995836}
   m_EdgeRadius: 0
+--- !u!1 &8460138076968214139
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1800623726448070855}
+  m_Layer: 8
+  m_Name: AttackCheck
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1800623726448070855
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8460138076968214139}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1657228904409529661}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}

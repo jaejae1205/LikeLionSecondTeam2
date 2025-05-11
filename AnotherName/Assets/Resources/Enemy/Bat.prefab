@@ -11,12 +11,12 @@ GameObject:
   - component: {fileID: 4365411625703675294}
   - component: {fileID: 3849305361140386470}
   - component: {fileID: 5671034404189643411}
-  - component: {fileID: 7812995254798868571}
   - component: {fileID: 8106152471686604255}
   - component: {fileID: 1717443031709348085}
-  m_Layer: 0
+  - component: {fileID: 7635758383362373536}
+  m_Layer: 8
   m_Name: Bat
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -33,7 +33,8 @@ Transform:
   m_LocalPosition: {x: -1.76, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children: []
+  m_Children:
+  - {fileID: 7863672783706524565}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &3849305361140386470
@@ -113,26 +114,6 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
---- !u!114 &7812995254798868571
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 365372316645385578}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 77ac184f1716fad4b8fc205a9f61d276, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  moveSpeed: 2
-  maxHp: 100
-  detectionRange: 5
-  attackRange: 1.5
-  attackDelay: 1
-  maxChaseDistance: 8
-  patrolRadius: 3
-  idleDuration: 2
 --- !u!50 &8106152471686604255
 Rigidbody2D:
   serializedVersion: 5
@@ -196,3 +177,59 @@ CircleCollider2D:
   m_CompositeOrder: 0
   m_Offset: {x: 0.00000035762787, y: 0.16607583}
   m_Radius: 0.24033749
+--- !u!114 &7635758383362373536
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 365372316645385578}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9856661e826b79940b416fa2d013ea5d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  maxHp: 30
+  moveSpeed: 2
+  detectionRange: 5
+  attackRange: 1.5
+  attackDamage: 10
+  patrolMoveDuration: 2
+  patrolStopDuration: 1
+  raycastLength: 1.5
+  attackCheck: {fileID: 7863672783706524565}
+  attackRadius: 0.5
+  playerLayer:
+    serializedVersion: 2
+    m_Bits: 128
+--- !u!1 &5148857539490775967
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7863672783706524565}
+  m_Layer: 8
+  m_Name: AttackCheck
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7863672783706524565
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5148857539490775967}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0.148, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4365411625703675294}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}

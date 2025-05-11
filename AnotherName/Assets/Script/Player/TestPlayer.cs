@@ -64,24 +64,16 @@ public class TestPlayer : MonoBehaviour
 
     private void Update()
     {
+        moveInput.x = Input.GetAxisRaw("Horizontal");
+        moveInput.y = Input.GetAxisRaw("Vertical");
+
+        bool isMoving = moveInput != Vector2.zero;
+        animator.SetBool("Move", isMoving);
+
         if (!isAttacking)
         {
-            moveInput.x = Input.GetAxisRaw("Horizontal");
-            moveInput.y = Input.GetAxisRaw("Vertical");
-
-            bool isMoving = moveInput != Vector2.zero;
-            animator.SetBool("Move", isMoving);
-
             if (moveInput.x != 0)
                 spriteRenderer.flipX = moveInput.x < 0;
-        }
-        else
-        {
-            // ✅ 공격 도중이라도 입력이 들어오면 Move true 유지
-            if (Input.GetAxisRaw("Horizontal") != 0 || Input.GetAxisRaw("Vertical") != 0)
-            {
-                animator.SetBool("Move", true);
-            }
         }
 
         if (Input.GetMouseButtonDown(0) && !isAttacking)
@@ -101,8 +93,11 @@ public class TestPlayer : MonoBehaviour
 
     private void FixedUpdate()
     {
-        Vector2 moveDelta = moveInput.normalized * moveSpeed * Time.fixedDeltaTime;
-        rb.MovePosition(rb.position + moveDelta);
+        if (!isAttacking)
+        {
+            Vector2 moveDelta = moveInput.normalized * moveSpeed * Time.fixedDeltaTime;
+            rb.MovePosition(rb.position + moveDelta);
+        }
     }
 
     private void StartAttack()
@@ -114,21 +109,23 @@ public class TestPlayer : MonoBehaviour
         AudioManager.Instance?.PlaySfx("testSfx");
     }
 
-    // 애니메이션 이벤트에서 호출됨
     public void DoAttack()
     {
         Collider2D[] enemies = Physics2D.OverlapCircleAll(attackCheck.position, attackRange, enemyLayer);
         foreach (Collider2D col in enemies)
         {
-            if (col.CompareTag("Enemy") && col.TryGetComponent(out Enemy enemy))
+            if (col.CompareTag("Enemy") && col.TryGetComponent(out EnemyController enemy))
             {
                 enemy.OnHit(attackPower);
                 Debug.Log($"[공격] Enemy {enemy.name} → {attackPower} 데미지");
             }
+            else
+            {
+                Debug.LogWarning($"[공격 실패] 대상 없음 또는 EnemyController 미포함: {col.name}");
+            }
         }
     }
 
-    // 애니메이션 마지막 프레임에서 호출 (이벤트)
     public void EndAttack()
     {
         Debug.Log("[EndAttack] 호출됨");
@@ -159,6 +156,8 @@ public class TestPlayer : MonoBehaviour
 
         if (collision.collider.CompareTag("Enemy"))
         {
+            if (isAttacking) return; // 공격 중일 때 넉백 제거
+
             isHit = true;
 
             TakeDamage(1);
