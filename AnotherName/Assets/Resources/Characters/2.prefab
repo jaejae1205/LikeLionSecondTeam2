@@ -201,6 +201,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   moveSpeed: 5
   maxHp: 100
+  attackPower: 10
+  attackCheck: {fileID: 0}
+  attackRange: 1
+  enemyLayer:
+    serializedVersion: 2
+    m_Bits: 256
   knockbackForce: 10
   hitFlashDuration: 0.1
 --- !u!114 &5253747707357347061

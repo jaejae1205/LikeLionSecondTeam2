@@ -19,15 +19,15 @@ MonoBehaviour:
   - portalId: ToStageA
     sceneName: VillageScene
     spawnPosition: {x: 16.342323, y: 0.100244045, z: -0.012276471}
-  - portalId: ToStageC
-    sceneName: VillageScene
-    spawnPosition: {x: -0.6876755, y: 7.080621, z: -6.974193}
   - portalId: ToStageB
     sceneName: VillageScene
     spawnPosition: {x: -0.6876755, y: -6.919379, z: 5.255807}
+  - portalId: ToStageC
+    sceneName: VillageScene
+    spawnPosition: {x: -0.6876755, y: 7.080621, z: -6.974193}
   - portalId: AToVillage
     sceneName: StageAScene
-    spawnPosition: {x: -10.21, y: -1.53, z: 0}
+    spawnPosition: {x: -8.85, y: -1.53, z: 0}
   - portalId: BToVillage
     sceneName: StageBScene
     spawnPosition: {x: 8.81, y: 0, z: 0}
