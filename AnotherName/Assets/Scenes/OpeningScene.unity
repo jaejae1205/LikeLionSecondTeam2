@@ -378,7 +378,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 43, y: -604.5571}
+  m_AnchoredPosition: {x: 0, y: -604.5571}
   m_SizeDelta: {x: 1877.2303, y: 59.1141}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1013218515
@@ -395,10 +395,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   storyText: {fileID: 1013218516}
   pressAnyKeyText: {fileID: 1868013221}
-  scrollSpeed: 100
-  fadeStartY: 300
-  fadeEndY: 600
-  endY: 700
+  scrollSpeed: 70
+  fadeStartY: 400
+  fadeEndY: 700
+  endY: 800
 --- !u!114 &1013218516
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -419,25 +419,33 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\uC778\uAC04\uC740 \uC2E0\uC5D0\uAC8C \uB354 \uAC00\uAE4C\uC6CC \uC9C0\uACE0
-    \uC2F6\uC5B4 \uD558\uB298 \uD0D1\uC744 \uAC74\uC124\uD55C\uB2E4.\r\n\uC774\uB97C
-    \uC9C0\uCF1C\uBCF4\uB358 \uCC9C\uC0AC\uB294 \uC790\uC2E0\uB4E4\uC758 \uC704\uCE58\uAC00
-    \uC704\uD0DC\uB85C\uC6B8\uAE4C \uB450\uB824\uC6CC\uC838 \uC778\uAC04\uC744 \uC2DC\uAE30\uD558\uB294
-    \uB9C8\uC74C\uC774 \uC2F9\uD2B8\uACE0 \n\uC774\uB294 \uACB0\uAD6D \uC2E0\uC5D0
-    \uB300\uD55C \uC6D0\uB9DD\uC73C\uB85C \uC774\uC5B4\uC9C4\uB2E4.\r\n\uACB0\uAD6D
-    \uCC9C\uC0AC\uB4E4\uC740 \uC2E0\uC5D0 \uB300\uD55C \uBC18\uC5ED\uC744 \uC77C\uC73C\uD0A4\uACE0
-    \uC2E0\uC758 \uAD8C\uB2A5\uC744 \uD0C8\uCDE8\uD558\uB294\uB370 \uC131\uACF5\uD55C\uB2E4.\r\n\r\n\uC2E0\uC740
-    \uB300\uBD80\uBD84\uC758 \uAD8C\uB2A5\uC744 \uCC9C\uC0AC\uB4E4\uC5D0\uAC8C \uBE7C\uC557\uAE30\uACE0
-    \uC18C\uBA78\uD558\uAE30\uC5D0 \uC774\uB978\uB2E4.\r\n\uB9C8\uC9C0\uB9C9 \uC18C\uBA78
-    \uC9C1\uC804 \uC2E0\uC740 \uC790\uC2E0\uC758 \uB0A8\uC740 \uAD8C\uB2A5\uC744
-    \uC778\uC138\uB85C \uC804\uD558\uB294\uB370 \uC131\uACF5\uD55C\uB2E4.\r\n\r\n\uC2E0\uC758
-    \uAD8C\uB2A5\uC744 \uCC2C\uD0C8\uD55C \uCC9C\uC0AC\uB4E4\uC740 \uC778\uC138\uB97C
-    \uD30C\uAD34\uD558\uACE0 \uD63C\uB780\uC744 \uC77C\uC73C\uD0A8\uB2E4.\r\n\uC778\uAC04\uB4E4\uC740
-    \uD798\uC744 \uBAA8\uC544 \uB300\uD56D\uD558\uC9C0\uB9CC \uACE0\uC804\uD558\uAC8C
-    \uB41C\uB2E4."
+  m_text: "\uD0DC\uCD08\uC5D0 \uD544\uBA78\uC758 \uC874\uC7AC\uB4E4\uC740 \uCC3D\uC870\uC8FC\uC774\uC2E0
+    \uC2E0\uAED8 \uB2FF\uACE0\uC790 \uD558\uB294 \uB9F9\uB82C\uD55C \uC5FC\uC6D0\uC744
+    \uD488\uACE0\n\uD558\uB298\uC5D0 \uB2FF\uC744 \uB9C8\uCC9C\uB8E8\uB97C \uCD95\uC870\uD558\uAE30
+    \uC2DC\uC791\uD558\uC600\uC73C\uB2C8.\n\r\n\n\uD558\uB298 \uC704 \uCC9C\uC0C1\uC758
+    \uC874\uC7AC\uB4E4\uC740 \uD558\uACC4\uC758 \uAD11\uACBD\uC744 \uC8FC\uC2DC\uD558\uBA70\n\uC778\uAC04\uC758
+    \uB05D\uC5C6\uB294 \uD0D0\uC695\uC774 \uC790\uC2E0\uB4E4\uC758 \uC131\uC2A4\uB7EC\uC6B4
+    \uC9C0\uC704\uB97C \uC704\uD611\uD560 \uAC83\uC744 \uB450\uB824\uC6CC\uD558\uC600\uB3C4\uB2E4.\n\uADF8
+    \uB450\uB824\uC6C0\uC740 \uC778\uAC04\uC744 \uD5A5\uD55C \uAE4A\uC740 \uC9C8\uD22C\uB85C
+    \uBCC0\uBAA8\uD558\uC600\uACE0, \uB9C8\uCE68\uB0B4 \uCC3D\uC870\uC8FC\uB97C \uD5A5\uD55C
+    \uBD88\uACBD\uD55C \uC6D0\uB9DD\uC73C\uB85C \uD0C0\uC62C\uB790\uB178\uB77C.\n\r\n\n\uADF8\uB9AC\uD558\uC5EC
+    \uCC9C\uC0AC\uB4E4\uC740 \uC2E0\uAED8 \uB300\uC5ED\uC758 \uCE7C\uB0A0\uC744 \uACA8\uB204\uC5B4,
+    \uADF8\uC758 \uC808\uB300\uC801\uC778 \uAD8C\uB2A5\uC744 \uCC2C\uD0C8\uD558\uB294
+    \uC5ED\uBAA8\uB97C \uC131\uACF5\uC2DC\uCF30\uC73C\uB2C8.\r\n\r\n\n\uAD8C\uB2A5\uC758
+    \uB300\uBD80\uBD84\uC744 \uBE7C\uC557\uAE34 \uC2E0\uAED8\uC11C\uB294 \uC18C\uBA78\uC5D0
+    \uC774\uB974\uAC8C \uB418\uC168\uB3C4\uB2E4.\n\uD5C8\uB098 \uCD5C\uD6C4\uC758
+    \uC21C\uAC04, \uC2E0\uAED8\uC11C\uB294 \uC790\uC2E0\uC758 \uBAA8\uB4E0 \uAC83\uC744
+    \uC3DF\uC544\uB0B4\uC5B4 \uC794\uC5EC \uAD8C\uB2A5\uC744 \uD544\uBA78\uC758 \uC778\uC138\uB85C
+    \uB0B4\uB824\uBCF4\uB0B4\uB294 \uB370 \n\uC131\uACF5\uD558\uC168\uB178\uB77C.\r\n\r\n\n\uC2E0\uC131\uD55C
+    \uD798\uC744 \uC190\uC5D0 \uB123\uC740 \uD0C0\uB77D\uD55C \uCC9C\uC0AC\uB4E4\uC740
+    \uC774\uC81C \uC778\uAC04 \uC138\uC0C1\uC744 \uD30C\uBA78\uB85C \uBAB0\uC544\uB123\uACE0
+    \uB05D\uC5C6\uB294 \uD63C\uB3C8\uC744 \uC57C\uAE30\uD558\uC600\uC73C\uBA70, \uC778\uAC04\uB4E4\uC740
+    \uBAA8\uB4E0 \uD798\uC744 \uBAA8\uC544 \uC800\uD56D\uD558\uC600\uC73C\uB098 \uCC9C\uC0AC\uB4E4\uC758
+    \uD3ED\uC815 \uC544\uB798 \uC808\uB9DD\uC801\uC778 \uACE0\uC804\uC744 \uBA74\uCE58
+    \uBABB\uD558\uC600\uC73C\uB2C8..."
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 0a765968265787c4da531941b10cca89, type: 2}
-  m_sharedMaterial: {fileID: 448977842563772911, guid: 0a765968265787c4da531941b10cca89, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: c4c3f419b5eb19c44a6e1be3ab1cd83e, type: 2}
+  m_sharedMaterial: {fileID: 354322473384179704, guid: c4c3f419b5eb19c44a6e1be3ab1cd83e, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -461,8 +469,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 32
-  m_fontSizeBase: 32
+  m_fontSize: 40
+  m_fontSizeBase: 40
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -471,9 +479,9 @@ MonoBehaviour:
   m_HorizontalAlignment: 2
   m_VerticalAlignment: 256
   m_textAlignment: 65535
-  m_characterSpacing: 0
+  m_characterSpacing: 8
   m_wordSpacing: 0
-  m_lineSpacing: 0
+  m_lineSpacing: -1.5
   m_lineSpacingMax: 0
   m_paragraphSpacing: 0
   m_charWidthMaxAdj: 0
@@ -715,8 +723,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 41, y: -435}
-  m_SizeDelta: {x: 272.6937, y: 51.1724}
+  m_AnchoredPosition: {x: 0, y: -435}
+  m_SizeDelta: {x: 400, y: 55}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1868013223
 MonoBehaviour:
@@ -754,8 +762,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Press Any Key
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: c229a0c54c19a69438e9aed80f07911f, type: 2}
+  m_sharedMaterial: {fileID: -298386219041889600, guid: c229a0c54c19a69438e9aed80f07911f, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -779,8 +787,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 36
-  m_fontSizeBase: 36
+  m_fontSize: 45
+  m_fontSizeBase: 45
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18

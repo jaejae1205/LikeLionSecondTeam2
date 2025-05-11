@@ -180,6 +180,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -548,7 +561,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bat2-atk animation_0: -594644973151607414
+      Bat2-atk animation_1: -7994963185563935545
+      Bat2-atk animation_10: -1108194291622132556
+      Bat2-atk animation_11: -7338183475122649420
+      Bat2-atk animation_12: -789741294641112546
+      Bat2-atk animation_13: 7443770989129542021
+      Bat2-atk animation_14: -2010417827122609574
+      Bat2-atk animation_15: -2124125089039698796
+      Bat2-atk animation_2: 4331050993150296443
+      Bat2-atk animation_3: -2078172420785606609
+      Bat2-atk animation_4: 6304622246250699355
+      Bat2-atk animation_5: 9166284009953704615
+      Bat2-atk animation_6: -9094249367413367699
+      Bat2-atk animation_7: 574738391917185762
+      Bat2-atk animation_8: -5009396994736962061
+      Bat2-atk animation_9: 7272937423537198325
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
