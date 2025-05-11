@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:AnotherName/Assets/Animation/Sprites/Sky/FromTheSky.png.meta
 guid: ef0957968034e6149a1d750513cb522b
+========
+guid: 7323a5968cbc55248b7a677cc5d8047b
+>>>>>>>> branch_puc:AnotherName/Assets/Images/Boss/3. 세라피엘/Agis Full/Agis Full/attack2.png.meta
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -2555,6 +2559,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
+<<<<<<<< HEAD:AnotherName/Assets/Animation/Sprites/Sky/FromTheSky.png.meta
       FromTheSky_0: 5910385640235780665
       FromTheSky_1: -3524667201595564117
       FromTheSky_10: -4687288047748953695
@@ -2651,7 +2656,7 @@ TextureImporter:
       FromTheSky_93: -5337840124828828974
       FromTheSky_94: 8136992084614438730
       FromTheSky_95: 6388281086097176291
-
+========
       attack2_0: 8960278200517875464
       attack2_1: -2465810860969379800
       attack2_10: 7349703736009592938
@@ -2754,6 +2759,7 @@ TextureImporter:
       attack2_97: 5298304562965851114
       attack2_98: -6534157286844040383
       attack2_99: 4068293316560302668
+>>>>>>>> branch_puc:AnotherName/Assets/Images/Boss/3. 세라피엘/Agis Full/Agis Full/attack2.png.meta
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

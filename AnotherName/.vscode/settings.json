@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "AnotherName.sln"
+    "dotnet.defaultSolution": "2Team_UngChang.sln"
 }
