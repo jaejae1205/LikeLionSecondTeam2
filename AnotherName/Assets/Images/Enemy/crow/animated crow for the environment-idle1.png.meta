@@ -177,6 +177,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -523,7 +536,22 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      animated crow for the environment-idle1_0: 3121361336298254373
+      animated crow for the environment-idle1_1: -2086926636034183030
+      animated crow for the environment-idle1_10: 4061733143423848255
+      animated crow for the environment-idle1_11: 3995430998159831730
+      animated crow for the environment-idle1_12: -659714143374873811
+      animated crow for the environment-idle1_13: -6143094282546463616
+      animated crow for the environment-idle1_14: 4749640355579095931
+      animated crow for the environment-idle1_2: -3673421423109843800
+      animated crow for the environment-idle1_3: 7631149124165460301
+      animated crow for the environment-idle1_4: -5063190087569619252
+      animated crow for the environment-idle1_5: 2352387800125829989
+      animated crow for the environment-idle1_6: 4574438260451076662
+      animated crow for the environment-idle1_7: -4082226532408189379
+      animated crow for the environment-idle1_8: -6911994907146150190
+      animated crow for the environment-idle1_9: 3104188543662239240
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

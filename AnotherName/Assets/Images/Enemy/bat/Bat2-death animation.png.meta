@@ -174,6 +174,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -498,7 +511,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bat2-death animation_0: -990656549202896079
+      Bat2-death animation_1: -469201930426176103
+      Bat2-death animation_10: -5072336182638799893
+      Bat2-death animation_11: 2884135868102728277
+      Bat2-death animation_12: -8280460883564018688
+      Bat2-death animation_13: -7070476492498437863
+      Bat2-death animation_2: 8352013858633551395
+      Bat2-death animation_3: -3206208572977319726
+      Bat2-death animation_4: 3048222922328200680
+      Bat2-death animation_5: -6768016729495366756
+      Bat2-death animation_6: -6376177151530409882
+      Bat2-death animation_7: 6978524213596172780
+      Bat2-death animation_8: -8063447667014222062
+      Bat2-death animation_9: 3069777677110091583
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
