@@ -11,17 +11,25 @@ public class TestPlayer : MonoBehaviour
     private Rigidbody2D rb;
     private SpriteRenderer spriteRenderer;
 
-    [Header("이동 속도")]
+    [Header("이동 설정")]
     public float moveSpeed = 5f;
 
-    [Header("플레이어 체력")]
+    [Header("체력 설정")]
     public int maxHp = 100;
     private int currentHp;
 
+    [Header("공격력")]
+    public int attackPower = 10;
+
     private Vector2 moveInput;
     private bool isAttacking = false;
-
     private bool isHit = false;
+
+    [Header("공격 판정")]
+    public Transform attackCheck;
+    public float attackRange = 1.0f;
+    public LayerMask enemyLayer;
+
     public float knockbackForce = 5f;
     public float hitFlashDuration = 0.1f;
     private Coroutine flashCoroutine;
@@ -69,7 +77,11 @@ public class TestPlayer : MonoBehaviour
         }
         else
         {
-            moveInput = Vector2.zero;
+            // ✅ 공격 도중이라도 입력이 들어오면 Move true 유지
+            if (Input.GetAxisRaw("Horizontal") != 0 || Input.GetAxisRaw("Vertical") != 0)
+            {
+                animator.SetBool("Move", true);
+            }
         }
 
         if (Input.GetMouseButtonDown(0) && !isAttacking)
@@ -95,25 +107,39 @@ public class TestPlayer : MonoBehaviour
 
     private void StartAttack()
     {
+        if (isAttacking) return;
+
         isAttacking = true;
-        animator.SetBool("Attack", true);
+        animator.SetBool("IsAttacking", true);
         AudioManager.Instance?.PlaySfx("testSfx");
     }
 
-    private void EndAttack()
+    // 애니메이션 이벤트에서 호출됨
+    public void DoAttack()
     {
-        animator.SetBool("Attack", false);
+        Collider2D[] enemies = Physics2D.OverlapCircleAll(attackCheck.position, attackRange, enemyLayer);
+        foreach (Collider2D col in enemies)
+        {
+            if (col.CompareTag("Enemy") && col.TryGetComponent(out Enemy enemy))
+            {
+                enemy.OnHit(attackPower);
+                Debug.Log($"[공격] Enemy {enemy.name} → {attackPower} 데미지");
+            }
+        }
+    }
+
+    // 애니메이션 마지막 프레임에서 호출 (이벤트)
+    public void EndAttack()
+    {
+        Debug.Log("[EndAttack] 호출됨");
         isAttacking = false;
+        animator.SetBool("IsAttacking", false);
     }
 
     public void TakeDamage(int damage)
     {
-        Debug.Log($"[TakeDamage] 받은 데미지: {damage}, 이전 체력: {currentHp}, 최대 체력: {maxHp}");
-
         currentHp -= damage;
         currentHp = Mathf.Clamp(currentHp, 0, maxHp);
-
-        Debug.Log($"[TakeDamage] 현재 체력: {currentHp}");
         InGameUIManager.Instance?.UpdateHpUI(currentHp, maxHp);
 
         if (currentHp <= 0)
@@ -124,7 +150,7 @@ public class TestPlayer : MonoBehaviour
 
     private void Die()
     {
-        Debug.Log("[Player] 사망 처리 로직 호출됨");
+        Debug.Log("[Player] 사망 처리");
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
@@ -135,8 +161,7 @@ public class TestPlayer : MonoBehaviour
         {
             isHit = true;
 
-            int damage = 1; // MonsterTest가 제거되어 기본 데미지 설정
-            TakeDamage(damage);
+            TakeDamage(1);
 
             Vector2 hitDir = (transform.position - collision.transform.position).normalized;
             rb.AddForce(hitDir * knockbackForce, ForceMode2D.Impulse);
@@ -155,7 +180,6 @@ public class TestPlayer : MonoBehaviour
         spriteRenderer.color = fadedWhite;
 
         yield return new WaitForSeconds(hitFlashDuration);
-
         spriteRenderer.color = originalColor;
     }
 
@@ -166,4 +190,12 @@ public class TestPlayer : MonoBehaviour
 
     public int GetCurrentHp() => currentHp;
     public int GetMaxHp() => maxHp;
+
+    private void OnDrawGizmosSelected()
+    {
+        if (attackCheck == null) return;
+
+        Gizmos.color = Color.red;
+        Gizmos.DrawWireSphere(attackCheck.position, attackRange);
+    }
 }
