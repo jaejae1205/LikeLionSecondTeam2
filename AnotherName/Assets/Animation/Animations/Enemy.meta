@@ -1,5 +1,13 @@
 fileFormatVersion: 2
-guid: f4409eef222b6ee49a2fb7ec89027a91
+<<<<<<<< HEAD:AnotherName/Assets/Prefabs/Characters/Playable.meta
+<<<<<<<< HEAD:AnotherName/Assets/Prefabs/Characters/Playable.meta
+guid: 3fe4eeb60b6751842ac46c1db325cfcb
+========
+guid: 6b89ea2a450afa34c9e66396b34d3ce7
+>>>>>>>> main:AnotherName/Assets/Images/Boss/2. 라지엘.meta
+========
+guid: 558ae9bfde892fe4ba5684f8c04f457a
+>>>>>>>> branch_puc:AnotherName/Assets/Animation/Animations/Enemy.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 71a768a49469b7a48b5e43fb34142d19
+guid: b50cfb7d1d376c145bc8d053768f8363
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -102,7 +102,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
-    buildTarget: iOS
+    buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -116,19 +116,6 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
     buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -336,14 +323,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      Bat-walk to atk instance transition animation_0: -262754878433623638
-      Bat-walk to atk instance transition animation_1: 9127342628054851213
-      Bat-walk to atk instance transition animation_2: -1854451933791499008
-      Bat-walk to atk instance transition animation_3: 2649535031081668695
-      Bat-walk to atk instance transition animation_4: -9180489049026130075
-      Bat-walk to atk instance transition animation_5: 2263731907343307410
-      Bat-walk to atk instance transition animation_6: -7637658585906047532
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

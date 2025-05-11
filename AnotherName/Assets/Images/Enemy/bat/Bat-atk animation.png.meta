@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 3dd9c65d896ef67499c98f42c5140d2a
+guid: df642dcf6198205408321b9b05dae18f
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -82,7 +82,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -96,7 +96,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 50
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -129,7 +129,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
-    buildTarget: iOS
+    buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -143,19 +143,6 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
     buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -200,10 +187,10 @@ TextureImporter:
       name: Bat-atk animation_0
       rect:
         serializedVersion: 2
-        x: 19
-        y: 37
-        width: 37
-        height: 32
+        x: 0
+        y: 0
+        width: 96
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -222,10 +209,10 @@ TextureImporter:
       name: Bat-atk animation_1
       rect:
         serializedVersion: 2
-        x: 119
-        y: 41
-        width: 32
-        height: 31
+        x: 96
+        y: 0
+        width: 96
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -244,10 +231,10 @@ TextureImporter:
       name: Bat-atk animation_2
       rect:
         serializedVersion: 2
-        x: 215
-        y: 44
-        width: 32
-        height: 31
+        x: 192
+        y: 0
+        width: 96
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -266,10 +253,10 @@ TextureImporter:
       name: Bat-atk animation_3
       rect:
         serializedVersion: 2
-        x: 310
-        y: 45
-        width: 34
-        height: 30
+        x: 288
+        y: 0
+        width: 96
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -288,10 +275,10 @@ TextureImporter:
       name: Bat-atk animation_4
       rect:
         serializedVersion: 2
-        x: 405
-        y: 44
-        width: 36
-        height: 31
+        x: 384
+        y: 0
+        width: 96
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -310,10 +297,10 @@ TextureImporter:
       name: Bat-atk animation_5
       rect:
         serializedVersion: 2
-        x: 513
-        y: 41
-        width: 35
-        height: 30
+        x: 480
+        y: 0
+        width: 96
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -332,10 +319,10 @@ TextureImporter:
       name: Bat-atk animation_6
       rect:
         serializedVersion: 2
-        x: 612
-        y: 40
-        width: 35
-        height: 29
+        x: 576
+        y: 0
+        width: 96
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -354,10 +341,10 @@ TextureImporter:
       name: Bat-atk animation_7
       rect:
         serializedVersion: 2
-        x: 708
-        y: 35
-        width: 41
-        height: 32
+        x: 672
+        y: 0
+        width: 96
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -376,10 +363,10 @@ TextureImporter:
       name: Bat-atk animation_8
       rect:
         serializedVersion: 2
-        x: 803
-        y: 36
-        width: 29
-        height: 29
+        x: 768
+        y: 0
+        width: 96
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -398,10 +385,10 @@ TextureImporter:
       name: Bat-atk animation_9
       rect:
         serializedVersion: 2
-        x: 897
-        y: 39
-        width: 28
-        height: 29
+        x: 864
+        y: 0
+        width: 96
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -420,10 +407,10 @@ TextureImporter:
       name: Bat-atk animation_10
       rect:
         serializedVersion: 2
-        x: 921
-        y: 35
-        width: 10
-        height: 19
+        x: 960
+        y: 0
+        width: 96
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -442,10 +429,10 @@ TextureImporter:
       name: Bat-atk animation_11
       rect:
         serializedVersion: 2
-        x: 991
-        y: 36
-        width: 38
-        height: 33
+        x: 1056
+        y: 0
+        width: 96
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -464,10 +451,10 @@ TextureImporter:
       name: Bat-atk animation_12
       rect:
         serializedVersion: 2
-        x: 1081
-        y: 41
-        width: 33
-        height: 30
+        x: 1152
+        y: 0
+        width: 96
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -486,10 +473,10 @@ TextureImporter:
       name: Bat-atk animation_13
       rect:
         serializedVersion: 2
-        x: 1176
-        y: 43
-        width: 33
-        height: 29
+        x: 1248
+        y: 0
+        width: 96
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -508,10 +495,10 @@ TextureImporter:
       name: Bat-atk animation_14
       rect:
         serializedVersion: 2
-        x: 1269
-        y: 44
-        width: 37
-        height: 29
+        x: 1344
+        y: 0
+        width: 96
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -526,33 +513,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: Bat-atk animation_15
-      rect:
-        serializedVersion: 2
-        x: 1364
-        y: 46
-        width: 38
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fb32dfb9756642b00800000000000000
-      internalID: 802879160044037055
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: d624428a02283ba45a6b2d7443a0711f
     internalID: 0
     vertices: []
     indices: 
@@ -569,7 +534,6 @@ TextureImporter:
       Bat-atk animation_12: 5080383876779760341
       Bat-atk animation_13: 69965766275115895
       Bat-atk animation_14: -3166561794512971886
-      Bat-atk animation_15: 802879160044037055
       Bat-atk animation_2: 3577494845193589378
       Bat-atk animation_3: 7288256575122777352
       Bat-atk animation_4: -1537049961895802036

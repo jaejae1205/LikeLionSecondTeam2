@@ -1,0 +1,1329 @@
+fileFormatVersion: 2
+guid: d67091e6d9727e14cae74dce1d733784
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4627904183289076223
+    second: Swallowed By Fire Effect_0
+  - first:
+      213: -809574415270986116
+    second: Swallowed By Fire Effect_1
+  - first:
+      213: 3232567393690491770
+    second: Swallowed By Fire Effect_2
+  - first:
+      213: 6088822097051262816
+    second: Swallowed By Fire Effect_3
+  - first:
+      213: -6803878597362945790
+    second: Swallowed By Fire Effect_4
+  - first:
+      213: 7759563655321635341
+    second: Swallowed By Fire Effect_5
+  - first:
+      213: -8627004702160735691
+    second: Swallowed By Fire Effect_6
+  - first:
+      213: -1793371489033817747
+    second: Swallowed By Fire Effect_7
+  - first:
+      213: 5098935262404053019
+    second: Swallowed By Fire Effect_8
+  - first:
+      213: -649516806845151505
+    second: Swallowed By Fire Effect_9
+  - first:
+      213: -6247037937036883458
+    second: Swallowed By Fire Effect_10
+  - first:
+      213: -4442540724702254784
+    second: Swallowed By Fire Effect_11
+  - first:
+      213: -3484254085981681240
+    second: Swallowed By Fire Effect_12
+  - first:
+      213: 1182166913344827361
+    second: Swallowed By Fire Effect_13
+  - first:
+      213: -1755845505995080628
+    second: Swallowed By Fire Effect_14
+  - first:
+      213: 6880517294372921038
+    second: Swallowed By Fire Effect_15
+  - first:
+      213: 2118386308928926794
+    second: Swallowed By Fire Effect_16
+  - first:
+      213: -4013101922955747160
+    second: Swallowed By Fire Effect_17
+  - first:
+      213: 523640886098295219
+    second: Swallowed By Fire Effect_18
+  - first:
+      213: -8276222454049238911
+    second: Swallowed By Fire Effect_19
+  - first:
+      213: 3255236706136620404
+    second: Swallowed By Fire Effect_20
+  - first:
+      213: 898908046035579715
+    second: Swallowed By Fire Effect_21
+  - first:
+      213: 751986871782598721
+    second: Swallowed By Fire Effect_22
+  - first:
+      213: 4119036285990525576
+    second: Swallowed By Fire Effect_23
+  - first:
+      213: -6428755780150598570
+    second: Swallowed By Fire Effect_24
+  - first:
+      213: -6873942629167276643
+    second: Swallowed By Fire Effect_25
+  - first:
+      213: -8017093388763515960
+    second: Swallowed By Fire Effect_26
+  - first:
+      213: -3783126492185143763
+    second: Swallowed By Fire Effect_27
+  - first:
+      213: 2378404152388172099
+    second: Swallowed By Fire Effect_28
+  - first:
+      213: 4393119820197432863
+    second: Swallowed By Fire Effect_29
+  - first:
+      213: 4802735044219010032
+    second: Swallowed By Fire Effect_30
+  - first:
+      213: -1801814962254725670
+    second: Swallowed By Fire Effect_31
+  - first:
+      213: -3075050515674077604
+    second: Swallowed By Fire Effect_32
+  - first:
+      213: -463694325637627318
+    second: Swallowed By Fire Effect_33
+  - first:
+      213: 8077572437773813417
+    second: Swallowed By Fire Effect_34
+  - first:
+      213: -4726494596015408608
+    second: Swallowed By Fire Effect_35
+  - first:
+      213: -7508753186866405003
+    second: Swallowed By Fire Effect_36
+  - first:
+      213: 5455407577200747389
+    second: Swallowed By Fire Effect_37
+  - first:
+      213: -5299415761333587249
+    second: Swallowed By Fire Effect_38
+  - first:
+      213: -7565929561804505998
+    second: Swallowed By Fire Effect_39
+  - first:
+      213: 8921337956790818710
+    second: Swallowed By Fire Effect_40
+  - first:
+      213: -5179822307193177084
+    second: Swallowed By Fire Effect_41
+  - first:
+      213: 7185872334624882439
+    second: Swallowed By Fire Effect_42
+  - first:
+      213: 622710263692315978
+    second: Swallowed By Fire Effect_43
+  - first:
+      213: -1963811652466213540
+    second: Swallowed By Fire Effect_44
+  - first:
+      213: 739005510071113262
+    second: Swallowed By Fire Effect_45
+  - first:
+      213: 2764048999281033702
+    second: Swallowed By Fire Effect_46
+  - first:
+      213: 2218666791987880452
+    second: Swallowed By Fire Effect_47
+  - first:
+      213: -8317088051670563537
+    second: Swallowed By Fire Effect_48
+  - first:
+      213: 2168512038137031387
+    second: Swallowed By Fire Effect_49
+  - first:
+      213: 7341679604707347143
+    second: Swallowed By Fire Effect_50
+  - first:
+      213: 733389009450404900
+    second: Swallowed By Fire Effect_51
+  - first:
+      213: 3554592827409597401
+    second: Swallowed By Fire Effect_52
+  - first:
+      213: -4176295135977548820
+    second: Swallowed By Fire Effect_53
+  - first:
+      213: -3630436405122178958
+    second: Swallowed By Fire Effect_54
+  - first:
+      213: -6167836688117253335
+    second: Swallowed By Fire Effect_55
+  - first:
+      213: -1070443403298648821
+    second: Swallowed By Fire Effect_56
+  - first:
+      213: -217683260966574267
+    second: Swallowed By Fire Effect_57
+  - first:
+      213: 7314750320578191586
+    second: Swallowed By Fire Effect_58
+  - first:
+      213: -1087723443536095592
+    second: Swallowed By Fire Effect_59
+  - first:
+      213: 7615992673382927676
+    second: Swallowed By Fire Effect_60
+  - first:
+      213: 143856912516808741
+    second: Swallowed By Fire Effect_61
+  - first:
+      213: 7316665431425648638
+    second: Swallowed By Fire Effect_62
+  - first:
+      213: 7059634177476906616
+    second: Swallowed By Fire Effect_63
+  - first:
+      213: 6470262607919790244
+    second: Swallowed By Fire Effect_64
+  - first:
+      213: 5311426939427477323
+    second: Swallowed By Fire Effect_65
+  - first:
+      213: 1115012329380755060
+    second: Swallowed By Fire Effect_66
+  - first:
+      213: -6507254207367010713
+    second: Swallowed By Fire Effect_67
+  - first:
+      213: 3256777246116255359
+    second: Swallowed By Fire Effect_68
+  - first:
+      213: 3276369773652505453
+    second: Swallowed By Fire Effect_69
+  - first:
+      213: -749359331498103586
+    second: Swallowed By Fire Effect_70
+  - first:
+      213: 4189484184741551930
+    second: Swallowed By Fire Effect_71
+  - first:
+      213: 1015386484903243796
+    second: Swallowed By Fire Effect_72
+  - first:
+      213: 8095595794681881425
+    second: Swallowed By Fire Effect_73
+  - first:
+      213: 582452269995882960
+    second: Swallowed By Fire Effect_74
+  - first:
+      213: 6156704003060847142
+    second: Swallowed By Fire Effect_75
+  - first:
+      213: 6152549716183543257
+    second: Swallowed By Fire Effect_76
+  - first:
+      213: 325185065586298446
+    second: Swallowed By Fire Effect_77
+  - first:
+      213: -3094321716657294908
+    second: Swallowed By Fire Effect_78
+  - first:
+      213: -1715869873674266218
+    second: Swallowed By Fire Effect_79
+  - first:
+      213: -8115377229269532964
+    second: Swallowed By Fire Effect_80
+  - first:
+      213: -5383885070270014371
+    second: Swallowed By Fire Effect_81
+  - first:
+      213: -6905016723995061358
+    second: Swallowed By Fire Effect_82
+  - first:
+      213: -4872670893717833101
+    second: Swallowed By Fire Effect_83
+  - first:
+      213: -2925125353633291186
+    second: Swallowed By Fire Effect_84
+  - first:
+      213: -6619269253042090861
+    second: Swallowed By Fire Effect_85
+  - first:
+      213: -4359057701495985109
+    second: Swallowed By Fire Effect_86
+  - first:
+      213: 4388199847810675462
+    second: Swallowed By Fire Effect_87
+  - first:
+      213: 8056143572685861182
+    second: Swallowed By Fire Effect_88
+  - first:
+      213: -7352920817315742297
+    second: Swallowed By Fire Effect_89
+  - first:
+      213: 2134769525749705276
+    second: Swallowed By Fire Effect_90
+  - first:
+      213: -192264189253613574
+    second: Swallowed By Fire Effect_91
+  - first:
+      213: -2295812372307328838
+    second: Swallowed By Fire Effect_92
+  - first:
+      213: -6023343775348886297
+    second: Swallowed By Fire Effect_93
+  - first:
+      213: -4190436527433642803
+    second: Swallowed By Fire Effect_94
+  - first:
+      213: 1722012224628369478
+    second: Swallowed By Fire Effect_95
+  - first:
+      213: 8787033359358088278
+    second: Swallowed By Fire Effect_96
+  - first:
+      213: -8153799302379612850
+    second: Swallowed By Fire Effect_97
+  - first:
+      213: 4950614670171590362
+    second: Swallowed By Fire Effect_98
+  - first:
+      213: -2658951575763978371
+    second: Swallowed By Fire Effect_99
+  - first:
+      213: 6357643521455399131
+    second: Swallowed By Fire Effect_100
+  - first:
+      213: 2018626696070784023
+    second: Swallowed By Fire Effect_101
+  - first:
+      213: 3017259996008315375
+    second: Swallowed By Fire Effect_102
+  - first:
+      213: -299219067856471015
+    second: Swallowed By Fire Effect_103
+  - first:
+      213: -8812671059419038091
+    second: Swallowed By Fire Effect_104
+  - first:
+      213: 7980879636982393423
+    second: Swallowed By Fire Effect_105
+  - first:
+      213: 6182853952860700579
+    second: Swallowed By Fire Effect_106
+  - first:
+      213: 5921000646712032643
+    second: Swallowed By Fire Effect_107
+  - first:
+      213: -3462640162555596280
+    second: Swallowed By Fire Effect_108
+  - first:
+      213: -2379308866759630190
+    second: Swallowed By Fire Effect_109
+  - first:
+      213: 2389719563160462169
+    second: Swallowed By Fire Effect_110
+  - first:
+      213: -3150411080078571
+    second: Swallowed By Fire Effect_111
+  - first:
+      213: -5716310816959949046
+    second: Swallowed By Fire Effect_112
+  - first:
+      213: 7028987122603979884
+    second: Swallowed By Fire Effect_113
+  - first:
+      213: -7950015573870214397
+    second: Swallowed By Fire Effect_114
+  - first:
+      213: -3185360366362664527
+    second: Swallowed By Fire Effect_115
+  - first:
+      213: 7080108146090092899
+    second: Swallowed By Fire Effect_116
+  - first:
+      213: 41720349521470048
+    second: Swallowed By Fire Effect_117
+  - first:
+      213: -2539121272835549169
+    second: Swallowed By Fire Effect_118
+  - first:
+      213: 5151631722602226337
+    second: Swallowed By Fire Effect_119
+  - first:
+      213: -3455488778265048541
+    second: Swallowed By Fire Effect_120
+  - first:
+      213: -200664704685740710
+    second: Swallowed By Fire Effect_121
+  - first:
+      213: 4103981990931684832
+    second: Swallowed By Fire Effect_122
+  - first:
+      213: -6032979018754646066
+    second: Swallowed By Fire Effect_123
+  - first:
+      213: 1428246612967524326
+    second: Swallowed By Fire Effect_124
+  - first:
+      213: -8044644270119308674
+    second: Swallowed By Fire Effect_125
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Swallowed By Fire Effect_0
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 47
+        width: 145
+        height: 47
+      alignment: 9
+      pivot: {x: 0.28, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff95d73c55e993040800000000000000
+      internalID: 4627904183289076223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swallowed By Fire Effect_1
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 47
+        width: 145
+        height: 47
+      alignment: 9
+      pivot: {x: 0.28, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e378ecb50d3c4f0800000000000000
+      internalID: -809574415270986116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swallowed By Fire Effect_2
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 47
+        width: 145
+        height: 47
+      alignment: 9
+      pivot: {x: 0.28, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b9e6deae26cdc20800000000000000
+      internalID: 3232567393690491770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swallowed By Fire Effect_3
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 47
+        width: 145
+        height: 47
+      alignment: 9
+      pivot: {x: 0.28, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f1a43ff67df7450800000000000000
+      internalID: 6088822097051262816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swallowed By Fire Effect_4
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 47
+        width: 145
+        height: 47
+      alignment: 9
+      pivot: {x: 0.28, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2017c45d674c391a0800000000000000
+      internalID: -6803878597362945790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swallowed By Fire Effect_5
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 47
+        width: 145
+        height: 47
+      alignment: 9
+      pivot: {x: 0.28, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a4a7758028fab60800000000000000
+      internalID: 7759563655321635341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swallowed By Fire Effect_6
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 47
+        width: 145
+        height: 47
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532b5146ee8b64880800000000000000
+      internalID: -8627004702160735691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swallowed By Fire Effect_7
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 47
+        width: 145
+        height: 47
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6173d5e12aac17e0800000000000000
+      internalID: -1793371489033817747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swallowed By Fire Effect_8
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 47
+        width: 145
+        height: 47
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b188e481b9e03c640800000000000000
+      internalID: 5098935262404053019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swallowed By Fire Effect_9
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 47
+        width: 145
+        height: 47
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe6495cc7e37cf6f0800000000000000
+      internalID: -649516806845151505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swallowed By Fire Effect_10
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 47
+        width: 145
+        height: 47
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9078038101e49a0800000000000000
+      internalID: -6247037937036883458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swallowed By Fire Effect_11
+      rect:
+        serializedVersion: 2
+        x: 2175
+        y: 47
+        width: 145
+        height: 47
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0496aeb9fbce852c0800000000000000
+      internalID: -4442540724702254784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swallowed By Fire Effect_12
+      rect:
+        serializedVersion: 2
+        x: 2320
+        y: 47
+        width: 145
+        height: 47
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9cbd18e5175afc0800000000000000
+      internalID: -3484254085981681240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swallowed By Fire Effect_13
+      rect:
+        serializedVersion: 2
+        x: 2465
+        y: 47
+        width: 145
+        height: 47
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef63275b86e76010800000000000000
+      internalID: 1182166913344827361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swallowed By Fire Effect_14
+      rect:
+        serializedVersion: 2
+        x: 2610
+        y: 47
+        width: 145
+        height: 47
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c72bea0dbf1a7e0800000000000000
+      internalID: -1755845505995080628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swallowed By Fire Effect_15
+      rect:
+        serializedVersion: 2
+        x: 3480
+        y: 47
+        width: 145
+        height: 47
+      alignment: 9
+      pivot: {x: 0.2, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece970256028c7f50800000000000000
+      internalID: 6880517294372921038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swallowed By Fire Effect_16
+      rect:
+        serializedVersion: 2
+        x: 3625
+        y: 47
+        width: 145
+        height: 47
+      alignment: 9
+      pivot: {x: 0.2, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4472c0df15066d10800000000000000
+      internalID: 2118386308928926794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swallowed By Fire Effect_17
+      rect:
+        serializedVersion: 2
+        x: 3770
+        y: 47
+        width: 145
+        height: 47
+      alignment: 9
+      pivot: {x: 0.2, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a029ca30199e48c0800000000000000
+      internalID: -4013101922955747160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swallowed By Fire Effect_18
+      rect:
+        serializedVersion: 2
+        x: 3915
+        y: 47
+        width: 145
+        height: 47
+      alignment: 9
+      pivot: {x: 0.2, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b972cd8c98544700800000000000000
+      internalID: 523640886098295219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swallowed By Fire Effect_19
+      rect:
+        serializedVersion: 2
+        x: 4060
+        y: 47
+        width: 145
+        height: 47
+      alignment: 9
+      pivot: {x: 0.2, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18098400783f42d80800000000000000
+      internalID: -8276222454049238911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swallowed By Fire Effect_20
+      rect:
+        serializedVersion: 2
+        x: 4204
+        y: 47
+        width: 145
+        height: 47
+      alignment: 9
+      pivot: {x: 0.2, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47df519898cec2d20800000000000000
+      internalID: 3255236706136620404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swallowed By Fire Effect_21
+      rect:
+        serializedVersion: 2
+        x: 4349
+        y: 47
+        width: 145
+        height: 47
+      alignment: 9
+      pivot: {x: 0.2, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 343f0b1fa10997c00800000000000000
+      internalID: 898908046035579715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swallowed By Fire Effect_22
+      rect:
+        serializedVersion: 2
+        x: 4495
+        y: 47
+        width: 145
+        height: 47
+      alignment: 9
+      pivot: {x: 0.2, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148eb5063189f6a00800000000000000
+      internalID: 751986871782598721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swallowed By Fire Effect_23
+      rect:
+        serializedVersion: 2
+        x: 4640
+        y: 47
+        width: 145
+        height: 47
+      alignment: 9
+      pivot: {x: 0.2, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ad863bda1c92930800000000000000
+      internalID: 4119036285990525576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swallowed By Fire Effect_24
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 0
+        width: 145
+        height: 47
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6546260dda878c6a0800000000000000
+      internalID: -6428755780150598570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swallowed By Fire Effect_25
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 0
+        width: 145
+        height: 47
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9dd1163999da90a0800000000000000
+      internalID: -6873942629167276643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swallowed By Fire Effect_26
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 0
+        width: 145
+        height: 47
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c33e9f0a009db090800000000000000
+      internalID: -8017093388763515960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swallowed By Fire Effect_27
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 0
+        width: 145
+        height: 47
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d265feccf72af7bc0800000000000000
+      internalID: -3783126492185143763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swallowed By Fire Effect_28
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 0
+        width: 145
+        height: 47
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 349396ba9f9c10120800000000000000
+      internalID: 2378404152388172099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swallowed By Fire Effect_29
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 0
+        width: 145
+        height: 47
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e8892633f77fc30800000000000000
+      internalID: 4393119820197432863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swallowed By Fire Effect_30
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 0
+        width: 145
+        height: 47
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb7ef4a31eb6a240800000000000000
+      internalID: 4802735044219010032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swallowed By Fire Effect_31
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 0
+        width: 145
+        height: 47
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: addb2d796daaef6e0800000000000000
+      internalID: -1801814962254725670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swallowed By Fire Effect_32
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 0
+        width: 145
+        height: 47
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c566dda29d93355d0800000000000000
+      internalID: -3075050515674077604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swallowed By Fire Effect_33
+      rect:
+        serializedVersion: 2
+        x: 2817
+        y: 0
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d12dd66cf573fd40b0a24384e9ce478
+      internalID: -1549365643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f6244e28221b55844abf9b58b8b34386
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Swallowed By Fire Effect_0: 4627904183289076223
+      Swallowed By Fire Effect_1: -809574415270986116
+      Swallowed By Fire Effect_10: -6247037937036883458
+      Swallowed By Fire Effect_11: -4442540724702254784
+      Swallowed By Fire Effect_12: -3484254085981681240
+      Swallowed By Fire Effect_13: 1182166913344827361
+      Swallowed By Fire Effect_14: -1755845505995080628
+      Swallowed By Fire Effect_15: 6880517294372921038
+      Swallowed By Fire Effect_16: 2118386308928926794
+      Swallowed By Fire Effect_17: -4013101922955747160
+      Swallowed By Fire Effect_18: 523640886098295219
+      Swallowed By Fire Effect_19: -8276222454049238911
+      Swallowed By Fire Effect_2: 3232567393690491770
+      Swallowed By Fire Effect_20: 3255236706136620404
+      Swallowed By Fire Effect_21: 898908046035579715
+      Swallowed By Fire Effect_22: 751986871782598721
+      Swallowed By Fire Effect_23: 4119036285990525576
+      Swallowed By Fire Effect_24: -6428755780150598570
+      Swallowed By Fire Effect_25: -6873942629167276643
+      Swallowed By Fire Effect_26: -8017093388763515960
+      Swallowed By Fire Effect_27: -3783126492185143763
+      Swallowed By Fire Effect_28: 2378404152388172099
+      Swallowed By Fire Effect_29: 4393119820197432863
+      Swallowed By Fire Effect_3: 6088822097051262816
+      Swallowed By Fire Effect_30: 4802735044219010032
+      Swallowed By Fire Effect_31: -1801814962254725670
+      Swallowed By Fire Effect_32: -3075050515674077604
+      Swallowed By Fire Effect_33: -1549365643
+      Swallowed By Fire Effect_4: -6803878597362945790
+      Swallowed By Fire Effect_5: 7759563655321635341
+      Swallowed By Fire Effect_6: -8627004702160735691
+      Swallowed By Fire Effect_7: -1793371489033817747
+      Swallowed By Fire Effect_8: 5098935262404053019
+      Swallowed By Fire Effect_9: -649516806845151505
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

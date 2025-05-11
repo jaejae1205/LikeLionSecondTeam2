@@ -9,6 +9,8 @@ TagManager:
   - InGameUI
   - NPC
   - Sign
+  - Ground
+  - Enemy
   layers:
   - Default
   - TransparentFX
@@ -17,8 +19,8 @@ TagManager:
   - Water
   - UI
   - Map
-  - 
-  - 
+  - Player
+  - Enemy
   - 
   - 
   - 
