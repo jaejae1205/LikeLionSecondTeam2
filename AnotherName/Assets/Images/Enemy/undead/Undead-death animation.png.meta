@@ -102,7 +102,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 80
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -206,10 +206,10 @@ TextureImporter:
       name: Undead-death animation_0
       rect:
         serializedVersion: 2
-        x: 33
-        y: 33
-        width: 30
-        height: 47
+        x: 0
+        y: 0
+        width: 96
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -228,10 +228,10 @@ TextureImporter:
       name: Undead-death animation_1
       rect:
         serializedVersion: 2
-        x: 124
-        y: 33
-        width: 33
-        height: 48
+        x: 96
+        y: 0
+        width: 96
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -250,10 +250,10 @@ TextureImporter:
       name: Undead-death animation_2
       rect:
         serializedVersion: 2
-        x: 219
-        y: 33
-        width: 33
-        height: 49
+        x: 192
+        y: 0
+        width: 96
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -272,10 +272,10 @@ TextureImporter:
       name: Undead-death animation_3
       rect:
         serializedVersion: 2
-        x: 313
-        y: 35
-        width: 32
-        height: 44
+        x: 288
+        y: 0
+        width: 96
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -294,10 +294,10 @@ TextureImporter:
       name: Undead-death animation_4
       rect:
         serializedVersion: 2
-        x: 402
-        y: 36
-        width: 35
-        height: 41
+        x: 384
+        y: 0
+        width: 96
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -316,10 +316,10 @@ TextureImporter:
       name: Undead-death animation_5
       rect:
         serializedVersion: 2
-        x: 490
-        y: 34
-        width: 36
-        height: 29
+        x: 480
+        y: 0
+        width: 96
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -338,10 +338,10 @@ TextureImporter:
       name: Undead-death animation_6
       rect:
         serializedVersion: 2
-        x: 512
-        y: 54
-        width: 22
-        height: 23
+        x: 576
+        y: 0
+        width: 96
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -360,10 +360,10 @@ TextureImporter:
       name: Undead-death animation_7
       rect:
         serializedVersion: 2
-        x: 586
-        y: 31
-        width: 35
-        height: 32
+        x: 672
+        y: 0
+        width: 96
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -382,10 +382,10 @@ TextureImporter:
       name: Undead-death animation_8
       rect:
         serializedVersion: 2
-        x: 608
-        y: 51
-        width: 22
-        height: 26
+        x: 768
+        y: 0
+        width: 96
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -404,10 +404,10 @@ TextureImporter:
       name: Undead-death animation_9
       rect:
         serializedVersion: 2
-        x: 682
-        y: 31
-        width: 47
-        height: 46
+        x: 864
+        y: 0
+        width: 96
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -426,10 +426,10 @@ TextureImporter:
       name: Undead-death animation_10
       rect:
         serializedVersion: 2
-        x: 778
-        y: 31
-        width: 35
-        height: 32
+        x: 960
+        y: 0
+        width: 96
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -448,10 +448,10 @@ TextureImporter:
       name: Undead-death animation_11
       rect:
         serializedVersion: 2
-        x: 801
-        y: 44
-        width: 27
-        height: 28
+        x: 1056
+        y: 0
+        width: 96
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -466,143 +466,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: Undead-death animation_12
-      rect:
-        serializedVersion: 2
-        x: 874
-        y: 31
-        width: 35
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9abbdd96ae16badd0800000000000000
-      internalID: -2473775910883574871
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Undead-death animation_13
-      rect:
-        serializedVersion: 2
-        x: 896
-        y: 44
-        width: 27
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: af8bf6a2eeb707fd0800000000000000
-      internalID: -2346239143015630598
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Undead-death animation_14
-      rect:
-        serializedVersion: 2
-        x: 970
-        y: 31
-        width: 35
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d3606843fe997df90800000000000000
-      internalID: -6928900249028786627
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Undead-death animation_15
-      rect:
-        serializedVersion: 2
-        x: 992
-        y: 44
-        width: 15
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 658efcf68c6e3c230800000000000000
-      internalID: 3658021070898718806
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Undead-death animation_16
-      rect:
-        serializedVersion: 2
-        x: 1066
-        y: 31
-        width: 35
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 082f3134edf369320800000000000000
-      internalID: 2564307261674746496
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Undead-death animation_17
-      rect:
-        serializedVersion: 2
-        x: 1088
-        y: 44
-        width: 15
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ddebcc309e52a6db0800000000000000
-      internalID: -4797980770288484643
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 0ea6fdae356fb9a459a58d3b74e4c27e
     internalID: 0
     vertices: []
     indices: 
@@ -611,7 +479,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Undead-death animation_0: -1550772567354892308
+      Undead-death animation_1: 8514040747962801789
+      Undead-death animation_10: -1967965317218247479
+      Undead-death animation_11: 5926888560182626435
+      Undead-death animation_2: -4651623210451831998
+      Undead-death animation_3: -7962086150980888335
+      Undead-death animation_4: 2113437005864934505
+      Undead-death animation_5: -3458673397091956673
+      Undead-death animation_6: -1437288405148535027
+      Undead-death animation_7: 1669362572730439699
+      Undead-death animation_8: 8529015548978595740
+      Undead-death animation_9: -6414532256806120174
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

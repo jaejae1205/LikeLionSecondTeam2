@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      cultist_priest_walk_3_0: 5974109437866653750
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

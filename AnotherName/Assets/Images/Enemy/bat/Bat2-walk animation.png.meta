@@ -361,7 +361,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bat2-walk animation_0: -5467614089638234826
+      Bat2-walk animation_1: -6310145568740434841
+      Bat2-walk animation_2: 5888755954363313142
+      Bat2-walk animation_3: -8039142478602585860
+      Bat2-walk animation_4: -263723892433643951
+      Bat2-walk animation_5: 9023631204189257007
+      Bat2-walk animation_6: -3909550727881011168
+      Bat2-walk animation_7: -3863718555780953690
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

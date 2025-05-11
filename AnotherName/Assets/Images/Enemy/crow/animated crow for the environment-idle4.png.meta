@@ -236,7 +236,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      animated crow for the environment-idle4_0: 2311243722555401668
+      animated crow for the environment-idle4_1: 9036903156966435720
+      animated crow for the environment-idle4_2: 6569085389231648921
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

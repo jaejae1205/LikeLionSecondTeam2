@@ -336,7 +336,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bat-walk to atk instance transition animation_0: -262754878433623638
+      Bat-walk to atk instance transition animation_1: 9127342628054851213
+      Bat-walk to atk instance transition animation_2: -1854451933791499008
+      Bat-walk to atk instance transition animation_3: 2649535031081668695
+      Bat-walk to atk instance transition animation_4: -9180489049026130075
+      Bat-walk to atk instance transition animation_5: 2263731907343307410
+      Bat-walk to atk instance transition animation_6: -7637658585906047532
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

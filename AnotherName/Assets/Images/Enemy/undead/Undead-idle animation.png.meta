@@ -72,7 +72,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 80
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -176,10 +176,10 @@ TextureImporter:
       name: Undead-idle animation_0
       rect:
         serializedVersion: 2
-        x: 32
-        y: 33
-        width: 31
-        height: 48
+        x: 0
+        y: 0
+        width: 96
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -198,10 +198,10 @@ TextureImporter:
       name: Undead-idle animation_1
       rect:
         serializedVersion: 2
-        x: 127
-        y: 33
-        width: 32
-        height: 47
+        x: 96
+        y: 0
+        width: 96
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -220,10 +220,10 @@ TextureImporter:
       name: Undead-idle animation_2
       rect:
         serializedVersion: 2
-        x: 224
-        y: 33
-        width: 31
-        height: 47
+        x: 192
+        y: 0
+        width: 96
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -242,10 +242,10 @@ TextureImporter:
       name: Undead-idle animation_3
       rect:
         serializedVersion: 2
-        x: 321
-        y: 33
-        width: 30
-        height: 46
+        x: 288
+        y: 0
+        width: 96
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -264,10 +264,10 @@ TextureImporter:
       name: Undead-idle animation_4
       rect:
         serializedVersion: 2
-        x: 417
-        y: 33
-        width: 30
-        height: 46
+        x: 384
+        y: 0
+        width: 96
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -286,10 +286,10 @@ TextureImporter:
       name: Undead-idle animation_5
       rect:
         serializedVersion: 2
-        x: 513
-        y: 33
-        width: 30
-        height: 46
+        x: 480
+        y: 0
+        width: 96
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -308,10 +308,10 @@ TextureImporter:
       name: Undead-idle animation_6
       rect:
         serializedVersion: 2
-        x: 609
-        y: 33
-        width: 30
-        height: 47
+        x: 576
+        y: 0
+        width: 96
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -330,10 +330,10 @@ TextureImporter:
       name: Undead-idle animation_7
       rect:
         serializedVersion: 2
-        x: 705
-        y: 33
-        width: 30
-        height: 47
+        x: 672
+        y: 0
+        width: 96
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -352,7 +352,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 0931d488672207c489b58b54444738ca
     internalID: 0
     vertices: []
     indices: 
@@ -361,7 +361,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Undead-idle animation_0: 2164915748615219271
+      Undead-idle animation_1: -1100691342301278989
+      Undead-idle animation_2: 2571564349426277193
+      Undead-idle animation_3: 6642454871086836939
+      Undead-idle animation_4: -5094676043617261956
+      Undead-idle animation_5: -2513398457870328633
+      Undead-idle animation_6: -7970687458767980644
+      Undead-idle animation_7: -4672149880977779961
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
